@@ -3,7 +3,6 @@ git@github.com:geekuillaume/Freader.git
 git@github.com:angular-app/angular-app.git
 git@github.com:clouddueling/angular-authentication-example.git
 git@github.com:clouddueling/angular-common.git
-git@github.com:angular/angular-phonecat.git
 git@github.com:angular/angular-seed.git
 git@github.com:angular/angular.js.git
 git@github.com:haukurk/angularjs-app-seed.git
@@ -13,4 +12,3 @@ git@github.com:angular/dashboard.angularjs.org.git
 git@github.com:callmehiphop/mario-cards.git
 git@github.com:neoskop/ng-boilerplate.git
 git@github.com:tekpub/ng-mongo.git
-git@github.com:jimrhoskins/ngmodules.org.git
