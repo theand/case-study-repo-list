@@ -5,7 +5,12 @@
 function get_all_git_origin(){
     for DIR in *;
     do
-        [[ -d $DIR ]] && [[ -d $DIR/.git ]] && cd $DIR && git config --get remote.origin.url && cd .. ;
+        if [[ -d $DIR ]] && [[ -d $DIR/.git ]] 
+        then
+           cd $DIR ;
+           git config --get remote.origin.url ;
+           cd .. ;
+       fi
     done
 }
 
@@ -13,9 +18,12 @@ function get_all_git_origin(){
 function get_git_origin_from_txt(){
     while read line;
     do
-        cd $line ;
-        git config --get remote.origin.url ;
-        cd ..;
+        if [[ -d $line ]] 
+        then
+            cd $line ;
+            git config --get remote.origin.url ;
+            cd ..;
+        fi
     done < $1
 }
 
@@ -35,7 +43,18 @@ function update_git_all(){
     for DIR in *;
     do
         echo "Processing : $DIR/"
-        [[ -d $DIR ]] && [[ -d $DIR/.git ]] && cd $DIR && git pull && cd .. ;
+        if [[ -d $DIR ]] && [[ -d $DIR/.git ]] 
+        then
+            cd $DIR ;
+            if git pull ; 
+            then
+                echo "pull succeeded";
+            else
+                echo "git reset hard";
+                git reset --hard origin/master;
+            fi
+            cd .. ;
+        fi
     done
 }
 
@@ -46,8 +65,14 @@ function works_update_all(){
     for DIR in *.txt;
     do
         bname=$(basename "$DIR" .txt)
+        echo "==================="
         echo "Case Study : $bname"
-        [[ -d ../$bname ]] && cd ../$bname && update_git_all && cd ../case-study-repo-list;
+        if [[ -d ../$bname ]]
+        then
+            cd ../$bname ;
+            update_git_all ;
+            cd ../case-study-repo-list;
+        fi
     done
 }
 
@@ -57,6 +82,11 @@ function update_composer_all(){
     for DIR in *;
     do
         echo "Processing : $DIR/"
-        [[ -d $DIR ]] && [[ -e $DIR/composer.json ]]  && cd $DIR && composer update && cd .. ;
+        if [[ -d $DIR ]] && [[ -e $DIR/composer.json ]]  
+        then
+            cd $DIR ;
+            composer update ;
+            cd .. ;
+        fi
     done
 }
