@@ -42,9 +42,9 @@ function clone_repo_from_txt(){
 function update_git_all(){
     for DIR in *;
     do
-        echo "Processing : $DIR/"
         if [[ -d $DIR ]] && [[ -d $DIR/.git ]] 
         then
+            echo "Processing : $DIR/"
             cd $DIR ;
             if git pull ; 
             then
@@ -67,6 +67,7 @@ function works_update_all(){
         bname=$(basename "$DIR" .txt)
         echo "==================="
         echo "Case Study : $bname"
+        echo "==================="
         if [[ -d ../$bname ]]
         then
             cd ../$bname ;
