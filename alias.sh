@@ -5,7 +5,7 @@
 function get_all_git_origin(){
     for DIR in *;
     do
-        if [[ -d $DIR ]] && [[ -d $DIR/.git ]] 
+        if [[ -d $DIR ]] && [[ -d $DIR/.git ]]
         then
            cd $DIR ;
            git config --get remote.origin.url ;
@@ -18,7 +18,7 @@ function get_all_git_origin(){
 function get_git_origin_from_txt(){
     while read line;
     do
-        if [[ -d $line ]] 
+        if [[ -d $line ]]
         then
             cd $line ;
             git config --get remote.origin.url ;
@@ -42,15 +42,15 @@ function clone_repo_from_txt(){
 function update_git_all(){
     for DIR in *;
     do
-        if [[ -d $DIR ]] && [[ -d $DIR/.git ]] 
+        if [[ -d $DIR ]] && [[ -d $DIR/.git ]]
         then
             echo "Processing : $DIR/"
             cd $DIR ;
-            if git pull ; 
+            if git pull ;
             then
                 echo "pull succeeded";
             else
-                echo "git reset hard";
+                echo "!!!git reset hard!!!";
                 git reset --hard origin/master;
             fi
             cd .. ;
@@ -60,11 +60,10 @@ function update_git_all(){
 
 
 function works_update_all(){
-    cd ~/Works/case-study-repo-list
-    #cd /var/www
+    cd ~/Works/case-study-repo-list;
     for DIR in *.txt;
     do
-        bname=$(basename "$DIR" .txt)
+        bname=$(basename "$DIR" .txt);
         echo "==================="
         echo "Case Study : $bname"
         echo "==================="
@@ -83,7 +82,7 @@ function update_composer_all(){
     for DIR in *;
     do
         echo "Processing : $DIR/"
-        if [[ -d $DIR ]] && [[ -e $DIR/composer.json ]]  
+        if [[ -d $DIR ]] && [[ -e $DIR/composer.json ]]
         then
             cd $DIR ;
             composer update ;
