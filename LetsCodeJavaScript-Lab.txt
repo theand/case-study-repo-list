@@ -1,0 +1,6 @@
+git@github.com:jamesshore/lab10_react.git
+git@github.com:jamesshore/lab1_grunt_shootout.git
+git@github.com:jamesshore/lab4_testem.git
+git@github.com:jamesshore/lab5_casperjs.git
+git@github.com:jamesshore/lab6_legacy_code.git
+git@github.com:jamesshore/simplebuild.git

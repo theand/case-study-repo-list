@@ -10,7 +10,7 @@ function get_all_git_origin(){
            cd $DIR ;
            git config --get remote.origin.url ;
            cd .. ;
-       fi
+        fi
     done
 }
 

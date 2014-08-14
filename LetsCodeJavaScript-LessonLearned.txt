@@ -1,0 +1,15 @@
+git@github.com:jamesshore/automatopia.git
+git@github.com:jamesshore/Lessons-Learned-CI-Git.git
+git@github.com:jamesshore/Lessons-Learned-Cross-Browser-Testing.git
+git@github.com:jamesshore/Lessons-Learned-Deploying-Node-Heroku.git
+git@github.com:jamesshore/Lessons-Learned-Integration-Testing-Node.git
+git@github.com:jamesshore/Lessons-Learned-Lint-Javascript.git
+git@github.com:jamesshore/Lessons-Learned-Smoke-Testing-Node.git
+git@github.com:jamesshore/Lessons-Learned-TDD-NodeUnit.git
+git@github.com:jamesshore/Lessons-Learned-Unit-Testing-DOM-Manipulation.git
+git@github.com:jamesshore/ll11_front_end_unit_testing.git
+git@github.com:jamesshore/ll13_phantomjs_smoke_test.git
+git@github.com:jamesshore/ll14_front_end_modules.git
+git@github.com:jamesshore/ll15_large_scale_javascript.git
+git@github.com:jamesshore/ll9_unit_test_strategies.git
+git@github.com:jamesshore/object_playground.git
