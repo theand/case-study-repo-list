@@ -90,3 +90,11 @@ function update_composer_all(){
         fi
     done
 }
+
+
+function reset_git_origin(){
+    if [[ -d .git ]]
+    then
+        git reset --hard origin/master
+    fi
+}
