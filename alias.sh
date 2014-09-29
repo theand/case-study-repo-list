@@ -3,7 +3,7 @@
 
 #서브디렉토리들의 git remote 저장소 주소를 뽑아내기.
 function get_all_git_origin(){
-    for DIR in *;
+    for DIR in `ls`;
     do
         if [[ -d $DIR ]] && [[ -d $DIR/.git ]]
         then
@@ -40,7 +40,7 @@ function clone_repo_from_txt(){
 
 #서브디렉토리의 모든 git 저장소를 업데이트.
 function update_git_all(){
-    for DIR in *;
+    for DIR in `ls`;
     do
         if [[ -d $DIR ]] && [[ -d $DIR/.git ]]
         then
@@ -79,7 +79,7 @@ function works_update_all(){
 #################
 
 function update_composer_all(){
-    for DIR in *;
+    for DIR in `ls`;
     do
         echo "Processing : $DIR/"
         if [[ -d $DIR ]] && [[ -e $DIR/composer.json ]]
