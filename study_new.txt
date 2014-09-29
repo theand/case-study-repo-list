@@ -1,0 +1,3 @@
+git@github.com:theand/CodeKata.git
+git@github.com:theand/bwapp.git
+git@github.com:theand/study-note.git
