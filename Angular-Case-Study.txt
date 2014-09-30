@@ -11,7 +11,6 @@ git@github.com:angular/builtwith.angularjs.org.git
 git@github.com:angular/dashboard.angularjs.org.git
 git@github.com:eggheadio/egghead-angularjs-from-scratch-getting-started.git
 git@github.com:callmehiphop/mario-cards.git
-git@github.com:neoskop/ng-boilerplate.git
 git@github.com:tekpub/ng-mongo.git
 git@github.com:jimrhoskins/ngmodules.org.git
 git@github.com:Stamplay/stamplay-foodme.git
