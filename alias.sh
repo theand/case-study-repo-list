@@ -145,3 +145,51 @@ function create_txt_for_all_casestudy(){
     cd ..
 
 }
+
+
+
+
+################
+function clone_repo_for_all_casestudy(){
+
+    cd ~/Works
+
+    cd Angular-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/Angular-Case-Study.txt
+
+    cd ../General-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/General-Case-Study.txt
+
+    cd ../Java-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/Java-Case-Study.txt
+
+    cd ../JavaScript-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/JavaScript-Case-Study.txt
+
+    cd ../Laracast/
+    clone_repo_from_txt ../case-study-repo-list/Laracast.txt
+
+    cd ../Laravel-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/Laravel-Case-Study.txt
+
+    cd ../LetsCodeJavaScript-Lab/
+    clone_repo_from_txt ../case-study-repo-list/LetsCodeJavaScript-Lab.txt
+
+    cd ../LetsCodeJavaScript-LessonLearned/
+    clone_repo_from_txt ../case-study-repo-list/LetsCodeJavaScript-LessonLearned.txt
+
+    cd ../My-Study-Material/
+    clone_repo_from_txt ../case-study-repo-list/My-Study-Material.txt
+
+    cd ../My-Translation-Work/
+    clone_repo_from_txt ../case-study-repo-list/My-Translation-Work.txt
+
+    cd ../Ruby-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/Ruby-Case-Study.txt
+
+    cd ../TutsPlus-Resources/
+    clone_repo_from_txt ../case-study-repo-list/TutsPlus-Resources.txt
+
+    cd ..
+
+}
