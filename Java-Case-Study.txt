@@ -1,4 +1,5 @@
 git@github.com:joshlong/boot-it-up.git
+git@github.com:FabienLauf/expedia-backendtest.git
 git@github.com:spring-guides/getting-started-guides.git
 git@github.com:spring-guides/getting-started-macros.git
 git@github.com:spring-guides/gs-accessing-data-jpa.git
@@ -46,6 +47,7 @@ git@github.com:spring-projects/spring-data-examples.git
 git@github.com:spring-projects/spring-data-jpa-examples.git
 git@github.com:spring-projects/spring-mobile-samples.git
 git@github.com:spring-projects/spring-mvc-showcase.git
+git@github.com:FabienLauf/spring-petclinic.git
 git@github.com:spring-projects/spring-social-samples.git
 git@github.com:composite/spring4-mvc-embed-tomcat7-example.git
 git@github.com:kiranreddykasa/springrest-angularjs.git
