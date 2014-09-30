@@ -1,8 +1,0 @@
-git@github.com:theand/Laravel4-lang.git
-git@github.com:mgechev/angularjs-style-guide.git
-git@github.com:php-fig/fig-standards.git
-git@github.com:laravel/docs.git
-git@github.com:thisiskaden/laravel4-docs-korean.git
-git@github.com:thisiskaden/laravel4-lang-korean.git
-git@github.com:codeguy/php-the-right-way.git
-git@github.com:wafe/php-the-right-way.git

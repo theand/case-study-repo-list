@@ -1,1 +1,0 @@
-git@github.com:jamesshore/lets_code_javascript.git
