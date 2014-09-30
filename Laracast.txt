@@ -23,6 +23,7 @@ git@github.com:laracasts/Laravel-and-Angular-Goodness.git
 git@github.com:laracasts/PHP-Vars-To-Js-Transformer.git
 git@github.com:laracasts/PHPSpec-Laravel-and-Refactoring.git
 git@github.com:laracasts/PHPSpec-Rocks.git
+git@github.com:laracasts/Pusher-Lesson.git
 git@github.com:laracasts/Presenter.git
 git@github.com:laracasts/Reports-and-Graphs.git
 git@github.com:laracasts/Reusable-Repositories.git

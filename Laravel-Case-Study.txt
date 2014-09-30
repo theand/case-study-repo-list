@@ -14,13 +14,15 @@ git@github.com:larapress-cms/larapress.git
 git@github.com:laravel/laravel.git
 git@github.com:yhbyun/laravel-bookmark.git
 git@github.com:davzie/laravel-bootstrap.git
+git@github.com:laravel-kor/laravel.co.kr.git
 git@github.com:laravel/framework.git
 git@github.com:LaravelIO/laravel.io.git
 git@github.com:thisiskaden/laravel-korea.git
-git@github.com:ChuckHeintzelman/laravel-recipes.git
-git@github.com:CodepadME/laravel-tricks.git
-git@github.com:laravel/website.git
 git@github.com:moon0326/laravel.link.git
+git@github.com:ChuckHeintzelman/laravel-recipes.git
+git@github.com:basco-johnkevin/laravelsnippets.git
+git@github.com:CodepadME/laravel-tricks.git
+git@github.com:laravel/laravel.com.git
 git@github.com:efusionsoft/mis.git
 git@github.com:msurguy/missingpetflyer.git
 git@github.com:octobercms/october.git
@@ -30,6 +32,7 @@ git@github.com:openadult/openadult.git
 git@github.com:pyrocms/pyrocms.git
 git@github.com:raftalks/ravel.git
 git@github.com:sahibalejandro/admin.git
+git@github.com:Codeception/sample-l4-app.git
 git@github.com:MrJuliuss/syntara.git
 git@github.com:wardrobecms/core.git
 git@github.com:wardrobecms/wardrobe.git

@@ -14,3 +14,4 @@ git@github.com:callmehiphop/mario-cards.git
 git@github.com:neoskop/ng-boilerplate.git
 git@github.com:tekpub/ng-mongo.git
 git@github.com:jimrhoskins/ngmodules.org.git
+git@github.com:Stamplay/stamplay-foodme.git

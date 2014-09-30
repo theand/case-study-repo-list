@@ -1,1 +1,2 @@
 git@github.com:jamesshore/lets_code_javascript.git
+git@github.com:andersjanmyr/promise-lab.git
