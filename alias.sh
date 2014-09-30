@@ -98,3 +98,50 @@ function reset_git_origin(){
         git reset --hard origin/master
     fi
 }
+
+
+
+################
+function create_txt_for_all_casestudy(){
+
+    cd ~/Works
+
+    cd Angular-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/angular_new.txt
+
+    cd ../General-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/general_new.txt
+
+    cd ../Java-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/java_new.txt
+
+    cd ../JavaScript-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/javascript_new.txt
+
+    cd ../Laracast/
+    get_all_git_origin > ../case-study-repo-list/laracast_new.txt
+
+    cd ../Laravel-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/laravel_new.txt
+
+    cd ../LetsCodeJavaScript-Lab/
+    get_all_git_origin > ../case-study-repo-list/lets_lab_new.txt
+
+    cd ../LetsCodeJavaScript-LessonLearned/
+    get_all_git_origin > ../case-study-repo-list/lets_lesson_new.txt
+
+    cd ../My-Study-Material/
+    get_all_git_origin > ../case-study-repo-list/study_new.txt
+
+    cd ../My-Translation-Work/
+    get_all_git_origin > ../case-study-repo-list/trans_new.txt
+
+    cd ../Ruby-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/ruby_new.txt
+
+    cd ../TutsPlus-Resources/
+    get_all_git_origin > ../case-study-repo-list/tuts_new.txt
+
+    cd ..
+
+}
