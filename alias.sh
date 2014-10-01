@@ -115,6 +115,9 @@ function create_txt_for_all_casestudy(){
     cd ../Java-Case-Study/
     get_all_git_origin > ../case-study-repo-list/java_new.txt
 
+    cd ../SpringGuides-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/spring_new.txt
+
     cd ../JavaScript-Case-Study/
     get_all_git_origin > ../case-study-repo-list/javascript_new.txt
 
@@ -162,6 +165,9 @@ function clone_repo_for_all_casestudy(){
 
     cd ../Java-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/Java-Case-Study.txt
+
+    cd ../SpringGuides-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/SpringGuides-Case-Study.txt
 
     cd ../JavaScript-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/JavaScript-Case-Study.txt
