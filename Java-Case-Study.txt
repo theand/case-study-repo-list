@@ -6,6 +6,7 @@ git@github.com:google/guice.git
 git@github.com:verekia/initializr.git
 git@github.com:jhipster/jhipster-sample-app.git
 git@github.com:jknack/modern-web-app.git
+git@github.com:loslch/NHNGuestBook.git
 git@github.com:dankle/pdfmerger.git
 git@github.com:dankle/secure-rest-sample.git
 git@github.com:composite/spring4-mvc-embed-tomcat7-example.git
