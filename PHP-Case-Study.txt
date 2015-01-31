@@ -1,0 +1,1 @@
+git@github.com:theand/bwapp.git
