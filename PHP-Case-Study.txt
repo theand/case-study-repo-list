@@ -1,1 +1,2 @@
-git@github.com:theand/bwapp.git
+git://git.code.sf.net/p/bwapp/code
+git@github.com:codeguy/modern-php.git
