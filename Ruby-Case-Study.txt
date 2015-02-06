@@ -1,1 +1,9 @@
+git@github.com:rorlakr/blog.git
+git@github.com:rorlakr/blog_season_4.git
+git@github.com:nacyot/my_awesome_ruby_project.git
+git@github.com:parkeugene/playground.git
 git@github.com:OWASP/railsgoat.git
+git@github.com:rorlakr/rcafe.git
+git@github.com:rorlakr/rorla.git
+git@github.com:rorlakr/rorla_api.git
+git@github.com:rorlakr/wants.git
