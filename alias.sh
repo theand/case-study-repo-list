@@ -44,7 +44,7 @@ function update_git_all(){
     do
         if [[ -d $DIR ]] && [[ -d $DIR/.git ]]
         then
-            echo "Processing : $DIR/"
+            echo "Processing : $DIR"
             cd $DIR ;
             if git pull ;
             then
@@ -61,7 +61,7 @@ function update_git_all(){
 
 function works_update_all(){
     cd ~/Works/case-study-repo-list;
-    for DIR in *.txt;
+    for DIR in *-*.txt;
     do
         bname=$(basename "$DIR" .txt);
         echo "==================="
@@ -81,7 +81,7 @@ function works_update_all(){
 function update_composer_all(){
     for DIR in `ls`;
     do
-        echo "Processing : $DIR/"
+        echo "Processing : $DIR"
         if [[ -d $DIR ]] && [[ -e $DIR/composer.json ]]
         then
             cd $DIR ;
@@ -108,6 +108,9 @@ function create_txt_for_all_casestudy(){
 
     cd Angular-Case-Study/
     get_all_git_origin > ../case-study-repo-list/angular_new.txt
+
+    cd ../FrontEnd-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/front_new.txt
 
     cd ../General-Case-Study/
     get_all_git_origin > ../case-study-repo-list/general_new.txt
@@ -163,6 +166,9 @@ function clone_repo_for_all_casestudy(){
     cd Angular-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/Angular-Case-Study.txt
 
+    cd FrontEnd-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/FrontEnd-Case-Study.txt
+
     cd ../General-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/General-Case-Study.txt
 
@@ -192,6 +198,9 @@ function clone_repo_for_all_casestudy(){
 
     cd ../My-Translation-Work/
     clone_repo_from_txt ../case-study-repo-list/My-Translation-Work.txt
+
+    cd ../PHP-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/PHP-Case-Study.txt
 
     cd ../Ruby-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/Ruby-Case-Study.txt
