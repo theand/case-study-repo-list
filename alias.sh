@@ -166,7 +166,7 @@ function clone_repo_for_all_casestudy(){
     cd Angular-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/Angular-Case-Study.txt
 
-    cd FrontEnd-Case-Study/
+    cd ../FrontEnd-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/FrontEnd-Case-Study.txt
 
     cd ../General-Case-Study/
