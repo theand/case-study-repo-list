@@ -1,5 +1,6 @@
 git@github.com:msurguy/Honeypot.git
 git@github.com:fideloper/Implementing-Laravel.git
+git@github.com:colindecarlo/Laraconway.git
 git@github.com:andrewelkins/Laravel-4-Bootstrap-Starter-Site.git
 git@github.com:web-tools/Raw.git
 git@github.com:sdebacker/TypiCMS.git
@@ -9,6 +10,8 @@ git@github.com:wardrobecms/core.git
 git@github.com:cribbb/cribbb.git
 git@github.com:lazychaser/cruddy.git
 git@github.com:simkbaio/ecnet-admin.git
+git@github.com:adamwathan/eloquent-oauth-example.git
+git@github.com:adamwathan/faktory-demo.git
 git@github.com:fideloper/fideloper.com.git
 git@github.com:laravel/framework.git
 git@github.com:LaravelCollective/html.git
@@ -28,6 +31,8 @@ git@github.com:moon0326/laravel.link.git
 git@github.com:LaravelCollective/laravelcollective.com.git
 git@github.com:basco-johnkevin/laravelsnippets.git
 git@github.com:octobercms/library.git
+git@github.com:adamwathan/liftranker.git
+git@github.com:bertog/litemedia-laravel4.git
 git@github.com:efusionsoft/mis.git
 git@github.com:msurguy/missingpetflyer.git
 git@github.com:octobercms/october.git
@@ -37,5 +42,6 @@ git@github.com:CodeSleeve/platform.git
 git@github.com:pyrocms/pyrocms.git
 git@github.com:raftalks/ravel.git
 git@github.com:Codeception/sample-l4-app.git
+git@github.com:mattstauffer/savemyproposals.git
 git@github.com:MrJuliuss/syntara.git
 git@github.com:wardrobecms/wardrobe.git

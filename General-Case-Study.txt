@@ -1,1 +1,2 @@
+git@github.com:josiahcarlson/redis-in-action.git
 git@github.com:andersjanmyr/roman-numerals-kata.git

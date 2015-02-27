@@ -1,4 +1,5 @@
 git@github.com:h5bp/Effeckt.css.git
+git@github.com:Thibaut/Snippets.git
 git@github.com:h5bp/ant-build-script.git
 git@github.com:h5bp/generator-h5bp.git
 git@github.com:h5bp/generator-mobile-boilerplate.git
@@ -7,6 +8,7 @@ git@github.com:h5bp/h5bp.github.io.git
 git@github.com:h5bp/html5-boilerplate.git
 git@github.com:h5bp/html5boilerplate.com.git
 git@github.com:verekia/initializr.git
+git@github.com:h5bp/mobile-boilerplate.git
 git@github.com:h5bp/server-configs-apache.git
 git@github.com:h5bp/server-configs-gae.git
 git@github.com:h5bp/server-configs-nginx.git

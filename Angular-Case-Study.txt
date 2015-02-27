@@ -1,5 +1,6 @@
 git@github.com:DanWahlin/CustomerManager.git
 git@github.com:geekuillaume/Freader.git
+git@github.com:kamranayub/Pluralsight-Angular.git
 git@github.com:angular-app/angular-app.git
 git@github.com:clouddueling/angular-authentication-example.git
 git@github.com:clouddueling/angular-common.git

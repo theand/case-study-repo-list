@@ -145,6 +145,9 @@ function create_txt_for_all_casestudy(){
     cd ../PHP-Case-Study/
     get_all_git_origin > ../case-study-repo-list/php_new.txt
 
+    cd ../Python-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/python_new.txt
+
     cd ../Ruby-Case-Study/
     get_all_git_origin > ../case-study-repo-list/ruby_new.txt
 
