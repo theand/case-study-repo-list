@@ -1,4 +1,5 @@
 git@github.com:theand/Laravel4-lang.git
+git@github.com:johnpapa/angular-styleguide.git
 git@github.com:mgechev/angularjs-style-guide.git
 git@github.com:laravel/docs.git
 git@github.com:php-fig/fig-standards.git

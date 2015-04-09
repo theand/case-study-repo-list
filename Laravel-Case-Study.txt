@@ -1,3 +1,4 @@
+git@github.com:chintanbanugaria/92five.git
 git@github.com:msurguy/Honeypot.git
 git@github.com:fideloper/Implementing-Laravel.git
 git@github.com:colindecarlo/Laraconway.git
@@ -14,6 +15,7 @@ git@github.com:adamwathan/eloquent-oauth-example.git
 git@github.com:adamwathan/faktory-demo.git
 git@github.com:fideloper/fideloper.com.git
 git@github.com:laravel/framework.git
+git@github.com:brianwebb01/hexagonal-laravel-experiment.git
 git@github.com:LaravelCollective/html.git
 git@github.com:hillelcoren/invoice-ninja.git
 git@github.com:machuga/l4-forums.git
@@ -22,6 +24,7 @@ git@github.com:laravel/laravel.git
 git@github.com:yhbyun/laravel-bookmark.git
 git@github.com:davzie/laravel-bootstrap.git
 git@github.com:thisiskaden/laravel-korea.git
+git@github.com:kdocki/laravel-presenter-example.git
 git@github.com:ChuckHeintzelman/laravel-recipes.git
 git@github.com:CodepadME/laravel-tricks.git
 git@github.com:laravel-kor/laravel.co.kr.git
@@ -38,6 +41,7 @@ git@github.com:msurguy/missingpetflyer.git
 git@github.com:octobercms/october.git
 git@github.com:chriskonnertz/open-graph.git
 git@github.com:openadult/openadult.git
+git@github.com:summerblue/phphub.git
 git@github.com:CodeSleeve/platform.git
 git@github.com:pyrocms/pyrocms.git
 git@github.com:raftalks/ravel.git

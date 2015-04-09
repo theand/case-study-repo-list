@@ -13,9 +13,12 @@ git@github.com:tutsplus/CoreData-Migrations.git
 git@github.com:tutsplus/CoreData-NSFetchedResultsController.git
 git@github.com:tutsplus/CoreData-RelationshipsMoreFetching.git
 git@github.com:tutsplus/CoreData-SubclassingNSManagedObject.git
+git@github.com:tutsplus/Deploy-a-Rails-App-With-Docker.git
 git@github.com:tutsplus/Dynamic-Dashboard-With-ChartJS.git
+git@github.com:tutsplus/Essential-Tools-For-JavaScript-Devs.git
 git@github.com:tutsplus/Expanding-Footer.git
 git@github.com:tutsplus/From-Procedural-to-Object-Oriented-PHP.git
+git@github.com:tutsplus/Getting-Started-With-Backbone.git
 git@github.com:tutsplus/Getting-Started-With-TypeScript.git
 git@github.com:tutsplus/Getting-started-with-Laravel-4.git
 git@github.com:tutsplus/Google-Chrome-Hegemony.git
@@ -24,6 +27,7 @@ git@github.com:tutsplus/Google-Maps-and-Custom-Overlays.git
 git@github.com:tutsplus/Google-Maps-and-Flickr-API.git
 git@github.com:tutsplus/HTML5-NetworkInformationAPI.git
 git@github.com:tutsplus/Life-Beyond-960px.git
+git@github.com:tutsplus/MongoDB-in-Ruby.git
 git@github.com:tutsplus/Multitenant-Apps-in-Laravel.git
 git@github.com:tutsplus/Node-for-frontend-devs.git
 git@github.com:tutsplus/Pure-CSS-Demo.git
@@ -52,6 +56,7 @@ git@github.com:tutsplus/buggy.git
 git@github.com:tutsplus/build-an-email-app-with-ruby.git
 git@github.com:tutsplus/build-complete-website-expressjs.git
 git@github.com:tutsplus/building-a-logger-in-sass.git
+git@github.com:tutsplus/building-chrome-extensions.git
 git@github.com:tutsplus/building-ribbit-in-scala.git
 git@github.com:tutsplus/building-your-own-pattern-library-for-the-web.git
 git@github.com:tutsplus/catch-up-with-rails-4-demo.git
@@ -94,6 +99,7 @@ git@github.com:tutsplus/intro-html5-node-webkit.git
 git@github.com:tutsplus/intro-to-express.git
 git@github.com:tutsplus/introducing-animate.css.git
 git@github.com:tutsplus/introduction-to-signalR.git
+git@github.com:tutsplus/introduction-to-wordpress-plugin-development.git
 git@github.com:tutsplus/jasmine-2.0.git
 git@github.com:tutsplus/javascript-for-php-developers.git
 git@github.com:tutsplus/javascript-unit-testing-mocha-chai-sinon.git
@@ -104,6 +110,7 @@ git@github.com:tutsplus/local-mirror-composer-satis.git
 git@github.com:tutsplus/maintain-consistency-with-a-website-style-guide.git
 git@github.com:tutsplus/mixin-driven-layouts.git
 git@github.com:tutsplus/money-patterns.git
+git@github.com:tutsplus/node-js-from-scratch.git
 git@github.com:tutsplus/nodejs-better-performance.git
 git@github.com:tutsplus/nodejs-websockets-chat-service.git
 git@github.com:tutsplus/one-two-knockout.git
@@ -118,6 +125,7 @@ git@github.com:tutsplus/pure-css.git
 git@github.com:tutsplus/quick-tip--simple-sticky-navigation-using-jquery.git
 git@github.com:tutsplus/rails-deployment-example.git
 git@github.com:tutsplus/real-world-offline-data-storage.git
+git@github.com:tutsplus/redis-applicable-to-ruby-app.git
 git@github.com:tutsplus/refactoring-complex-methods-part-6.git
 git@github.com:tutsplus/refactoring-legacy-code-inverting-part-8.git
 git@github.com:tutsplus/refactoring-legacy-code-part-5.git
@@ -149,8 +157,10 @@ git@github.com:tutsplus/testing-in-symfony2.git
 git@github.com:tutsplus/testing-ruby-with-rspec3.git
 git@github.com:tutsplus/the-holy-grail-of-css-centering.git
 git@github.com:tutsplus/travis-ci-what-why-how.git
+git@github.com:tutsplus/tut-functional-js.git
 git@github.com:tutsplus/tutsplus-django.git
 git@github.com:tutsplus/validation-exception-handling.git
 git@github.com:tutsplus/webgl-threejs-basics.git
+git@github.com:tutsplus/websocket-rails.git
 git@github.com:tutsplus/working-with-indexeddb.git
 git@github.com:tutsplus/working-with-indexeddb-part-two.git

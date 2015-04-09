@@ -1,1 +1,4 @@
+git@github.com:ckan/ckan.git
+git@github.com:ecolemo/djangobp.git
+git@github.com:localwiki/localwiki-backend-server.git
 git@github.com:perhapsspy/pylog.git

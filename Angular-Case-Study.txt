@@ -11,7 +11,12 @@ git@github.com:angular/angularjs.org.git
 git@github.com:angular/builtwith.angularjs.org.git
 git@github.com:angular/dashboard.angularjs.org.git
 git@github.com:eggheadio/egghead-angularjs-from-scratch-getting-started.git
+git@github.com:johnpapa/generator-hottowel.git
+git@github.com:angular/i-want-to-help.git
+git@github.com:mayajuni/johayoBlog.git
 git@github.com:callmehiphop/mario-cards.git
+git@github.com:angular/material-start.git
 git@github.com:tekpub/ng-mongo.git
 git@github.com:jimrhoskins/ngmodules.org.git
+git@github.com:angular/quickstart.git
 git@github.com:Stamplay/stamplay-foodme.git

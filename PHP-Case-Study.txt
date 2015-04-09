@@ -1,2 +1,12 @@
+git@github.com:NucleusCMS/NucleusCMS.git
+git@github.com:Needlworks/Textcube.git
+git@github.com:ThinkUpLLC/ThinkUp.git
 git://git.code.sf.net/p/bwapp/code
+git@github.com:frozeman/feindura-flat-file-cms.git
+git@github.com:forkcms/forkcms.git
 git@github.com:codeguy/modern-php.git
+git@github.com:alexandrezia/phpscheduleit.git
+git@github.com:Pligg/pligg-cms.git
+git@github.com:d3m3vilurr/soojung.git
+git@github.com:kolber/stacey.git
+git@github.com:graulund/tweetnest.git
