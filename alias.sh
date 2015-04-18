@@ -208,6 +208,9 @@ function clone_repo_for_all_casestudy(){
     cd ../Ruby-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/Ruby-Case-Study.txt
 
+    cd ../Python-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/Python-Case-Study.txt
+
     cd ../TutsPlus-Resources/
     clone_repo_from_txt ../case-study-repo-list/TutsPlus-Resources.txt
 
