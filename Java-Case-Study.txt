@@ -5,6 +5,7 @@ git@github.com:loslch/NHNGuestBook.git
 git@github.com:jdubois/Tudu-Lists.git
 git@github.com:WebGoat/WebGoat.git
 git@github.com:arquillian/arquillian-showcase.git
+git@github.com:brunobat/basic-testing-webapp.git
 git@github.com:joshlong/boot-it-up.git
 git@github.com:debop/connectionpool-benchmark.git
 git@github.com:FabienLauf/expedia-backendtest.git
@@ -20,9 +21,15 @@ git@github.com:SpringOne2GX-2014/messaging-improvements.git
 git@github.com:jknack/modern-web-app.git
 git@github.com:SpringOne2GX-2014/monty-python-trivia.git
 git@github.com:javajigi/mvp-examples.git
+git@github.com:kenu/mybatis-examples.git
 git@github.com:javajigi/next-board.git
+git@github.com:kenu/okdevtv.git
+git@github.com:okjsp/okjsp-site.git
+git@github.com:okjsp/okky.git
 git@github.com:dankle/pdfmerger.git
+git@github.com:spring-io/platform-foundation.git
 git@github.com:olivergierke/repositories-deepdive.git
+git@github.com:spring-io/sagan.git
 git@github.com:dankle/secure-rest-sample.git
 git@github.com:javajigi/slipp.git
 git@github.com:javajigi/slipp-v1.git
@@ -32,6 +39,7 @@ git@github.com:javajigi/slipping.git
 git@github.com:robharrop/spring-angularjs.git
 git@github.com:debop/spring-batch-experiments.git
 git@github.com:SpringOne2GX-2014/spring-batch-performance-tuning.git
+git@github.com:spring-projects/spring-boot.git
 git@github.com:SpringOne2GX-2014/spring-boot-for-the-web-tier.git
 git@github.com:spring-projects/spring-data-book.git
 git@github.com:spring-projects/spring-data-document-examples.git
@@ -39,6 +47,8 @@ git@github.com:spring-projects/spring-data-examples.git
 git@github.com:spring-projects/spring-data-jpa-examples.git
 git@github.com:spring-projects/spring-data-keyvalue-examples.git
 git@github.com:spring-projects/spring-framework.git
+git@github.com:spring-io/initializr.git
+git@github.com:spring-io/platform.git
 git@github.com:spring-projects/spring-mobile-samples.git
 git@github.com:spring-projects/spring-mvc-showcase.git
 git@github.com:FabienLauf/spring-petclinic.git

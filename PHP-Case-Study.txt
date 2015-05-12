@@ -10,3 +10,5 @@ git@github.com:Pligg/pligg-cms.git
 git@github.com:d3m3vilurr/soojung.git
 git@github.com:kolber/stacey.git
 git@github.com:graulund/tweetnest.git
+git@github.com:josephernest/void.git
+git@github.com:xpressengine/xe-core.git

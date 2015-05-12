@@ -46,6 +46,7 @@ git@github.com:tutsplus/a-beginner-s-introduction-to-css-animation.git
 git@github.com:tutsplus/a-simple-responsive-grid-made-even-better-with-sass.git
 git@github.com:tutsplus/a-simple-responsive-html-email.git
 git@github.com:tutsplus/advanced-backbone-patterns-and-techniques.git
+git@github.com:tutsplus/advanced-oop-in-php-with-tests.git
 git@github.com:tutsplus/authentication-with-ruby.git
 git@github.com:tutsplus/automated-testing-with-php.git
 git@github.com:tutsplus/away.git
@@ -63,6 +64,7 @@ git@github.com:tutsplus/catch-up-with-rails-4-demo.git
 git@github.com:tutsplus/cleat.git
 git@github.com:tutsplus/conversational-web-forms.git
 git@github.com:tutsplus/create-a-single-page--about-me--site-with-prepros--jade---stylus.git
+git@github.com:tutsplus/creating-angular-directives.git
 git@github.com:tutsplus/css-experiments-with-form-field-animation.git
 git@github.com:tutsplus/cucumber-blog-example.git
 git@github.com:tutsplus/design-patterns-in-ruby.git
@@ -102,6 +104,7 @@ git@github.com:tutsplus/introduction-to-signalR.git
 git@github.com:tutsplus/introduction-to-wordpress-plugin-development.git
 git@github.com:tutsplus/jasmine-2.0.git
 git@github.com:tutsplus/javascript-for-php-developers.git
+git@github.com:tutsplus/javascript-fundamentals.git
 git@github.com:tutsplus/javascript-unit-testing-mocha-chai-sinon.git
 git@github.com:tutsplus/laravel-4-authentication.git
 git@github.com:tutsplus/learning-mongodb.git

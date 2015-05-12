@@ -7,4 +7,4 @@ git@github.com:laravel-kor/docs.git
 git@github.com:thisiskaden/laravel4-docs-korean.git
 git@github.com:thisiskaden/laravel4-lang-korean.git
 git@github.com:codeguy/php-the-right-way.git
-git@github.com:wafe/php-the-right-way.git
+git@github.com:ModernPUG/php-the-right-way.git
