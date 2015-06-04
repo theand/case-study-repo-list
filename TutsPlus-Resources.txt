@@ -107,6 +107,7 @@ git@github.com:tutsplus/javascript-for-php-developers.git
 git@github.com:tutsplus/javascript-fundamentals.git
 git@github.com:tutsplus/javascript-unit-testing-mocha-chai-sinon.git
 git@github.com:tutsplus/laravel-4-authentication.git
+git@github.com:tutsplus/learn-to-code-with-ruby.git
 git@github.com:tutsplus/learning-mongodb.git
 git@github.com:tutsplus/lemonade.git
 git@github.com:tutsplus/local-mirror-composer-satis.git
@@ -141,6 +142,7 @@ git@github.com:tutsplus/rss-feed-reader-mean-stack.git
 git@github.com:tutsplus/ruby-metaprogramming-exercise.git
 git@github.com:tutsplus/ruby-refactoring.git
 git@github.com:tutsplus/scrumptious.git
+git@github.com:tutsplus/securing-an-angularjs-application.git
 git@github.com:tutsplus/self-hosted-php-sql-leaderboard.git
 git@github.com:tutsplus/setting-up-firebase.git
 git@github.com:tutsplus/setup-recurring-payments.git
