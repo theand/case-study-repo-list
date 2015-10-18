@@ -1,3 +1,4 @@
+git@github.com:almasaeed2010/AdminLTE.git
 git@github.com:h5bp/Effeckt.css.git
 git@github.com:Thibaut/Snippets.git
 git@github.com:h5bp/ant-build-script.git
@@ -14,3 +15,4 @@ git@github.com:h5bp/server-configs-apache.git
 git@github.com:h5bp/server-configs-gae.git
 git@github.com:h5bp/server-configs-nginx.git
 git@github.com:h5bp/server-configs-node.git
+git@github.com:google/web-starter-kit.git

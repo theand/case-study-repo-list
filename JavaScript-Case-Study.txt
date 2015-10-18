@@ -1,11 +1,6 @@
-git@github.com:OWASP/NodeGoat.git
+git@github.com:getify/You-Dont-Know-JS.git
+git@github.com:tylermcginnis/github-notetaker-egghead.git
 git@github.com:jamesshore/lets_code_javascript.git
 git@github.com:lodash/lodash.git
 git@github.com:andersjanmyr/promise-lab.git
-git@github.com:drypot/rapixel.git
-git@github.com:tastejs/todomvc.git
-git@github.com:tastejs/todomvc-api.git
-git@github.com:tastejs/todomvc-app-css.git
-git@github.com:tastejs/todomvc-app-template.git
-git@github.com:tastejs/todomvc-common.git
 git@github.com:jashkenas/underscore.git
