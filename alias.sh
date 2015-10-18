@@ -124,6 +124,12 @@ function create_txt_for_all_casestudy(){
     cd ../JavaScript-Case-Study/
     get_all_git_origin > ../case-study-repo-list/javascript_new.txt
 
+    cd ../Electron-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/electron_new.txt
+
+    cd ../NodeJS-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/nodejs_new.txt
+
     cd ../Laracast/
     get_all_git_origin > ../case-study-repo-list/laracast_new.txt
 
@@ -150,6 +156,9 @@ function create_txt_for_all_casestudy(){
 
     cd ../Ruby-Case-Study/
     get_all_git_origin > ../case-study-repo-list/ruby_new.txt
+
+    cd ../Rails-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/rails_new.txt
 
     cd ../TutsPlus-Resources/
     get_all_git_origin > ../case-study-repo-list/tuts_new.txt
@@ -184,6 +193,12 @@ function clone_repo_for_all_casestudy(){
     cd ../JavaScript-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/JavaScript-Case-Study.txt
 
+    cd ../NodeJS-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/NodeJS-Case-Study.txt
+
+    cd ../Electron-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/Electron-Case-Study.txt
+
     cd ../Laracast/
     clone_repo_from_txt ../case-study-repo-list/Laracast.txt
 
@@ -207,6 +222,9 @@ function clone_repo_for_all_casestudy(){
 
     cd ../Ruby-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/Ruby-Case-Study.txt
+
+    cd ../Rails-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/Rails-Case-Study.txt
 
     cd ../Python-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/Python-Case-Study.txt
