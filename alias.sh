@@ -160,8 +160,8 @@ function create_txt_for_all_casestudy(){
     cd ../Rails-Case-Study/
     get_all_git_origin > ../case-study-repo-list/rails_new.txt
 
-    cd ../TutsPlus-Resources/
-    get_all_git_origin > ../case-study-repo-list/tuts_new.txt
+    #cd ../TutsPlus-Resources/
+    #get_all_git_origin > ../case-study-repo-list/tuts_new.txt
 
     cd ..
 
