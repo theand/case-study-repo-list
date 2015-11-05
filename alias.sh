@@ -67,7 +67,8 @@ function works_update_all(){
         echo "==================="
         echo "Case Study : $bname"
         echo "==================="
-        if [[ -d ../$bname ]]
+
+        if [[ -d ../$bname ]] && [[ $bname != "TutsPlus-Resources" ]] 
         then
             cd ../$bname ;
             update_git_all ;
@@ -121,8 +122,8 @@ function create_txt_for_all_casestudy(){
     cd ../SpringGuides-Case-Study/
     get_all_git_origin > ../case-study-repo-list/spring_new.txt
 
-    cd ../JavaScript-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/javascript_new.txt
+    cd ../JS-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/js_new.txt
 
     cd ../Electron-Case-Study/
     get_all_git_origin > ../case-study-repo-list/electron_new.txt
@@ -160,8 +161,8 @@ function create_txt_for_all_casestudy(){
     cd ../Rails-Case-Study/
     get_all_git_origin > ../case-study-repo-list/rails_new.txt
 
-    #cd ../TutsPlus-Resources/
-    #get_all_git_origin > ../case-study-repo-list/tuts_new.txt
+    cd ../TutsPlus-Resources/
+    get_all_git_origin > ../case-study-repo-list/tuts_new.txt
 
     cd ..
 
@@ -190,8 +191,8 @@ function clone_repo_for_all_casestudy(){
     cd ../SpringGuides-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/SpringGuides-Case-Study.txt
 
-    cd ../JavaScript-Case-Study/
-    clone_repo_from_txt ../case-study-repo-list/JavaScript-Case-Study.txt
+    cd ../JS-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/JS-Case-Study.txt
 
     cd ../NodeJS-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/NodeJS-Case-Study.txt
