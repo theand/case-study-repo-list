@@ -10,3 +10,5 @@ git@github.com:pythonkr/pyconkr-2014.git
 git@github.com:perhapsspy/pylog.git
 git@github.com:realpython/python-scripts.git
 git@github.com:realpython/stack-spider.git
+git@github.com:yukuku/telebot.git
+git@github.com:datamachine/twx.botapi.git

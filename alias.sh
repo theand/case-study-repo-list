@@ -110,6 +110,9 @@ function create_txt_for_all_casestudy(){
     cd Angular-Case-Study/
     get_all_git_origin > ../case-study-repo-list/angular_new.txt
 
+    cd ../Bot-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/bot_new.txt
+
     cd ../FrontEnd-Case-Study/
     get_all_git_origin > ../case-study-repo-list/front_new.txt
 
@@ -119,8 +122,11 @@ function create_txt_for_all_casestudy(){
     cd ../Java-Case-Study/
     get_all_git_origin > ../case-study-repo-list/java_new.txt
 
-    cd ../SpringGuides-Case-Study/
+    cd ../Spring-Case-Study/
     get_all_git_origin > ../case-study-repo-list/spring_new.txt
+
+    cd ../SpringGuides-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/sg_new.txt
 
     cd ../JS-Case-Study/
     get_all_git_origin > ../case-study-repo-list/js_new.txt
@@ -143,6 +149,15 @@ function create_txt_for_all_casestudy(){
     cd ../LetsCodeJavaScript-LessonLearned/
     get_all_git_origin > ../case-study-repo-list/lets_lesson_new.txt
 
+    cd ../Motion-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/motion_new.txt
+
+    cd ../My-Module-Work/
+    get_all_git_origin > ../case-study-repo-list/module_new.txt
+
+    cd ../My-Sample-Code/
+    get_all_git_origin > ../case-study-repo-list/sample_new.txt
+
     cd ../My-Study-Material/
     get_all_git_origin > ../case-study-repo-list/study_new.txt
 
@@ -160,6 +175,12 @@ function create_txt_for_all_casestudy(){
 
     cd ../Rails-Case-Study/
     get_all_git_origin > ../case-study-repo-list/rails_new.txt
+
+    cd ../Sinatra-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/sinatra_new.txt
+
+    cd ../StaticSite-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/static_new.txt
 
     cd ../TutsPlus-Resources/
     get_all_git_origin > ../case-study-repo-list/tuts_new.txt
@@ -179,6 +200,9 @@ function clone_repo_for_all_casestudy(){
     cd Angular-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/Angular-Case-Study.txt
 
+    cd Bot-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/Bot-Case-Study.txt
+
     cd ../FrontEnd-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/FrontEnd-Case-Study.txt
 
@@ -187,6 +211,9 @@ function clone_repo_for_all_casestudy(){
 
     cd ../Java-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/Java-Case-Study.txt
+
+    cd ../Spring-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/Spring-Case-Study.txt
 
     cd ../SpringGuides-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/SpringGuides-Case-Study.txt
@@ -212,6 +239,12 @@ function clone_repo_for_all_casestudy(){
     cd ../LetsCodeJavaScript-LessonLearned/
     clone_repo_from_txt ../case-study-repo-list/LetsCodeJavaScript-LessonLearned.txt
 
+    cd ../My-Module-Work/
+    clone_repo_from_txt ../case-study-repo-list/My-Module-Work.txt
+
+    cd ../My-Sample-Code/
+    clone_repo_from_txt ../case-study-repo-list/My-Sample-Code.txt
+
     cd ../My-Study-Material/
     clone_repo_from_txt ../case-study-repo-list/My-Study-Material.txt
 
@@ -221,14 +254,20 @@ function clone_repo_for_all_casestudy(){
     cd ../PHP-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/PHP-Case-Study.txt
 
+    cd ../Python-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/Python-Case-Study.txt
+
     cd ../Ruby-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/Ruby-Case-Study.txt
 
     cd ../Rails-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/Rails-Case-Study.txt
 
-    cd ../Python-Case-Study/
-    clone_repo_from_txt ../case-study-repo-list/Python-Case-Study.txt
+    cd ../Sinatra-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/Sinatra-Case-Study.txt
+
+    cd ../StaticSite-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/StaticSite-Case-Study.txt
 
     cd ../TutsPlus-Resources/
     clone_repo_from_txt ../case-study-repo-list/TutsPlus-Resources.txt

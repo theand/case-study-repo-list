@@ -53,6 +53,7 @@ git@github.com:tutsplus/a-simple-responsive-html-email.git
 git@github.com:tutsplus/advanced-backbone-patterns-and-techniques.git
 git@github.com:tutsplus/advanced-oop-in-php-with-tests.git
 git@github.com:tutsplus/angularjs-for-test-driven-development.git
+git@github.com:tutsplus/animate-your-site-with-angularjs.git
 git@github.com:tutsplus/animating-with-snap.svg.git
 git@github.com:tutsplus/authentication-in-nodejs-with-oauth2.git
 git@github.com:tutsplus/authentication-with-ruby.git
@@ -80,6 +81,7 @@ git@github.com:tutsplus/connect-the-web-with-websockets.git
 git@github.com:tutsplus/conversational-web-forms.git
 git@github.com:tutsplus/crawl-the-web-with-python.git
 git@github.com:tutsplus/create-a-custom-yeoman-generator.git
+git@github.com:tutsplus/create-a-rails-api.git
 git@github.com:tutsplus/create-a-single-page--about-me--site-with-prepros--jade---stylus.git
 git@github.com:tutsplus/create-an-image-gallery-in-ruby.git
 git@github.com:tutsplus/creating-a-future-proof-responsive-email-without-media-queries.git
@@ -101,8 +103,10 @@ git@github.com:tutsplus/easy-rails-development-environment-with-vagrant.git
 git@github.com:tutsplus/ecmascript6-today.git
 git@github.com:tutsplus/ember-testing.git
 git@github.com:tutsplus/equal-height-column-css-technique.git
+git@github.com:tutsplus/essential-css-libraries-for-web-designers.git
 git@github.com:tutsplus/essential-js-libraries-for-web-design.git
 git@github.com:tutsplus/essential-ruby-libraries.git
+git@github.com:tutsplus/explore-amazon-web-services.git
 git@github.com:tutsplus/exploring-css-pseudo-elements.git
 git@github.com:tutsplus/fix-your-messy-css-with-smacss.git
 git@github.com:tutsplus/float-label-form-interaction.git

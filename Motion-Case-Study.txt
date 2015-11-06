@@ -1,0 +1,3 @@
+git@github.com:jimweirich/bnr-ios-rubymotion.git
+git@github.com:vishnugopal/rubymotion-ios-sdk-development-cookbook.git
+git@github.com:IconoclastLabs/rubymotion_cookbook.git

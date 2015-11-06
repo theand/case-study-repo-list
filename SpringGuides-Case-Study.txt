@@ -9,7 +9,9 @@ git@github.com:spring-guides/gs-accessing-facebook.git
 git@github.com:spring-guides/gs-accessing-mongodb-data-rest.git
 git@github.com:spring-guides/gs-accessing-neo4j-data-rest.git
 git@github.com:spring-guides/gs-accessing-twitter.git
+git@github.com:spring-guides/gs-actuator-service.git
 git@github.com:spring-guides/gs-async-method.git
+git@github.com:spring-guides/gs-authenticating-ldap.git
 git@github.com:spring-guides/gs-batch-processing.git
 git@github.com:spring-guides/gs-caching.git
 git@github.com:spring-guides/gs-caching-gemfire.git
@@ -24,10 +26,13 @@ git@github.com:spring-guides/gs-device-detection.git
 git@github.com:spring-guides/gs-gradle.git
 git@github.com:spring-guides/gs-handling-form-submission.git
 git@github.com:spring-guides/gs-handling-site-preference.git
+git@github.com:spring-guides/gs-intellij-idea.git
 git@github.com:spring-guides/gs-managing-transactions.git
 git@github.com:spring-guides/gs-maven.git
 git@github.com:spring-guides/gs-messaging-rabbitmq.git
+git@github.com:spring-guides/gs-messaging-reactor.git
 git@github.com:spring-guides/gs-messaging-redis.git
+git@github.com:spring-guides/gs-messaging-stomp-websocket.git
 git@github.com:spring-guides/gs-reactor-thumbnailer.git
 git@github.com:spring-guides/gs-register-facebook-app.git
 git@github.com:spring-guides/gs-register-twitter-app.git

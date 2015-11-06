@@ -1,0 +1,11 @@
+git@github.com:njh/dbpedialite.git
+git@github.com:Thibaut/devdocs.git
+git@github.com:zaknelson/hike.io.git
+git@github.com:gma/nesta.git
+git@github.com:sinatra/sinatra.git
+git@github.com:karlcoelho/sinatra-boilerplate.git
+git@github.com:evanleck/sinatra-boilerplate.git
+git@github.com:sinatra/sinatra-book.git
+git@github.com:sinatra/sinatra-contrib.git
+git@github.com:sinatra/sinatra-recipes.git
+git@github.com:rubys/wicker.git

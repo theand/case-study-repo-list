@@ -50,6 +50,7 @@ git@github.com:laracasts/Vagrant-Setup.git
 git@github.com:laracasts/Validation.git
 git@github.com:laracasts/Vue-and-Laravel-Workflow.git
 git@github.com:laracasts/do-you-react-6-tasks.git
+git@github.com:laracasts/flash.git
 git@github.com:laracasts/intermediate-laravel-series.git
 git@github.com:laracasts/larabook.git
 git@github.com:laracasts/laravel-5-roles-and-permissions-demo.git

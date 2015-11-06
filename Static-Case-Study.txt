@@ -1,0 +1,14 @@
+git@github.com:danielmcgraw/Jekyll-Base.git
+git@github.com:waferbaby/dimples.git
+git@github.com:poole/hyde.git
+git@github.com:jekyll/jekyll.git
+git@github.com:necolas/jekyll-boilerplate.git
+git@github.com:planetjekyll/jekyll-bootstrap-theme.git
+git@github.com:mdo/jekyll-example.git
+https://github.com/planetjekyll/jekyll-minimal-theme
+git@github.com:mdo/jekyll-snippets.git
+git@github.com:npm/newww.git
+git@github.com:npm/newww-tests.git
+git@github.com:poole/poole.git
+git@github.com:planetjekyll/snippets.git
+git@github.com:planetjekyll/themes.git

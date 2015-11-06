@@ -1,10 +1,17 @@
+git@github.com:xpressengine/Composer-korean-docs.git
 git@github.com:theand/Laravel4-lang.git
 git@github.com:johnpapa/angular-styleguide.git
 git@github.com:mgechev/angularjs-style-guide.git
 git@github.com:laravel/docs.git
 git@github.com:php-fig/fig-standards.git
+git@github.com:thoughtbot/guides.git
 git@github.com:laravel-kor/docs.git
+git@github.com:xpressengine/laravel-korean-docs.git
 git@github.com:thisiskaden/laravel4-docs-korean.git
 git@github.com:thisiskaden/laravel4-lang-korean.git
+git@github.com:laraveltherightway/laraveltherightway.github.io.git
+git@github.com:laravel/lumen-docs.git
 git@github.com:codeguy/php-the-right-way.git
 git@github.com:ModernPUG/php-the-right-way.git
+git@github.com:theand/rails-guides.git
+git@github.com:theand/sqlstyle.guide.git
