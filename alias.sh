@@ -68,7 +68,7 @@ function works_update_all(){
         echo "Case Study : $bname"
         echo "==================="
 
-        if [[ -d ../$bname ]] && [[ $bname != "TutsPlus-Resources" ]] 
+        if [[ -d ../$bname ]] && [[ $bname != "TutsPlus-Resources" ]] && [[ $bname != "My-Module-Work" ]] && [[ $bname != "My-Sample-Code" ]] && [[ $bname != "My-Study-Material" ]]  
         then
             cd ../$bname ;
             update_git_all ;
