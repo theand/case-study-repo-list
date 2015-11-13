@@ -275,3 +275,36 @@ function clone_repo_for_all_casestudy(){
     cd ..
 
 }
+
+
+
+#참고 https://github.com/theand/git-open/blob/develop/git-open 
+function replace_opdev_to_cpdev(){
+    for DIR in `ls`;
+    do
+        if [[ -d $DIR ]] && [[ -d $DIR/.git ]]
+        then
+            cd $DIR ;
+
+            giturl=$(git config --get remote.origin.url)
+            if [ -z "$giturl" ]; then
+                echo "remote.origin.url not set in $DIR."
+                cd ..;
+                continue
+            fi
+
+            echo "Processing $DIR";
+            if grep -q github.daumkakao.com:OpDev <<<$giturl; then
+                echo "  original remote.origin.url : $giturl"
+                giturl=${giturl/:OpDev/:CpDev}
+                git remote set-url origin $giturl
+                echo "  changed remote.origin.url : $giturl"
+            else
+                echo "  !!! not github.daumkakao.com:OpDev !!! : $giturl"
+            fi
+
+            echo "";
+            cd .. ;
+        fi
+    done
+}
