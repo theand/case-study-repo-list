@@ -1,3 +1,4 @@
+git@github.com:lapwinglabs/100-ways-to-die.git
 git@github.com:TryGhost/Ghost.git
 git@github.com:GladysProject/Gladys.git
 git@github.com:tonite31/Imboard.git
@@ -5,10 +6,14 @@ git@github.com:OWASP/NodeGoat.git
 git@github.com:andris9/Nodemailer.git
 git@github.com:CatsMiaow/Tested.git
 git@github.com:angular-class/email-responder.git
+git@github.com:disjukr/jews.git
+git@github.com:bevacqua/jscharting.git
 git@github.com:keystonejs/keystone.git
 git@github.com:cfjedimaster/mockdata.git
+git@github.com:GoogleCloudPlatform/nodejs-getting-started.git
 git@github.com:drypot/rapixel.git
 git@github.com:drypot/raysoda.git
+git@github.com:benhowdle89/reqres.git
 git@github.com:rauchg/slackin.git
 git@github.com:drypot/sleek.git
 git@github.com:visionmedia/superagent.git

@@ -1,3 +1,4 @@
+git@github.com:ShinJaehun/ClassCasts.git
 git@github.com:activeadmin/activeadmin.git
 git@github.com:thoughtbot/administrate.git
 git@github.com:svenfuchs/adva-cms2.git
@@ -20,9 +21,12 @@ git@github.com:projectfedena/fedena.git
 git@github.com:luciuschoi/foundblog.git
 git@github.com:javajigi/humhum.git
 git@github.com:RailsApps/learn-rails.git
+git@github.com:loomio/loomio.git
 git@github.com:mephistorb/mephisto.git
+git@github.com:OpenHunting/openhunt.git
 git@github.com:publify/publify.git
 git@github.com:radiant/radiant.git
+git@github.com:ahastudio/rails-api-server-demo.git
 git@github.com:RailsApps/rails-bootstrap.git
 git@github.com:RailsApps/rails-composer.git
 git@github.com:RailsApps/rails-devise.git
@@ -42,6 +46,7 @@ git@github.com:sferik/rails_admin.git
 git@github.com:RailsApps/rails_apps_composer.git
 git@github.com:RailsApps/rails_apps_pages.git
 git@github.com:RailsApps/rails_apps_testing.git
+git@github.com:vlado/rails_db_info.git
 git@github.com:ahoward/rails_default_url_options.git
 git@github.com:ahoward/rails_helper.git
 git@github.com:RailsApps/rails_layout.git
@@ -56,9 +61,11 @@ git@github.com:jimweirich/sample_friends_app.git
 git@github.com:basvodde/scrumprimer.git
 git@github.com:twitter/secureheaders.git
 git@github.com:ahoward/sekrets.git
+git@github.com:hukl/shortcut.io.git
 git@github.com:rafaelfranca/simple_form-bootstrap.git
 git@github.com:jnunemaker/stars.git
 git@github.com:thoughtbot/suspenders.git
+git@github.com:mrkjlchvz/til.git
 git@github.com:ahoward/upload_cache.git
 git@github.com:rorlakr/wants.git
 git@github.com:jimweirich/wyriki.git

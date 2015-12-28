@@ -173,6 +173,9 @@ function create_txt_for_all_casestudy(){
     cd ../Ruby-Case-Study/
     get_all_git_origin > ../case-study-repo-list/ruby_new.txt
 
+    cd ../React-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/react_new.txt
+
     cd ../Rails-Case-Study/
     get_all_git_origin > ../case-study-repo-list/rails_new.txt
 
@@ -259,6 +262,9 @@ function clone_repo_for_all_casestudy(){
 
     cd ../Ruby-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/Ruby-Case-Study.txt
+
+    cd ../React-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/React-Case-Study.txt
 
     cd ../Rails-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/Rails-Case-Study.txt

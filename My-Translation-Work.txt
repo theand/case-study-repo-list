@@ -14,4 +14,5 @@ git@github.com:laravel/lumen-docs.git
 git@github.com:codeguy/php-the-right-way.git
 git@github.com:ModernPUG/php-the-right-way.git
 git@github.com:theand/rails-guides.git
+git@github.com:kimdhoe/sass-guidelines.git
 git@github.com:theand/sqlstyle.guide.git

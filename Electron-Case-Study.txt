@@ -2,10 +2,12 @@ git@github.com:k0kubun/Nocturn.git
 git@github.com:black-screen/black-screen.git
 git@github.com:sindresorhus/electron-boilerplate.git
 git@github.com:fraserxu/electron-pdf.git
+git@github.com:chentsulin/electron-react-boilerplate.git
 git@github.com:importre/electron-starterify.git
 git@github.com:importre/epp.git
 git@github.com:sindresorhus/generator-electron.git
 git@github.com:maxogden/menubar.git
 git@github.com:gabrielbull/react-desktop.git
 git@github.com:maxogden/screencat.git
+git@github.com:Automattic/wp-calypso.git
 git@github.com:yeoman/yeoman-app.git

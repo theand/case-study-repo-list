@@ -1,3 +1,4 @@
+git@github.com:tutsplus/14-days-to-learn-sass.git
 git@github.com:tutsplus/30-days-to-jquery.git
 git@github.com:tutsplus/A-Web-Designer-s-Typographic-Boilerplate.git
 git@github.com:tutsplus/AngularUI.git
@@ -63,8 +64,10 @@ git@github.com:tutsplus/become-a-css-superhero-with-stylus.git
 git@github.com:tutsplus/best-practices-for-using-text-on-top-of-images.git
 git@github.com:tutsplus/bootstrap-offcanvas-nav.git
 git@github.com:tutsplus/buggy.git
+git@github.com:tutsplus/build-a-cms-with-laravel.git
 git@github.com:tutsplus/build-a-microblogging-app-with-react-and-flux.git
 git@github.com:tutsplus/build-a-ruby-product-for-the-long-run.git
+git@github.com:tutsplus/build-a-static-site-generator-with-spl-iterators.git
 git@github.com:tutsplus/build-a-wiki-with-react-and-firebase.git
 git@github.com:tutsplus/build-an-email-app-with-ruby.git
 git@github.com:tutsplus/build-complete-website-expressjs.git
@@ -81,6 +84,7 @@ git@github.com:tutsplus/connect-the-web-with-websockets.git
 git@github.com:tutsplus/conversational-web-forms.git
 git@github.com:tutsplus/crawl-the-web-with-python.git
 git@github.com:tutsplus/create-a-custom-yeoman-generator.git
+git@github.com:tutsplus/create-a-mobile-app-with-cordova.git
 git@github.com:tutsplus/create-a-rails-api.git
 git@github.com:tutsplus/create-a-single-page--about-me--site-with-prepros--jade---stylus.git
 git@github.com:tutsplus/create-an-image-gallery-in-ruby.git
@@ -105,6 +109,7 @@ git@github.com:tutsplus/ember-testing.git
 git@github.com:tutsplus/equal-height-column-css-technique.git
 git@github.com:tutsplus/essential-css-libraries-for-web-designers.git
 git@github.com:tutsplus/essential-js-libraries-for-web-design.git
+git@github.com:tutsplus/essential-rails-gems.git
 git@github.com:tutsplus/essential-ruby-libraries.git
 git@github.com:tutsplus/explore-amazon-web-services.git
 git@github.com:tutsplus/exploring-css-pseudo-elements.git
@@ -115,16 +120,22 @@ git@github.com:tutsplus/fun-with-web-audio.git
 git@github.com:tutsplus/functional-programming-in-php.git
 git@github.com:tutsplus/ga-tracking-demo.git
 git@github.com:tutsplus/get-started-with-django.git
+git@github.com:tutsplus/get-started-with-polymer.git
+git@github.com:tutsplus/get-started-with-react-native.git
 git@github.com:tutsplus/get-started-with-ruby-on-rails.git
 git@github.com:tutsplus/getting-into-emberjs-5.git
 git@github.com:tutsplus/getting-started-with-react.git
+git@github.com:tutsplus/getting-started-with-watchkit.git
+git@github.com:tutsplus/getting-to-know-material-design.git
 git@github.com:tutsplus/github-analytics.git
+git@github.com:tutsplus/go-live-with-webrtc.git
 git@github.com:tutsplus/gof-design-patterns-ruby.git
 git@github.com:tutsplus/google-maps-api.git
 git@github.com:tutsplus/gumby-framework-demo.git
 git@github.com:tutsplus/hands-on-angular.git
 git@github.com:tutsplus/hands-on-ember.git
 git@github.com:tutsplus/how-to-animate-festive-svg-icons-with-css.git
+git@github.com:tutsplus/how-to-become-a-web-developer.git
 git@github.com:tutsplus/how-to-build-a-page-scroll-progress-indicator-with-jquery-and-svg.git
 git@github.com:tutsplus/how-to-build-a-shrinking-fixed-top-bar-with-foundation.git
 git@github.com:tutsplus/how-to-manipulate-and-animate-svg-with-snap.svg.git
@@ -183,6 +194,7 @@ git@github.com:tutsplus/riding-ruby-on-rails-course.git
 git@github.com:tutsplus/rss-feed-reader-mean-stack.git
 git@github.com:tutsplus/ruby-metaprogramming-exercise.git
 git@github.com:tutsplus/ruby-refactoring.git
+git@github.com:tutsplus/sailsjs-from-scratch.git
 git@github.com:tutsplus/scrumptious.git
 git@github.com:tutsplus/securing-an-angularjs-application.git
 git@github.com:tutsplus/self-hosted-php-sql-leaderboard.git
@@ -216,7 +228,9 @@ git@github.com:tutsplus/understanding-the-css-box-model.git
 git@github.com:tutsplus/unit-testing-with-swift-and-xctest.git
 git@github.com:tutsplus/up-and-running-with-swift-2.git
 git@github.com:tutsplus/validation-exception-handling.git
+git@github.com:tutsplus/watchos-2-from-scratch.git
 git@github.com:tutsplus/webgl-threejs-basics.git
 git@github.com:tutsplus/websocket-rails.git
+git@github.com:tutsplus/whats-new-in-angular-2.git
 git@github.com:tutsplus/working-with-indexeddb.git
 git@github.com:tutsplus/working-with-indexeddb-part-two.git

@@ -41,6 +41,7 @@ git@github.com:h5bp/server-configs-nginx.git
 git@github.com:h5bp/server-configs-node.git
 git@github.com:IronSummitMedia/startbootstrap-sb-admin-2.git
 git@github.com:google/web-starter-kit.git
+git@github.com:ruanyf/webpack-demos.git
 git@github.com:phuu/webpack-dependency-demo.git
 git@github.com:mdo/wtf-forms.git
 git@github.com:mdo/wtf-html-css.git

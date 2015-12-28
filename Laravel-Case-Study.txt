@@ -6,6 +6,7 @@ git@github.com:andrewelkins/Laravel-4-Bootstrap-Starter-Site.git
 git@github.com:web-tools/Raw.git
 git@github.com:sdebacker/TypiCMS.git
 git@github.com:sahibalejandro/admin.git
+git@github.com:dingo/api.git
 git@github.com:visualplus/board.git
 git@bitbucket.org:sprocketweb/cms.git
 git@github.com:wardrobecms/core.git
@@ -25,8 +26,12 @@ git@github.com:LaravelCollective/html.git
 git@github.com:hillelcoren/invoice-ninja.git
 git@github.com:machuga/l4-forums.git
 git@github.com:andersao/l5-repository.git
+git@github.com:appkr/l5essential.git
+git@github.com:laralib/l5scaffold.git
+git@github.com:laramap/laramap.com.git
 git@github.com:larapress-cms/larapress.git
 git@github.com:laravel/laravel.git
+git@github.com:mitulgolakiya/laravel-api-generator.git
 git@github.com:yhbyun/laravel-bookmark.git
 git@github.com:davzie/laravel-bootstrap.git
 git@github.com:thisiskaden/laravel-korea.git
@@ -46,7 +51,7 @@ git@github.com:adamwathan/liftranker.git
 git@github.com:bertog/litemedia-laravel4.git
 git@github.com:laravel/lumen.git
 git@github.com:laravel/lumen-framework.git
-git@github.com:efusionsoft/mis.git
+git@github.com:Xethron/migrations-generator.git
 git@github.com:msurguy/missingpetflyer.git
 git@github.com:visualplus/naverid.git
 git@github.com:octobercms/october.git

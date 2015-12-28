@@ -5,3 +5,4 @@ git@github.daumkakao.com:rob-c/linkify.git
 git@github.com:theand/moinmoin-extension.git
 git@github.daumkakao.com:rob-c/nametag.git
 git@github.com:theand/nucleus-plugin.git
+git@bitbucket.org:theand/userscript.git

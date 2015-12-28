@@ -1,6 +1,7 @@
 git@github.com:BroadleafCommerce/BroadleafCommerce.git
 git@github.com:madsenevoldsen/Forest-bookshop-example.git
 git@github.com:JD-Software/JDeSurvey.git
+git@github.com:origoni/MultiDatabase.git
 git@github.com:loslch/NHNGuestBook.git
 git@github.com:kr-zephyr/SpringBootWebAppSample.git
 git@github.com:Shieldguy/SpringStarter.git
@@ -9,6 +10,7 @@ git@github.com:WebGoat/WebGoat.git
 git@github.com:arquillian/arquillian-showcase.git
 git@github.com:brunobat/basic-testing-webapp.git
 git@github.com:joshlong/boot-it-up.git
+git@github.com:dpinto-pivotal/cf-SpringBootTrader.git
 git@github.com:spring-cloud-samples/config-repo.git
 git@github.com:gregturn/debug-your-spring-boot-app.git
 git@github.com:FabienLauf/expedia-backendtest.git
@@ -23,6 +25,7 @@ git@github.com:mybatis/jpetstore-6.git
 git@github.com:debop/jvm-experiments.git
 git@github.com:arawn/ksug-2012-spring-31-summary.git
 git@github.com:holyeye/ksug2015-morden-jpa.git
+git@github.com:arahansa/learn_springsecurity.git
 git@github.com:naver/lucy-xss-filter.git
 git@github.com:naver/lucy-xss-servlet-filter.git
 git@github.com:SpringOne2GX-2014/messaging-improvements.git
@@ -30,6 +33,7 @@ git@github.com:jknack/modern-web-app.git
 git@github.com:SpringOne2GX-2014/monty-python-trivia.git
 git@github.com:paulc4/mvc-exceptions.git
 git@github.com:kenu/mybatis-examples.git
+git@github.com:mybatis/mybatis-spring-boot.git
 git@github.com:javajigi/next-board.git
 git@github.com:kenu/okdevtv.git
 git@github.com:okjsp/okjsp-site.git
@@ -38,7 +42,6 @@ git@github.com:decebals/pippo.git
 git@github.com:decebals/pippo-demo.git
 git@github.com:spring-io/platform.git
 git@github.com:ihoneymon/project-word-management.git
-git@github.com:gregturn/react-and-spring-data-rest.git
 git@github.com:olivergierke/repositories-deepdive.git
 git@github.com:arawn/resource-handling-in-springmvc.git
 git@github.com:ihoneymon/rest-api-study.git
@@ -63,12 +66,16 @@ git@github.com:spring-projects/spring-batch-admin.git
 git@github.com:debop/spring-batch-experiments.git
 git@github.com:SpringOne2GX-2014/spring-batch-performance-tuning.git
 git@github.com:spring-projects/spring-boot.git
+git@github.com:philwebb/spring-boot-for-the-java-ee-developer.git
 git@github.com:SpringOne2GX-2014/spring-boot-for-the-web-tier.git
 git@github.com:snicoll-demos/spring-boot-intellij-idea-webinar.git
 git@github.com:snicoll/spring-boot-maven-tests.git
+git@github.com:sbcoba/spring-boot-multidatasource.git
 git@github.com:sdeleuze/spring-boot-sample-web-handlebars.git
 git@github.com:ihoneymon/spring-boot-starter.git
+git@github.com:mmeany/spring-boot-web-mvc-tiles3.git
 git@github.com:ptahchiev/spring-cache-test.git
+git@github.com:sbcoba/spring-camp-spring-security-session.git
 git@github.com:spring-projects/spring-data-book.git
 git@github.com:spring-projects/spring-data-commons.git
 git@github.com:spring-projects/spring-data-document-examples.git
