@@ -56,7 +56,6 @@ git@github.com:msurguy/missingpetflyer.git
 git@github.com:visualplus/naverid.git
 git@github.com:octobercms/october.git
 git@github.com:chriskonnertz/open-graph.git
-git@github.com:openadult/openadult.git
 git@github.com:summerblue/phphub.git
 git@github.com:CodeSleeve/platform.git
 git@github.com:pyrocms/pyrocms.git

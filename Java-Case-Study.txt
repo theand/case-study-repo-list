@@ -1,6 +1,7 @@
 git@github.com:tdziurko/Guava-Lessons.git
 git@github.com:GoogleCloudPlatform/appengine-guestbook-java.git
 git@github.com:GoogleCloudPlatform/appengine-java-vm-guestbook-extras.git
+git@github.com:gmind7/bakery-spring-data-jpa-sample.git
 git@github.com:cxxr/better-java.git
 git@github.com:ben-manes/caffeine.git
 git@github.com:GoogleCloudPlatform/compute-getting-started-java.git
@@ -16,6 +17,7 @@ git@github.com:vladmihalcea/high-performance-java-persistence.git
 git@github.com:verekia/initializr.git
 git@github.com:iluwatar/java-design-patterns.git
 git@github.com:winterbe/java8-explorer.git
+git@github.com:gmind7/java8-training.git
 git@github.com:winterbe/java8-tutorial.git
 git@github.com:ihoneymon/learn-tdd.git
 git@github.com:logsniffer/logsniffer.git

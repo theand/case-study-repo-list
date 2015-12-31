@@ -107,7 +107,10 @@ function create_txt_for_all_casestudy(){
 
     cd ~/Works
 
-    cd Angular-Case-Study/
+    cd Admin-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/admin_new.txt
+
+    cd ../Angular-Case-Study/
     get_all_git_origin > ../case-study-repo-list/angular_new.txt
 
     cd ../Bot-Case-Study/
@@ -188,6 +191,9 @@ function create_txt_for_all_casestudy(){
     cd ../TutsPlus-Resources/
     get_all_git_origin > ../case-study-repo-list/tuts_new.txt
 
+    cd ../TIL/
+    get_all_git_origin > ../case-study-repo-list/til_new.txt
+
     cd ..
 
 }
@@ -200,7 +206,10 @@ function clone_repo_for_all_casestudy(){
 
     cd ~/Works
 
-    cd Angular-Case-Study/
+    cd Admin-Case-Study/
+    clone_repo_from_txt ../case-study-repo-list/Admin-Case-Study.txt
+
+    cd ../Angular-Case-Study/
     clone_repo_from_txt ../case-study-repo-list/Angular-Case-Study.txt
 
     cd Bot-Case-Study/
@@ -277,6 +286,9 @@ function clone_repo_for_all_casestudy(){
 
     cd ../TutsPlus-Resources/
     clone_repo_from_txt ../case-study-repo-list/TutsPlus-Resources.txt
+
+    cd ../TIL/
+    clone_repo_from_txt ../case-study-repo-list/TIL.txt
 
     cd ..
 

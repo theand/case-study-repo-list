@@ -17,4 +17,3 @@ git@github.com:kouphax/todomvc-server.git
 git@github.com:kouphax/todomvc-server-static-content.git
 git@github.com:twitter/twitter-text.git
 git@github.com:twitter/util.git
-git@github.com:drypot/writings.git

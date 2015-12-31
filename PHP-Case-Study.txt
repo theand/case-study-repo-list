@@ -23,6 +23,7 @@ git@github.com:appkr/iperf-stress.git
 git@github.com:nikic/iter.git
 git@github.com:findstar/koreanSmsApiForApistore.git
 git@github.com:codeguy/modern-php.git
+git@github.com:mathiasverraes/money.git
 git@github.com:opencfp/opencfp.git
 git@github.com:mattiasgeniar/php-exploit-scripts.git
 git@github.com:schmittjoh/php-option.git
