@@ -1,0 +1,17 @@
+git@github.com:kennethreitz/changelogdash.git
+git@github.com:teampopong/codenamu2014.git
+git@github.com:kennethreitz/conductofcode.git
+git@github.com:teampopong/data.popong.com.git
+git@github.com:imwilsonxu/fbone.git
+git@github.com:mitsuhiko/flask.git
+git@github.com:realpython/flask-by-example.git
+git@github.com:mattupstate/flask-social-example.git
+git@github.com:kennethreitz/flask-sslify.git
+git@github.com:mitsuhiko/flask-website.git
+git@github.com:Runscope/httpbin.git
+git@github.com:teampopong/pokr.kr.git
+git@github.com:teampopong/popong.com.git
+git@github.com:mitsuhiko/pyladies-flask.git
+git@github.com:blha303/question.git
+git@github.com:kennethreitz/url2markdown.git
+git@github.com:mitsuhiko/worldtime-scheduler.git

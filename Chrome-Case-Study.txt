@@ -1,0 +1,1 @@
+git@github.com:imwilsonxu/chrome-extension-dev-template.git
