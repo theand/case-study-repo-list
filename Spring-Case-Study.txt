@@ -7,6 +7,7 @@ git@github.com:kr-zephyr/SpringBootWebAppSample.git
 git@github.com:Shieldguy/SpringStarter.git
 git@github.com:jdubois/Tudu-Lists.git
 git@github.com:WebGoat/WebGoat.git
+git@github.com:aramsoft/aramcomp.git
 git@github.com:arquillian/arquillian-showcase.git
 git@github.com:brunobat/basic-testing-webapp.git
 git@github.com:joshlong/boot-it-up.git

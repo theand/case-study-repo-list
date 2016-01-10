@@ -9,6 +9,7 @@ git@github.com:clouddueling/angular-common.git
 git@github.com:robertjchristian/angular-enterprise-seed.git
 git@github.com:btford/angular-express-blog.git
 git@github.com:btford/angular-express-seed.git
+git@github.com:importre/angular-github-snippet.git
 git@github.com:angular/angular-seed.git
 git@github.com:CleverStack/angular-seed.git
 git@github.com:angular-class/angular-testing-quick-start.git
@@ -40,9 +41,11 @@ git@github.com:linemanjs/lineman-angular-template.git
 git@github.com:callmehiphop/mario-cards.git
 git@github.com:angular/material-start.git
 git@github.com:tekpub/ng-mongo.git
+git@github.com:ocombe/ng2-webpack.git
 git@github.com:jimrhoskins/ngmodules.org.git
 git@github.com:angular/quickstart.git
 git@github.com:ihoneymon/rocking-the-rest-api-view.git
 git@github.com:firebase/seed-ionic.git
 git@github.com:firebase/seed-js.git
 git@github.com:Stamplay/stamplay-foodme.git
+git@github.com:angular-tips/webpack-demo.git

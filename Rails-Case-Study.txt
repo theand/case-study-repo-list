@@ -1,5 +1,6 @@
 git@github.com:ShinJaehun/ClassCasts.git
 git@github.com:activeadmin/activeadmin.git
+git@github.com:rails/activeresource.git
 git@github.com:thoughtbot/administrate.git
 git@github.com:svenfuchs/adva-cms2.git
 git@github.com:svenfuchs/adva_cms.git
@@ -11,20 +12,27 @@ git@github.com:rorlakr/blog_season_4.git
 git@github.com:presidentbeef/brakeman.git
 git@github.com:browsermedia/browsercms.git
 git@github.com:vaihtovirta/calendar_on_rails.git
+git@github.com:bborn/communityengine.git
 git@github.com:orendon/contrib-hub.git
 git@github.com:nukomeet/coworfing.git
 git@github.com:ahoward/dao.git
 git@github.com:activeadmin/demo.activeadmin.info.git
 git@github.com:dante-xx/devday_rails.git
+git@github.com:diaspora/diaspora.git
+git@github.com:discourse/discourse.git
 git@github.com:locomotivecms/engine.git
 git@github.com:projectfedena/fedena.git
+git@github.com:rubysherpas/forem.git
 git@github.com:luciuschoi/foundblog.git
+git@github.com:thoughtbot/hound.git
 git@github.com:javajigi/humhum.git
 git@github.com:RailsApps/learn-rails.git
 git@github.com:loomio/loomio.git
 git@github.com:mephistorb/mephisto.git
+git@github.com:merb/merb.git
 git@github.com:OpenHunting/openhunt.git
 git@github.com:publify/publify.git
+git@github.com:rubysherpas/r4ia_examples.git
 git@github.com:radiant/radiant.git
 git@github.com:ahastudio/rails-api-server-demo.git
 git@github.com:RailsApps/rails-bootstrap.git
@@ -41,6 +49,7 @@ git@github.com:RailsApps/rails-signup-download.git
 git@github.com:RailsApps/rails-stripe-checkout.git
 git@github.com:RailsApps/rails-stripe-coupons.git
 git@github.com:RailsApps/rails-stripe-membership-saas.git
+git@github.com:rafaelfranca/rails-tools.git
 git@github.com:RailsApps/rails3-mongoid-omniauth.git
 git@github.com:sferik/rails_admin.git
 git@github.com:RailsApps/rails_apps_composer.git
@@ -57,6 +66,7 @@ git@github.com:refinery/refinerycms.git
 git@github.com:rubys/riggr.git
 git@github.com:rorlakr/rorla.git
 git@github.com:rorlakr/rorla_api.git
+git@github.com:rubysec/ruby-advisory-db.git
 git@github.com:jimweirich/sample_friends_app.git
 git@github.com:basvodde/scrumprimer.git
 git@github.com:twitter/secureheaders.git
@@ -68,4 +78,5 @@ git@github.com:thoughtbot/suspenders.git
 git@github.com:mrkjlchvz/til.git
 git@github.com:ahoward/upload_cache.git
 git@github.com:rorlakr/wants.git
+git@github.com:ahastudio/woowahan-api-demo.git
 git@github.com:jimweirich/wyriki.git

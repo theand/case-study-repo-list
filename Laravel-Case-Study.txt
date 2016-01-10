@@ -7,6 +7,7 @@ git@github.com:web-tools/Raw.git
 git@github.com:sdebacker/TypiCMS.git
 git@github.com:sahibalejandro/admin.git
 git@github.com:dingo/api.git
+git@github.com:appkr/api.git
 git@github.com:visualplus/board.git
 git@bitbucket.org:sprocketweb/cms.git
 git@github.com:wardrobecms/core.git

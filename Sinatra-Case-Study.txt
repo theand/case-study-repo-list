@@ -2,6 +2,7 @@ git@github.com:njh/dbpedialite.git
 git@github.com:Thibaut/devdocs.git
 git@github.com:zaknelson/hike.io.git
 git@github.com:gma/nesta.git
+git@github.com:stevekinney/pizza.git
 git@github.com:sinatra/sinatra.git
 git@github.com:karlcoelho/sinatra-boilerplate.git
 git@github.com:evanleck/sinatra-boilerplate.git

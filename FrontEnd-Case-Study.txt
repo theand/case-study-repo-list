@@ -37,6 +37,7 @@ git@github.com:h5bp/mobile-boilerplate.git
 git@github.com:ragingwind/mobile-chromeapp-starter-kit.git
 git@github.com:necolas/normalize.css.git
 git@github.com:PolymerElements/polymer-starter-kit.git
+git@github.com:edwardtufte/presenter.git
 git@github.com:GulchGroup/schmoilerplate.git
 git@github.com:h5bp/server-configs-apache.git
 git@github.com:h5bp/server-configs-gae.git
@@ -44,6 +45,8 @@ git@github.com:h5bp/server-configs-nginx.git
 git@github.com:h5bp/server-configs-node.git
 git@github.com:IronSummitMedia/startbootstrap-sb-admin-2.git
 git@github.com:AllThingsSmitty/super-simple-css-tooltips.git
+git@github.com:Polymer/topeka.git
+git@github.com:edwardtufte/tufte-css.git
 git@github.com:google/web-starter-kit.git
 git@github.com:ruanyf/webpack-demos.git
 git@github.com:phuu/webpack-dependency-demo.git

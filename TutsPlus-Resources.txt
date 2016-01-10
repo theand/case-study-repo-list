@@ -79,6 +79,7 @@ git@github.com:tutsplus/building-static-websites-with-jekyll.git
 git@github.com:tutsplus/building-your-own-pattern-library-for-the-web.git
 git@github.com:tutsplus/catch-up-with-rails-4-demo.git
 git@github.com:tutsplus/cleat.git
+git@github.com:tutsplus/comparing-configuration-management-systems.git
 git@github.com:tutsplus/comparing-front-end-frameworks.git
 git@github.com:tutsplus/connect-the-web-with-websockets.git
 git@github.com:tutsplus/conversational-web-forms.git
@@ -102,6 +103,7 @@ git@github.com:tutsplus/dropbox-datastores-dropins.git
 git@github.com:tutsplus/duo-two-factor-auth.git
 git@github.com:tutsplus/easier-javascript-apps-with-angularjs.git
 git@github.com:tutsplus/easier-visual-data-in-the-browser-with-variance-charts.git
+git@github.com:tutsplus/easing-in-to-cubic-bezier-functions.git
 git@github.com:tutsplus/easy-nodejs-development-environment-with-vagrant.git
 git@github.com:tutsplus/easy-rails-development-environment-with-vagrant.git
 git@github.com:tutsplus/ecmascript6-today.git
@@ -177,6 +179,7 @@ git@github.com:tutsplus/php-oop-fundamentals.git
 git@github.com:tutsplus/phpstorm-ide-matters.git
 git@github.com:tutsplus/pro-frontend-workflows.git
 git@github.com:tutsplus/prototyping-overview.git
+git@github.com:tutsplus/publish-an-app-with-cordova.git
 git@github.com:tutsplus/pure-css.git
 git@github.com:tutsplus/put-javascript-design-patterns-into-practice.git
 git@github.com:tutsplus/quick-tip--simple-sticky-navigation-using-jquery.git
