@@ -162,16 +162,16 @@ function create_txt_for_all_casestudy(){
     get_all_git_origin > ../case-study-repo-list/motion_new.txt
 
     cd ../My-Module-Work/
-    get_all_git_origin > ../case-study-repo-list/module_new.txt
+    get_all_git_origin > ../case-study-repo-list/my-module_new.txt
 
     cd ../My-Sample-Code/
-    get_all_git_origin > ../case-study-repo-list/sample_new.txt
+    get_all_git_origin > ../case-study-repo-list/my-sample_new.txt
 
     cd ../My-Study-Material/
-    get_all_git_origin > ../case-study-repo-list/study_new.txt
+    get_all_git_origin > ../case-study-repo-list/my-study_new.txt
 
     cd ../My-Translation-Work/
-    get_all_git_origin > ../case-study-repo-list/trans_new.txt
+    get_all_git_origin > ../case-study-repo-list/my-trans_new.txt
 
     cd ../NodeJS-Case-Study/
     get_all_git_origin > ../case-study-repo-list/nodejs_new.txt
