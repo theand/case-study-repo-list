@@ -2,6 +2,7 @@ git@github.com:angular-class/ES6-build-tools.git
 git@github.com:ReactiveX/RxJS.git
 git@github.com:NUKnightLab/TimelineJS3.git
 git@github.com:getify/You-Dont-Know-JS.git
+git@github.com:ruby-korea/advent-calendar.git
 git@github.com:winterbe/algorithms.git
 git@github.com:zloirock/core-js.git
 git@github.com:twitter/d3kit.git
@@ -12,6 +13,7 @@ git@github.com:angular-class/es6-workshop.git
 git@github.com:lukehoban/es6features.git
 git@github.com:necolas/event-shim.js.git
 git@github.com:mattdiamond/fuckitjs.git
+git@github.com:michael/github.git
 git@github.com:tylermcginnis/github-notetaker-egghead.git
 git@github.com:sindresorhus/globals.git
 git@github.com:Heisenbergjs/heisenberg.git
@@ -29,9 +31,12 @@ git@github.com:benhowdle89/js-idioms.git
 git@github.com:jamesshore/lets_code_javascript.git
 git@github.com:lodash/lodash.git
 git@github.com:geelen/loopgifs.git
+git@github.com:ohgyun/mustard.git
 git@github.com:parshap/node-sanitize-filename.git
 git@github.com:twitter/plumage.js.git
 git@github.com:andersjanmyr/promise-lab.git
+git@github.com:promises-aplus/promises-tests.git
+git@github.com:kriskowal/q.git
 git@github.com:jquery/qunit.git
 git@github.com:ramda/ramda.git
 git@github.com:mdo/redditate.git
@@ -44,4 +49,5 @@ git@github.com:twitter/twemoji.git
 git@github.com:twitter/typeahead.js.git
 git@github.com:jashkenas/underscore.git
 git@github.com:epeli/underscore.string.git
+git@github.com:bellbind/using-promise-q.git
 git@github.com:bradleyboy/yarsk.git

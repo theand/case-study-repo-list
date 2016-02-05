@@ -1,6 +1,7 @@
 git@github.com:aosabook/500lines.git
 git@github.com:ahastudio/CodingLife.git
 git@github.com:lucaminudel/CodingTestsAndSolutions.git
+git@github.com:kylefeng28/Hello-Polyglot-World.git
 git@github.com:rorlakr/Playground.git
 git@github.com:einaregilsson/Redirector.git
 git@github.com:lucaminudel/TDDwithMockObjectsAndDesignPrinciples.git
@@ -12,6 +13,7 @@ git@github.com:drypot/git-study.git
 git@github.com:GoogleCloudPlatform/golang-samples.git
 git@github.com:winterbe/langs.git
 git@github.com:ihoneymon/never-ending-study.git
+git@github.com:komarserjio/notejam.git
 git@github.com:josiahcarlson/redis-in-action.git
 git@github.com:andersjanmyr/roman-numerals-kata.git
 git@github.com:github/scripts-to-rule-them-all.git

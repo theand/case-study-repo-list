@@ -5,6 +5,7 @@ git@github.com:tonite31/Imboard.git
 git@github.com:OWASP/NodeGoat.git
 git@github.com:andris9/Nodemailer.git
 git@github.com:CatsMiaow/Tested.git
+git@github.com:ramsaylanier/WordPressExpress.git
 git@github.com:sindresorhus/awesome-nodejs.git
 git@github.com:jsha/blocktogether.git
 git@github.com:nodejs-enterprise/cms.git
@@ -14,6 +15,7 @@ git@github.com:Marak/faker.js.git
 git@github.com:disjukr/jews.git
 git@github.com:bevacqua/jscharting.git
 git@github.com:keystonejs/keystone.git
+git@github.com:ohgyun/md2html.git
 git@github.com:cfjedimaster/mockdata.git
 git@github.com:GoogleCloudPlatform/nodejs-getting-started.git
 git@github.com:drypot/rapixel.git

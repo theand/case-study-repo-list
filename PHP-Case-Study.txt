@@ -1,5 +1,7 @@
 git@github.com:Xeoncross/DByte.git
 git@github.com:domnikl/DesignPatternsPHP.git
+git@github.com:Wandu/Fastelper.git
+git@github.com:Wandu/Http.git
 git@github.com:arnia/Karybu.git
 git@github.com:ModernPUG/meetup.git
 git@github.com:NucleusCMS/NucleusCMS.git
@@ -20,6 +22,7 @@ git@github.com:forkcms/forkcms.git
 git@github.com:assertchris/generators-and-iter.git
 https://github.com/igorw/get-in
 git@github.com:GoogleCloudPlatform/getting-started-php.git
+git@github.com:RedgooseDev/goose.git
 git@github.com:getgrav/grav.git
 git@github.com:ThrusterIO/http-middleware.git
 git@github.com:appkr/iperf-stress.git
@@ -44,6 +47,7 @@ git@github.com:findstar/testableSample.git
 git@github.com:graulund/tweetnest.git
 git@github.com:Anahkiasen/underscore-php.git
 git@github.com:josephernest/void.git
+git@github.com:filp/whoops.git
 git@github.com:twitter/wordpress.git
 git@github.com:xpressengine/xe-core.git
 git@github.com:xpressengine/xe-selenium-uitest.git

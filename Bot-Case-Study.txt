@@ -10,6 +10,7 @@ git@github.com:szastupov/musicbot.git
 git@github.com:slackhq/node-slack-client.git
 git@github.com:teampopong/pokrbot.git
 git@github.com:slackhq/python-slackclient.git
+git@github.com:kciter/simple-slack-bot.git
 git@github.com:yukuku/telebot.git
 git@github.com:irazasyed/telegram-bot-bootstrap.git
 git@github.com:irazasyed/telegram-bot-sdk.git

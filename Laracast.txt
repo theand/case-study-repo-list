@@ -11,6 +11,8 @@ git@github.com:laracasts/Code-Katas-in-PHP.git
 git@github.com:laracasts/Code-With-Intent.git
 git@github.com:laracasts/Commander.git
 git@github.com:laracasts/Crazy-Simple-Pagination.git
+git@github.com:laracasts/Design-a-Fluent-API-with-TDD.git
+git@github.com:laracasts/Document-Adjustments-Demo.git
 git@github.com:laracasts/Eloquent-Outside-of-Laravel.git
 git@github.com:laracasts/Email-Verification-In-Laravel.git
 git@github.com:laracasts/Favorite-This-Demo.git
@@ -21,6 +23,7 @@ git@github.com:laracasts/From-Install-to-Registration.git
 git@github.com:laracasts/Getting-Jiggy-With-Adapters.git
 git@github.com:laracasts/GitHub-Authentication-With-Laravel.git
 git@github.com:laracasts/HTTP-Requests-Refactoring-Lesson.git
+git@github.com:laracasts/Hands-On-Testing-Workflow.git
 git@github.com:laracasts/Integrated.git
 git@github.com:laracasts/Laracasts-Template.git
 git@github.com:laracasts/Laravel-4.1-Password-Resets.git
@@ -49,6 +52,7 @@ git@github.com:laracasts/Users-and-Roles-in-Laravel.git
 git@github.com:laracasts/Vagrant-Setup.git
 git@github.com:laracasts/Validation.git
 git@github.com:laracasts/Vue-and-Laravel-Workflow.git
+git@github.com:laracasts/db-transactions-issue.git
 git@github.com:laracasts/do-you-react-6-tasks.git
 git@github.com:laracasts/flash.git
 git@github.com:laracasts/intermediate-laravel-series.git

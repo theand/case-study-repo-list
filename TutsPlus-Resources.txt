@@ -76,6 +76,7 @@ git@github.com:tutsplus/building-a-logger-in-sass.git
 git@github.com:tutsplus/building-chrome-extensions.git
 git@github.com:tutsplus/building-ribbit-in-scala.git
 git@github.com:tutsplus/building-static-websites-with-jekyll.git
+git@github.com:tutsplus/building-wordpress-themes-with-bootstrap.git
 git@github.com:tutsplus/building-your-own-pattern-library-for-the-web.git
 git@github.com:tutsplus/catch-up-with-rails-4-demo.git
 git@github.com:tutsplus/cleat.git
@@ -106,6 +107,7 @@ git@github.com:tutsplus/easier-visual-data-in-the-browser-with-variance-charts.g
 git@github.com:tutsplus/easing-in-to-cubic-bezier-functions.git
 git@github.com:tutsplus/easy-nodejs-development-environment-with-vagrant.git
 git@github.com:tutsplus/easy-rails-development-environment-with-vagrant.git
+git@github.com:tutsplus/ecmascript-2015-fundamentals.git
 git@github.com:tutsplus/ecmascript6-today.git
 git@github.com:tutsplus/ember-testing.git
 git@github.com:tutsplus/equal-height-column-css-technique.git
@@ -122,6 +124,7 @@ git@github.com:tutsplus/fun-with-web-audio.git
 git@github.com:tutsplus/functional-programming-in-php.git
 git@github.com:tutsplus/ga-tracking-demo.git
 git@github.com:tutsplus/get-started-with-django.git
+git@github.com:tutsplus/get-started-with-lumen.git
 git@github.com:tutsplus/get-started-with-polymer.git
 git@github.com:tutsplus/get-started-with-react-native.git
 git@github.com:tutsplus/get-started-with-ruby-on-rails.git
@@ -143,6 +146,7 @@ git@github.com:tutsplus/how-to-build-a-shrinking-fixed-top-bar-with-foundation.g
 git@github.com:tutsplus/how-to-manipulate-and-animate-svg-with-snap.svg.git
 git@github.com:tutsplus/hypermedia-driven-REST-API.git
 git@github.com:tutsplus/iOSBlurEffects.git
+git@github.com:tutsplus/iPhone-App-Dev-With-Swift.git
 git@github.com:tutsplus/indexeddb-part-3.git
 git@github.com:tutsplus/integrate-rich-media-apis-with-foundation-for-apps.git
 git@github.com:tutsplus/intro-html5-node-webkit.git
@@ -178,12 +182,14 @@ git@github.com:tutsplus/passport-mongo.git
 git@github.com:tutsplus/php-oop-fundamentals.git
 git@github.com:tutsplus/phpstorm-ide-matters.git
 git@github.com:tutsplus/pro-frontend-workflows.git
+git@github.com:tutsplus/process-payments-with-stripe-and-laravel-cashier.git
 git@github.com:tutsplus/prototyping-overview.git
 git@github.com:tutsplus/publish-an-app-with-cordova.git
 git@github.com:tutsplus/pure-css.git
 git@github.com:tutsplus/put-javascript-design-patterns-into-practice.git
 git@github.com:tutsplus/quick-tip--simple-sticky-navigation-using-jquery.git
 git@github.com:tutsplus/rails-deployment-example.git
+git@github.com:tutsplus/react-deep-dive.git
 git@github.com:tutsplus/real-world-offline-data-storage.git
 git@github.com:tutsplus/redis-applicable-to-ruby-app.git
 git@github.com:tutsplus/refactoring-complex-methods-part-6.git
@@ -232,8 +238,10 @@ git@github.com:tutsplus/unit-testing-with-swift-and-xctest.git
 git@github.com:tutsplus/up-and-running-with-swift-2.git
 git@github.com:tutsplus/validation-exception-handling.git
 git@github.com:tutsplus/watchos-2-from-scratch.git
+git@github.com:tutsplus/web-app-to-mac-app-with-nwjs.git
 git@github.com:tutsplus/webgl-threejs-basics.git
 git@github.com:tutsplus/websocket-rails.git
 git@github.com:tutsplus/whats-new-in-angular-2.git
+git@github.com:tutsplus/whats-new-in-rails-5.git
 git@github.com:tutsplus/working-with-indexeddb.git
 git@github.com:tutsplus/working-with-indexeddb-part-two.git

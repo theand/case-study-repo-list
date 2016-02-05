@@ -18,6 +18,7 @@ git@github.com:gabrielbull/react-desktop.git
 git@github.com:react-photonkit/react-photonkit.git
 git@github.com:react-photonkit/react-photonkit-example.git
 git@github.com:maxogden/screencat.git
+git@github.com:Soundnode/soundnode-app.git
 git@github.com:kevinsawicki/spectron.git
 git@github.com:Automattic/wp-calypso.git
 git@github.com:yeoman/yeoman-app.git

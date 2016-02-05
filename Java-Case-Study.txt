@@ -1,4 +1,6 @@
 git@github.com:tdziurko/Guava-Lessons.git
+git@github.com:java8/Java8InAction.git
+git@github.com:spotify/apollo.git
 git@github.com:GoogleCloudPlatform/appengine-guestbook-java.git
 git@github.com:GoogleCloudPlatform/appengine-java-vm-guestbook-extras.git
 git@github.com:gmind7/bakery-spring-data-jpa-sample.git
@@ -48,3 +50,4 @@ git@github.com:ahastudio/tdd-by-example.git
 git@github.com:twitter/twitter-korean-text.git
 git@github.com:vert-x/vertx-examples.git
 git@github.com:naver/yobi.git
+git@github.com:yona-projects/yona.git

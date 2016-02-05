@@ -1,1 +1,3 @@
 git@github.com:imwilsonxu/chrome-extension-dev-template.git
+git@github.com:ohgyun/naver-news-user-comments-viewer.git
+git@github.com:ohgyun/naver_news_redirector.git

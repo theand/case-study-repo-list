@@ -59,6 +59,8 @@ git@github.com:vlado/rails_db_info.git
 git@github.com:ahoward/rails_default_url_options.git
 git@github.com:ahoward/rails_helper.git
 git@github.com:RailsApps/rails_layout.git
+git@github.com:jechol/rails_load_paths_test.git
+git@github.com:jechol/rails_time_zone_test.git
 git@github.com:ahoward/rails_view.git
 git@github.com:OWASP/railsgoat.git
 git@github.com:rorlakr/rcafe.git
@@ -73,6 +75,7 @@ git@github.com:twitter/secureheaders.git
 git@github.com:ahoward/sekrets.git
 git@github.com:hukl/shortcut.io.git
 git@github.com:rafaelfranca/simple_form-bootstrap.git
+git@github.com:shageman/sportsball.git
 git@github.com:jnunemaker/stars.git
 git@github.com:thoughtbot/suspenders.git
 git@github.com:mrkjlchvz/til.git

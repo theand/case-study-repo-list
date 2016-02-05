@@ -1,4 +1,5 @@
 git@github.com:danielmcgraw/Jekyll-Base.git
+git@github.com:cdmedia/cms.js.git
 git@github.com:waferbaby/dimples.git
 git@github.com:poole/hyde.git
 git@github.com:jekyll/jekyll.git
@@ -14,4 +15,5 @@ git@github.com:getnikola/nikola.git
 git@github.com:chriseidhof/pomotv.git
 git@github.com:poole/poole.git
 git@github.com:planetjekyll/snippets.git
+git@github.com:netlify/staticgen.git
 git@github.com:planetjekyll/themes.git

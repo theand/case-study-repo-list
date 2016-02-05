@@ -5,11 +5,13 @@ git@github.com:colindecarlo/Laraconway.git
 git@github.com:andrewelkins/Laravel-4-Bootstrap-Starter-Site.git
 git@github.com:web-tools/Raw.git
 git@github.com:sdebacker/TypiCMS.git
+git@github.com:letrunghieu/active.git
 git@github.com:sahibalejandro/admin.git
 git@github.com:dingo/api.git
 git@github.com:appkr/api.git
 git@github.com:visualplus/board.git
 git@bitbucket.org:sprocketweb/cms.git
+git@github.com:jusdeleon/contacts.git
 git@github.com:wardrobecms/core.git
 git@github.com:cribbb/cribbb.git
 git@github.com:lazychaser/cruddy.git
@@ -25,6 +27,7 @@ git@github.com:brianwebb01/hexagonal-laravel-experiment.git
 git@github.com:laravel/homestead.git
 git@github.com:LaravelCollective/html.git
 git@github.com:hillelcoren/invoice-ninja.git
+git@github.com:fungku/kwiki.git
 git@github.com:machuga/l4-forums.git
 git@github.com:andersao/l5-repository.git
 git@github.com:appkr/l5essential.git
@@ -54,6 +57,7 @@ git@github.com:laravel/lumen.git
 git@github.com:laravel/lumen-framework.git
 git@github.com:Xethron/migrations-generator.git
 git@github.com:msurguy/missingpetflyer.git
+git@github.com:sandysandy/motivational-app.git
 git@github.com:visualplus/naverid.git
 git@github.com:octobercms/october.git
 git@github.com:chriskonnertz/open-graph.git
@@ -70,6 +74,7 @@ git@github.com:laravel/settler.git
 git@github.com:adamgoose/sgfwebdevs.git
 git@github.com:laravel/socialite.git
 git@github.com:laravel/spark.git
+git@github.com:mattstauffer/synonym-namer.git
 git@github.com:MrJuliuss/syntara.git
 git@github.com:wardrobecms/wardrobe.git
 git@github.com:smartbos/xe_laravel_practice.git
