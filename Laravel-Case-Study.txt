@@ -64,6 +64,7 @@ git@github.com:chriskonnertz/open-graph.git
 git@github.com:summerblue/phphub.git
 git@github.com:CodeSleeve/platform.git
 git@github.com:pyrocms/pyrocms.git
+git@github.com:ModernPUG/qna.git
 git@github.com:laravel/quickstart-basic.git
 git@github.com:laravel/quickstart-intermediate.git
 git@github.com:raftalks/ravel.git

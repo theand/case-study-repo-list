@@ -66,6 +66,7 @@ git@github.com:tutsplus/bootstrap-offcanvas-nav.git
 git@github.com:tutsplus/buggy.git
 git@github.com:tutsplus/build-a-cms-with-laravel.git
 git@github.com:tutsplus/build-a-microblogging-app-with-react-and-flux.git
+git@github.com:tutsplus/build-a-news-aggregator-with-django.git
 git@github.com:tutsplus/build-a-ruby-product-for-the-long-run.git
 git@github.com:tutsplus/build-a-static-site-generator-with-spl-iterators.git
 git@github.com:tutsplus/build-a-wiki-with-react-and-firebase.git
@@ -83,6 +84,7 @@ git@github.com:tutsplus/cleat.git
 git@github.com:tutsplus/comparing-configuration-management-systems.git
 git@github.com:tutsplus/comparing-front-end-frameworks.git
 git@github.com:tutsplus/connect-the-web-with-websockets.git
+git@github.com:tutsplus/continuous-integration-workflow.git
 git@github.com:tutsplus/conversational-web-forms.git
 git@github.com:tutsplus/crawl-the-web-with-python.git
 git@github.com:tutsplus/create-a-custom-yeoman-generator.git
@@ -149,6 +151,7 @@ git@github.com:tutsplus/iOSBlurEffects.git
 git@github.com:tutsplus/iPhone-App-Dev-With-Swift.git
 git@github.com:tutsplus/indexeddb-part-3.git
 git@github.com:tutsplus/integrate-rich-media-apis-with-foundation-for-apps.git
+git@github.com:tutsplus/interactive-art-with-p5js.git
 git@github.com:tutsplus/intro-html5-node-webkit.git
 git@github.com:tutsplus/intro-to-express.git
 git@github.com:tutsplus/introducing-animate.css.git
@@ -204,6 +207,7 @@ git@github.com:tutsplus/rss-feed-reader-mean-stack.git
 git@github.com:tutsplus/ruby-metaprogramming-exercise.git
 git@github.com:tutsplus/ruby-refactoring.git
 git@github.com:tutsplus/sailsjs-from-scratch.git
+git@github.com:tutsplus/scroll-events-made-easy.git
 git@github.com:tutsplus/scrumptious.git
 git@github.com:tutsplus/securing-an-angularjs-application.git
 git@github.com:tutsplus/self-hosted-php-sql-leaderboard.git
@@ -225,6 +229,7 @@ git@github.com:tutsplus/sw-backend.git
 git@github.com:tutsplus/sw-front.git
 git@github.com:tutsplus/syntax-highlighter-demos.git
 git@github.com:tutsplus/team-collaboration-github.git
+git@github.com:tutsplus/testing-angular-notes-app.git
 git@github.com:tutsplus/testing-in-symfony2.git
 git@github.com:tutsplus/testing-ruby-with-rspec3.git
 git@github.com:tutsplus/the-css-of-the-future.git
@@ -245,3 +250,4 @@ git@github.com:tutsplus/whats-new-in-angular-2.git
 git@github.com:tutsplus/whats-new-in-rails-5.git
 git@github.com:tutsplus/working-with-indexeddb.git
 git@github.com:tutsplus/working-with-indexeddb-part-two.git
+git@github.com:tutsplus/write-customizer-ready-wordpress-themes.git

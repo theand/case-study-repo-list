@@ -44,6 +44,7 @@ git@github.com:h5bp/server-configs-apache.git
 git@github.com:h5bp/server-configs-gae.git
 git@github.com:h5bp/server-configs-nginx.git
 git@github.com:h5bp/server-configs-node.git
+git@github.com:kenwheeler/slick.git
 git@github.com:IronSummitMedia/startbootstrap-sb-admin-2.git
 git@github.com:ohgyun/starting-webpack.git
 git@github.com:AllThingsSmitty/super-simple-css-tooltips.git

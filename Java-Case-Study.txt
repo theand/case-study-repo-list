@@ -47,6 +47,7 @@ git@github.com:javajigi/slipp-v2-uploader.git
 git@github.com:perwendel/spark.git
 git@github.com:perwendel/spark-template-engines.git
 git@github.com:ahastudio/tdd-by-example.git
+git@github.com:mbosecke/template-benchmark.git
 git@github.com:twitter/twitter-korean-text.git
 git@github.com:vert-x/vertx-examples.git
 git@github.com:naver/yobi.git

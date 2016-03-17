@@ -13,6 +13,7 @@ git@github.com:angular-class/es6-workshop.git
 git@github.com:lukehoban/es6features.git
 git@github.com:necolas/event-shim.js.git
 git@github.com:mattdiamond/fuckitjs.git
+git@github.com:tutsplus/get-started-with-meteor.git
 git@github.com:michael/github.git
 git@github.com:tylermcginnis/github-notetaker-egghead.git
 git@github.com:sindresorhus/globals.git
@@ -25,9 +26,11 @@ git@github.com:drypot/javascript-study.git
 git@github.com:jquery/jquery.git
 git@github.com:jquery-boilerplate/jquery-boilerplate.git
 git@github.com:jquery-boilerplate/jquery-patterns.git
+git@github.com:falsandtru/jquery-pjax.git
 git@github.com:jquery/jquery-simulate.git
 git@github.com:AllThingsSmitty/jquery-tips-everyone-should-know.git
 git@github.com:benhowdle89/js-idioms.git
+git@github.com:mathieuancelin/js-repaint-perfs.git
 git@github.com:jamesshore/lets_code_javascript.git
 git@github.com:lodash/lodash.git
 git@github.com:geelen/loopgifs.git
@@ -37,6 +40,7 @@ git@github.com:twitter/plumage.js.git
 git@github.com:andersjanmyr/promise-lab.git
 git@github.com:promises-aplus/promises-tests.git
 git@github.com:kriskowal/q.git
+git@github.com:sindresorhus/query-string.git
 git@github.com:jquery/qunit.git
 git@github.com:ramda/ramda.git
 git@github.com:mdo/redditate.git

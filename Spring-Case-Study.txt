@@ -13,7 +13,9 @@ git@github.com:brunobat/basic-testing-webapp.git
 git@github.com:joshlong/boot-it-up.git
 git@github.com:dpinto-pivotal/cf-SpringBootTrader.git
 git@github.com:spring-cloud-samples/config-repo.git
+git@github.com:dandelion/dandelion-datatables-samples.git
 git@github.com:gregturn/debug-your-spring-boot-app.git
+git@github.com:cer/event-sourcing-examples.git
 git@github.com:FabienLauf/expedia-backendtest.git
 git@github.com:gregturn/flights.git
 git@github.com:jhipster/generator-jhipster.git
@@ -50,6 +52,9 @@ git@github.com:ihoneymon/rocking-make-rest-api.git
 git@github.com:ihoneymon/rocking-the-rest-api.git
 git@github.com:ihoneymon/rocking-the-spring-4x-web-application.git
 git@github.com:ihoneymon/rocking-the-spring4x-for-web.git
+git@github.com:rstoyanchev/s2gx2015-intro-to-reactive-programming.git
+git@github.com:rstoyanchev/s2gx2015-reactive-web-apps.git
+git@github.com:rstoyanchev/s2gx2015-spring-mvc-42.git
 git@github.com:spring-io/sagan.git
 git@github.com:dankle/secure-rest-sample.git
 git@github.com:ihoneymon/simple-module.git
@@ -77,6 +82,7 @@ git@github.com:ihoneymon/spring-boot-starter.git
 git@github.com:mmeany/spring-boot-web-mvc-tiles3.git
 git@github.com:ptahchiev/spring-cache-test.git
 git@github.com:sbcoba/spring-camp-spring-security-session.git
+git@github.com:sbcoba/spring-camp-spring-security-session2.git
 git@github.com:spring-projects/spring-data-book.git
 git@github.com:spring-projects/spring-data-commons.git
 git@github.com:spring-projects/spring-data-document-examples.git
@@ -89,9 +95,13 @@ git@github.com:spring-projects/spring-framework.git
 git@github.com:spring-io/initializr.git
 git@github.com:spring-io/platform.git
 git@github.com:spring-projects/spring-mobile-samples.git
+git@github.com:rstoyanchev/spring-mvc-chat.git
+git@github.com:rstoyanchev/spring-mvc-intro.git
 git@github.com:spring-projects/spring-mvc-showcase.git
 git@github.com:ihoneymon/spring-pathvariable-sample.git
 git@github.com:FabienLauf/spring-petclinic.git
+git@github.com:spring-projects/spring-reactive.git
+git@github.com:sdeleuze/spring-reactive-playground.git
 git@github.com:SpringOne2GX-2014/spring-resource-handling.git
 git@github.com:olivergierke/spring-restbucks.git
 git@github.com:spring-projects/spring-restdocs.git
@@ -103,6 +113,7 @@ git@github.com:chanwookpark/spring-session-test.git
 git@github.com:spring-projects/spring-social-samples.git
 git@github.com:ihoneymon/spring-study.git
 git@github.com:spring-projects/spring-test-mvc.git
+git@github.com:rstoyanchev/spring-websocket-portfolio.git
 git@github.com:composite/spring4-mvc-embed-tomcat7-example.git
 git@github.com:seti222/spring_boot_security.git
 git@github.com:ihoneymon/springboot-jpa-security.git

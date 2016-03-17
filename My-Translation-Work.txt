@@ -15,6 +15,7 @@ git@github.com:thisiskaden/laravel4-docs-korean.git
 git@github.com:thisiskaden/laravel4-lang-korean.git
 git@github.com:laraveltherightway/laraveltherightway.github.io.git
 git@github.com:laravel/lumen-docs.git
+git@github.com:MostlyAdequate/mostly-adequate-guide.git
 git@github.com:codeguy/php-the-right-way.git
 git@github.com:ModernPUG/php-the-right-way.git
 git@github.com:theand/rails-guides.git

@@ -1,4 +1,5 @@
 git@github.com:danielmcgraw/Jekyll-Base.git
+git@github.com:trek/beautiful-open.git
 git@github.com:cdmedia/cms.js.git
 git@github.com:waferbaby/dimples.git
 git@github.com:poole/hyde.git

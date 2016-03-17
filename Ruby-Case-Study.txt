@@ -49,6 +49,7 @@ git@github.com:rubysec/ruby-advisory-db.git
 git@github.com:Thibaut/ruby-benchmarks.git
 git@github.com:jechol/ruby-coding-interview-template.git
 git@github.com:gregstallings/ruby-trivia.git
+git@github.com:nacyot/slack_log_viewer.git
 git@github.com:jimweirich/sudoku.git
 git@github.com:coreyhaines/sudoku_solver.git
 git@github.com:sferik/t.git

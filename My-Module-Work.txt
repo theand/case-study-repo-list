@@ -1,3 +1,4 @@
+https://github.com/theand/SourceCodeReader.git
 git@dgit.co:theand/dotfiles.git
 git@github.com:theand/git-open.git
 git@github.com:theand/github-backup.git
@@ -5,4 +6,5 @@ git@github.daumkakao.com:rob-c/linkify.git
 git@github.com:theand/moinmoin-extension.git
 git@github.daumkakao.com:rob-c/nametag.git
 git@github.com:theand/nucleus-plugin.git
+git@github.com:theand/refined-github.git
 git@bitbucket.org:theand/userscript.git

@@ -20,6 +20,7 @@ git@github.com:activeadmin/demo.activeadmin.info.git
 git@github.com:dante-xx/devday_rails.git
 git@github.com:diaspora/diaspora.git
 git@github.com:discourse/discourse.git
+git@github.com:iridakos/duckrails.git
 git@github.com:locomotivecms/engine.git
 git@github.com:projectfedena/fedena.git
 git@github.com:rubysherpas/forem.git
@@ -31,6 +32,7 @@ git@github.com:loomio/loomio.git
 git@github.com:mephistorb/mephisto.git
 git@github.com:merb/merb.git
 git@github.com:OpenHunting/openhunt.git
+git@github.com:phusion/passenger-ruby-rails-demo.git
 git@github.com:publify/publify.git
 git@github.com:rubysherpas/r4ia_examples.git
 git@github.com:radiant/radiant.git
@@ -45,6 +47,7 @@ git@github.com:RailsApps/rails-foundation.git
 git@github.com:RailsApps/rails-mailinglist-activejob.git
 git@github.com:RailsApps/rails-omniauth.git
 git@github.com:RailsApps/rails-prelaunch-signup.git
+git@github.com:jseifer/rails-select2-example.git
 git@github.com:RailsApps/rails-signup-download.git
 git@github.com:RailsApps/rails-stripe-checkout.git
 git@github.com:RailsApps/rails-stripe-coupons.git

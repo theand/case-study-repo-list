@@ -50,7 +50,11 @@ git@github.com:dsyer/gs-spring-boot-docker.git
 git@github.com:spring-guides/gs-sts.git
 git@github.com:spring-guides/gs-uploading-files.git
 git@github.com:spring-guides/gs-validating-form-input.git
+git@github.com:spring-guides/tut-bookmarks.git
 git@github.com:spring-guides/tut-data.git
+git@github.com:spring-guides/tut-react-and-spring-data-rest.git
 git@github.com:spring-guides/tut-rest.git
+git@github.com:spring-guides/tut-spring-boot-oauth2.git
+git@github.com:spring-guides/tut-spring-security-and-angular-js.git
 git@github.com:spring-guides/tut-web.git
 git@github.com:spring-guides/understanding.git

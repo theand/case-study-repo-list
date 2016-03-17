@@ -1,3 +1,4 @@
+git@github.com:DanWahlin/Angular2-JumpStart.git
 git@github.com:DanWahlin/CustomerManager.git
 git@github.com:geekuillaume/Freader.git
 git@github.com:angular-class/NG6-starter.git
