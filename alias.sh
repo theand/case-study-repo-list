@@ -53,6 +53,7 @@ function update_git_all(){
                 echo "!!!git reset hard!!!";
                 git reset --hard origin/master;
             fi
+            git remote prune origin;
             cd .. ;
         fi
     done
