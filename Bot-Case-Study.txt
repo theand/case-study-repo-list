@@ -1,6 +1,7 @@
 git@github.com:rubenlagus/TelegramBots.git
 git@github.com:howdyai/botkit.git
 git@github.com:vaihtovirta/botup.git
+git@github.com:FreeCodeCamp/camperbot.git
 git@github.com:github/generator-hubot.git
 git@github.com:github/hubot.git
 git@github.com:github/hubot-scripts.git

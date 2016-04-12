@@ -23,6 +23,7 @@ git@github.com:httprb/http.git
 git@github.com:jnunemaker/httparty.git
 git@github.com:everywish/itelec2016.git
 git@github.com:n42corp/kakao_push.git
+git@github.com:alexch/learn_ruby.git
 git@github.com:github/linguist.git
 git@github.com:ahoward/macaddr.git
 git@github.com:ahoward/main.git

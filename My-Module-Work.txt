@@ -7,4 +7,5 @@ git@github.com:theand/moinmoin-extension.git
 git@github.daumkakao.com:rob-c/nametag.git
 git@github.com:theand/nucleus-plugin.git
 git@github.com:theand/refined-github.git
+git@github.daumkakao.com:rob-c/sslvpn-ipport.git
 git@bitbucket.org:theand/userscript.git

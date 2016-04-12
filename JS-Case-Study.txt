@@ -54,4 +54,5 @@ git@github.com:twitter/typeahead.js.git
 git@github.com:jashkenas/underscore.git
 git@github.com:epeli/underscore.string.git
 git@github.com:bellbind/using-promise-q.git
+git@github.com:odyss009/webpack-sample.git
 git@github.com:bradleyboy/yarsk.git

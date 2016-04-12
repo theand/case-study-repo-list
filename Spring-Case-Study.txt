@@ -3,6 +3,7 @@ git@github.com:madsenevoldsen/Forest-bookshop-example.git
 git@github.com:JD-Software/JDeSurvey.git
 git@github.com:origoni/MultiDatabase.git
 git@github.com:loslch/NHNGuestBook.git
+git@github.com:dlwjddn22/SSProject.git
 git@github.com:kr-zephyr/SpringBootWebAppSample.git
 git@github.com:Shieldguy/SpringStarter.git
 git@github.com:jdubois/Tudu-Lists.git

@@ -88,6 +88,7 @@ git@github.com:tutsplus/continuous-integration-workflow.git
 git@github.com:tutsplus/conversational-web-forms.git
 git@github.com:tutsplus/crawl-the-web-with-python.git
 git@github.com:tutsplus/create-a-custom-yeoman-generator.git
+git@github.com:tutsplus/create-a-full-stack-rails-and-ember-app.git
 git@github.com:tutsplus/create-a-mobile-app-with-cordova.git
 git@github.com:tutsplus/create-a-rails-api.git
 git@github.com:tutsplus/create-a-single-page--about-me--site-with-prepros--jade---stylus.git
@@ -118,6 +119,7 @@ git@github.com:tutsplus/essential-js-libraries-for-web-design.git
 git@github.com:tutsplus/essential-rails-gems.git
 git@github.com:tutsplus/essential-ruby-libraries.git
 git@github.com:tutsplus/explore-amazon-web-services.git
+git@github.com:tutsplus/explore-vr-with-google-cardboard.git
 git@github.com:tutsplus/exploring-css-pseudo-elements.git
 git@github.com:tutsplus/fix-your-messy-css-with-smacss.git
 git@github.com:tutsplus/float-label-form-interaction.git
@@ -159,6 +161,7 @@ git@github.com:tutsplus/introduction-to-python.git
 git@github.com:tutsplus/introduction-to-signalR.git
 git@github.com:tutsplus/introduction-to-wordpress-plugin-development.git
 git@github.com:tutsplus/jasmine-2.0.git
+git@github.com:tutsplus/javascript-and-tvml-for-apple-tv-apps.git
 git@github.com:tutsplus/javascript-for-loop-optimization.git
 git@github.com:tutsplus/javascript-for-php-developers.git
 git@github.com:tutsplus/javascript-fundamentals.git

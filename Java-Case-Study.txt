@@ -19,6 +19,8 @@ git@github.com:apache/commons-primitives.git
 git@github.com:apache/commons-validator.git
 git@github.com:GoogleCloudPlatform/compute-getting-started-java.git
 git@github.com:debop/connectionpool-benchmark.git
+git@github.com:marhan/effective-java-examples.git
+git@github.com:ratpack/example-books.git
 git@github.com:GoogleCloudPlatform/gcloud-java-examples.git
 git@github.com:GoogleCloudPlatform/getting-started-java.git
 git@github.com:kevinsawicki/github-maven-example.git
