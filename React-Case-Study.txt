@@ -16,3 +16,8 @@ git@github.com:kouphax/react-workshop.git
 git@github.com:rackt/redux.git
 git@github.com:happypoulp/redux-tutorial.git
 git@github.com:winterbe/spring-react-example.git
+git@github.com:wesbos/Learn-Redux.git
+git@github.com:wesbos/Learn-Redux-Site.git
+git@github.com:wesbos/Learn-Redux-Starter-Files.git
+git@github.com:wesbos/React-Beer-Me.git
+git@github.com:wesbos/React-For-Beginners-Starter-Files.git

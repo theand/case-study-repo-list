@@ -19,6 +19,7 @@ git@github.com:donpark/hbs.git
 git@github.com:disjukr/jews.git
 git@github.com:bevacqua/jscharting.git
 git@github.com:keystonejs/keystone.git
+git@github.com:wesbos/mastering-markdown.git
 git@github.com:ohgyun/md2html.git
 git@github.com:cfjedimaster/mockdata.git
 git@github.com:GoogleCloudPlatform/nodejs-getting-started.git
