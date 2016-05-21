@@ -101,6 +101,17 @@ function reset_git_origin(){
     fi
 }
 
+function check_not_git(){
+  for DIR in `ls`;
+  do
+      if [[ ! -d $DIR/.git ]]
+      then
+          echo "not git : $DIR"
+      fi
+  done
+}
+
+
 
 
 ################
