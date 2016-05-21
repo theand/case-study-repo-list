@@ -32,6 +32,7 @@ git@github.com:jquery/jquery-simulate.git
 git@github.com:AllThingsSmitty/jquery-tips-everyone-should-know.git
 git@github.com:benhowdle89/js-idioms.git
 git@github.com:mathieuancelin/js-repaint-perfs.git
+git@github.com:wesbos/keycodes.git
 git@github.com:jamesshore/lets_code_javascript.git
 git@github.com:lodash/lodash.git
 git@github.com:geelen/loopgifs.git
