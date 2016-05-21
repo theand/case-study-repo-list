@@ -16,6 +16,7 @@ git@github.com:jusdeleon/contacts.git
 git@github.com:wardrobecms/core.git
 git@github.com:cribbb/cribbb.git
 git@github.com:lazychaser/cruddy.git
+git@github.com:taylorotwell/echo-demo.git
 git@github.com:simkbaio/ecnet-admin.git
 git@github.com:laravel/elixir.git
 git@github.com:adamwathan/eloquent-oauth-example.git
@@ -39,6 +40,7 @@ git@github.com:laravel/laravel.git
 git@github.com:mitulgolakiya/laravel-api-generator.git
 git@github.com:yhbyun/laravel-bookmark.git
 git@github.com:davzie/laravel-bootstrap.git
+git@github.com:unicodeveloper/laravel-hackathon-starter.git
 git@github.com:thisiskaden/laravel-korea.git
 git@github.com:kdocki/laravel-presenter-example.git
 git@github.com:ChuckHeintzelman/laravel-recipes.git
@@ -81,3 +83,5 @@ git@github.com:mattstauffer/synonym-namer.git
 git@github.com:MrJuliuss/syntara.git
 git@github.com:wardrobecms/wardrobe.git
 git@github.com:smartbos/xe_laravel_practice.git
+git@github.com:taylorotwell/zendcon-app.git
+git@github.com:taylorotwell/zendcon-demo.git

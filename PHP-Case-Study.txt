@@ -15,6 +15,7 @@ git@github.com:Gradwell/ValidationLib.git
 git@github.com:ModernPUG/allblog.git
 git@github.com:GoogleCloudPlatform/appengine-symfony-starter-project.git
 git://git.code.sf.net/p/bwapp/code
+git@github.com:tightenco/collect.git
 git@github.com:appkr/envoy.git
 git@github.com:enygma/expose.git
 git@github.com:frozeman/feindura-flat-file-cms.git
@@ -34,6 +35,7 @@ git@github.com:mathiasverraes/money.git
 git@github.com:wkpark/moniwiki.git
 git@github.com:wkpark/moniwiki-wikiseed.git
 git@github.com:opencfp/opencfp.git
+git@github.com:etsy/phan.git
 git@github.com:mattiasgeniar/php-exploit-scripts.git
 git@github.com:schmittjoh/php-option.git
 git@github.com:alexandrezia/phpscheduleit.git

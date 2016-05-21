@@ -31,6 +31,7 @@ git@github.com:RailsApps/learn-rails.git
 git@github.com:loomio/loomio.git
 git@github.com:mephistorb/mephisto.git
 git@github.com:merb/merb.git
+git@github.com:kpumuk/meta-tags.git
 git@github.com:OpenHunting/openhunt.git
 git@github.com:phusion/passenger-ruby-rails-demo.git
 git@github.com:publify/publify.git

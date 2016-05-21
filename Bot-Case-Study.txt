@@ -7,6 +7,7 @@ git@github.com:github/hubot.git
 git@github.com:github/hubot-scripts.git
 git@github.com:slackhq/hubot-slack.git
 git@github.com:github/janky.git
+git@github.com:jun85664396/messenger-bot-rails.git
 git@github.com:szastupov/musicbot.git
 git@github.com:sng2c/mypeople-bot-buffer.git
 git@github.com:slackhq/node-slack-client.git

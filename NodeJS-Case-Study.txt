@@ -15,6 +15,7 @@ git@github.com:angular-class/email-responder.git
 git@github.com:airportyh/express-promises-error-handling.git
 git@github.com:focusaurus/express_code_structure.git
 git@github.com:Marak/faker.js.git
+git@github.com:donpark/hbs.git
 git@github.com:disjukr/jews.git
 git@github.com:bevacqua/jscharting.git
 git@github.com:keystonejs/keystone.git

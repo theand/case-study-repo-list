@@ -1,3 +1,4 @@
+git@github.com:OmarElGabry/DesignPatterns.git
 git@github.com:angular-class/ES6-build-tools.git
 git@github.com:ReactiveX/RxJS.git
 git@github.com:NUKnightLab/TimelineJS3.git
@@ -49,6 +50,7 @@ git@github.com:swmaestro/somat.git
 git@github.com:alexei/sprintf.js.git
 git@github.com:jinbonetwork/the-art-of-protest-android.git
 git@github.com:parshap/truncate-utf8-bytes.git
+git@github.com:nhnent/tui.code-snippet.git
 git@github.com:twitter/twemoji.git
 git@github.com:twitter/typeahead.js.git
 git@github.com:jashkenas/underscore.git
