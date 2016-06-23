@@ -31,7 +31,6 @@ git@github.com:ahoward/map.git
 git@github.com:rubys/mars.git
 git@github.com:seattlerb/minitest.git
 git@github.com:sferik/mlb.git
-git@github.com:rubyspec/mspec.git
 git@github.com:nacyot/my_awesome_ruby_project.git
 git@github.com:redsquirrel/nest.git
 git@github.com:skmetz/ood_examples.git

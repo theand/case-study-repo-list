@@ -64,8 +64,8 @@ git@github.com:rubik/radon.git
 git@github.com:reddit/reddit.git
 git@github.com:kennethreitz/requests.git
 git@github.com:moggers87/salmon.git
-git@github.com:syakesaba/scapy.git
-git@github.com:phaethon/scapy.git
+git@github.com:syakesaba/scapy.git syakesava-scapy
+git@github.com:phaethon/scapy.git phaethon-scapy
 git@github.com:scikit-learn/scikit-learn.git
 git@github.com:sphinx-doc/sphinx.git
 git@bitbucket.org:zzzeek/sqlalchemy.git

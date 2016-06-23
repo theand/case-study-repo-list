@@ -1,5 +1,4 @@
-https://github.com/theand/SourceCodeReader.git
-git@dgit.co:theand/dotfiles.git
+git@github.com:theand/SourceCodeReader.git
 git@github.com:theand/git-open.git
 git@github.com:theand/github-backup.git
 git@github.daumkakao.com:rob-c/linkify.git

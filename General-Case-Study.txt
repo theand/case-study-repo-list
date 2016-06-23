@@ -7,7 +7,6 @@ git@github.com:einaregilsson/Redirector.git
 git@github.com:lucaminudel/TDDwithMockObjectsAndDesignPrinciples.git
 git@github.com:aosabook/aosabook.git
 git@github.com:ragingwind/bare-boilerplate.git
-git@github.com:winterbe/cheatsheets.git
 git@github.com:twitter/commons.git
 git@github.com:nacyot/docker-programming-languages.git
 git@github.com:drypot/git-study.git

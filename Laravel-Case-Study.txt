@@ -8,8 +8,8 @@ git@github.com:web-tools/Raw.git
 git@github.com:sdebacker/TypiCMS.git
 git@github.com:letrunghieu/active.git
 git@github.com:sahibalejandro/admin.git
-git@github.com:dingo/api.git
-git@github.com:appkr/api.git
+git@github.com:dingo/api.git dingo-api
+git@github.com:appkr/api.git appkr-api
 git@github.com:visualplus/board.git
 git@bitbucket.org:sprocketweb/cms.git
 git@github.com:jusdeleon/contacts.git
@@ -24,7 +24,6 @@ git@github.com:laravel/envoy.git
 git@github.com:adamwathan/faktory-demo.git
 git@github.com:fideloper/fideloper.com.git
 git@github.com:laravel/framework.git
-git@github.com:codebright/gamesapp.git
 git@github.com:brianwebb01/hexagonal-laravel-experiment.git
 git@github.com:laravel/homestead.git
 git@github.com:LaravelCollective/html.git
@@ -68,7 +67,6 @@ git@github.com:chriskonnertz/open-graph.git
 git@github.com:summerblue/phphub.git
 git@github.com:CodeSleeve/platform.git
 git@github.com:pyrocms/pyrocms.git
-git@github.com:ModernPUG/qna.git
 git@github.com:laravel/quickstart-basic.git
 git@github.com:laravel/quickstart-intermediate.git
 git@github.com:raftalks/ravel.git
@@ -78,10 +76,7 @@ git@github.com:mattstauffer/savemyproposals.git
 git@github.com:laravel/settler.git
 git@github.com:adamgoose/sgfwebdevs.git
 git@github.com:laravel/socialite.git
-git@github.com:laravel/spark.git
 git@github.com:mattstauffer/synonym-namer.git
 git@github.com:MrJuliuss/syntara.git
 git@github.com:wardrobecms/wardrobe.git
 git@github.com:smartbos/xe_laravel_practice.git
-git@github.com:taylorotwell/zendcon-app.git
-git@github.com:taylorotwell/zendcon-demo.git

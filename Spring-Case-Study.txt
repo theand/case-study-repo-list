@@ -63,7 +63,6 @@ git@github.com:ihoneymon/rest-api-study.git
 git@github.com:ihoneymon/rocking-make-rest-api.git
 git@github.com:ihoneymon/rocking-the-rest-api.git
 git@github.com:ihoneymon/rocking-the-spring-4x-web-application.git
-git@github.com:ihoneymon/rocking-the-spring4x-for-web.git
 git@github.com:rstoyanchev/s2gx2015-intro-to-reactive-programming.git
 git@github.com:rstoyanchev/s2gx2015-reactive-web-apps.git
 git@github.com:rstoyanchev/s2gx2015-spring-mvc-42.git
@@ -100,13 +99,11 @@ git@github.com:spring-projects/spring-data-book.git
 git@github.com:spring-projects/spring-data-commons.git
 git@github.com:spring-projects/spring-data-document-examples.git
 git@github.com:spring-projects/spring-data-examples.git
-git@github.com:spring-projects/spring-data-jpa-examples.git
 git@github.com:ihoneymon/spring-data-jpa-paging-sample.git
 git@github.com:spring-projects/spring-data-keyvalue-examples.git
 git@github.com:arawn/spring-examples.git
 git@github.com:spring-projects/spring-framework.git
 git@github.com:spring-io/initializr.git
-git@github.com:spring-io/platform.git
 git@github.com:spring-projects/spring-mobile-samples.git
 git@github.com:jhades/spring-mvc-angularjs-sample-app.git
 git@github.com:rstoyanchev/spring-mvc-chat.git
