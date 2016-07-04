@@ -20,3 +20,4 @@ git@github.com:vuejs/vueify-example.git
 git@github.com:vuejs/vuejs.org.git
 git@github.com:vuejs-templates/webpack.git
 git@github.com:vuejs-templates/webpack-simple.git
+git@github.com:fundon/vue-admin.git
