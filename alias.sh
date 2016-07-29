@@ -59,6 +59,20 @@ function update_git_all(){
     done
 }
 
+#서브디렉토리의 모든 git 저장소를 gc
+function gc_git_all(){
+    for DIR in `ls`;
+    do
+        if [[ -d $DIR ]] && [[ -d $DIR/.git ]]
+        then
+            echo "Processing : $DIR"
+            cd $DIR ;
+            git gc;
+            cd .. ;
+        fi
+    done
+}
+
 
 function works_update_all(){
     cd ~/Works/case-study-repo-list;
@@ -78,6 +92,24 @@ function works_update_all(){
     done
 }
 
+
+function works_gc_all(){
+    cd ~/Works/case-study-repo-list;
+    for DIR in *.txt;
+    do
+        bname=$(basename "$DIR" .txt);
+        echo "==================="
+        echo "Case Study : $bname"
+        echo "==================="
+
+        if [[ -d ../$bname ]] && [[ $bname != "My-Module-Work" ]] && [[ $bname != "My-Sample-Code" ]] && [[ $bname != "My-Study-Material" ]] && [[ $bname != "boxen" ]] && [[ $bname != "iOS-Case-Study" ]]
+        then
+            cd ../$bname ;
+            gc_git_all ;
+            cd ../case-study-repo-list;
+        fi
+    done
+}
 #################
 
 function update_composer_all(){
