@@ -2,8 +2,8 @@ git@github.com:crateio/crate.web.git
 git@github.com:django/django.git
 git@github.com:divio/django-cms.git
 git@github.com:divio/django-cms-demo.git
+git@github.com:django/django-dev-dashboard.git
 git@github.com:montylounge/django-mingus.git
-git@github.com:craigkerstiens/django-todo.git
 git@github.com:ecolemo/djangobp.git
 git@github.com:divio/djangocms-admin-style.git
 git@github.com:localwiki/localwiki-backend-server.git

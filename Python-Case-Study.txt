@@ -1,7 +1,7 @@
 git@github.com:samuelclay/NewsBlur.git
 git@github.com:andrewlouis93/Office-Scripts.git
+git@github.com:TheAlgorithms/Python.git
 git@github.com:nlintz/TensorFlow-Tutorials.git
-git@github.com:qwefgh90/WebDownloader.git
 git@github.com:zopefoundation/Zope.git
 git@github.com:KeepSafe/aiohttp.git
 git@github.com:zzzeek/alembic.git
@@ -26,7 +26,6 @@ git@github.com:dorfsmay/click_example.git
 git@github.com:kennethreitz/clint.git
 git@github.com:pythonkr/conference-record-scripts.git
 git@github.com:AndreaCensi/contracts.git
-git@github.com:teampopong/crawlers.git
 git@github.com:telefonicaid/di-py.git
 git@bitbucket.org:zzzeek/dogpile.cache.git
 git@bitbucket.org:zzzeek/dogpile.core.git
@@ -39,7 +38,6 @@ git@github.com:teampopong/infographics.git
 git@github.com:kennethreitz/its.py.git
 git@github.com:mitsuhiko/itsdangerous.git
 git@github.com:mitsuhiko/jinja2.git
-git@github.com:mitsuhiko/kickstarter-scraper.git
 git@github.com:TeamLab/lab_for_gachon_cs50.git
 git@github.com:kennethreitz/legit.git
 git@github.com:bsnux/linter-python-pep8.git
@@ -53,6 +51,9 @@ git@github.com:pydata/pandas.git
 git@github.com:hanpama/peppertext.git
 git@github.com:mitsuhiko/platter.git
 git@github.com:mitsuhiko/probe.git
+git@github.com:pythonkr/pyconapac-2016.git
+git@github.com:pythonkr/pyconkr-2014.git
+git@github.com:pythonkr/pyconkr-2015.git
 git@github.com:web2py/pydal.git
 git@github.com:perhapsspy/pylog.git
 git@github.com:Pylons/pyramid.git
@@ -60,6 +61,8 @@ git@github.com:kennethreitz/python-guide.git
 git@github.com:mitsuhiko/python-modernize.git
 git@github.com:mitsuhiko/python-regex-scanner.git
 git@github.com:realpython/python-scripts.git
+git@github.com:pytube/pytube.git
+git@github.com:pytube/data.git
 git@github.com:rubik/radon.git
 git@github.com:reddit/reddit.git
 git@github.com:kennethreitz/requests.git
@@ -81,4 +84,4 @@ git@github.com:web2py/web3py.git
 git@github.com:mitsuhiko/werkzeug.git
 git@github.com:Suor/whatever.git
 git@github.com:dittos/wikistat.git
-git@github.com:rg3/youtube-dl.git
+git@github.com:w3c/wpt-tools.git

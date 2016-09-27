@@ -1,0 +1,9 @@
+git@github.com:craigkerstiens/django-todo.git
+git@github.com:tutsplus/single-page-todo-backbone.git
+git@github.com:tastejs/todomvc.git
+git@github.com:tastejs/todomvc-api.git
+git@github.com:tastejs/todomvc-app-css.git
+git@github.com:tastejs/todomvc-app-template.git
+git@github.com:tastejs/todomvc-common.git
+git@github.com:kouphax/todomvc-server.git
+git@github.com:kouphax/todomvc-server-static-content.git

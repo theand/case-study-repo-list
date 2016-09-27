@@ -27,6 +27,7 @@ git@github.com:samer-abdelkafi/fng-project.git
 git@github.com:jhipster/generator-jhipster.git
 git@github.com:csj4032/genius.git
 git@github.com:debop/hibernate-examples.git
+git@github.com:spring-io/initializr.git
 git@github.com:kakaotrack/java-framework-class.git
 git@github.com:jhipster/jhipster-sample-app.git
 git@github.com:jhipster/jhipster-sample-app-gradle.git
@@ -38,6 +39,7 @@ git@github.com:holyeye/ksug2015-morden-jpa.git
 git@github.com:arahansa/learn_springsecurity.git
 git@github.com:naver/lucy-xss-filter.git
 git@github.com:naver/lucy-xss-servlet-filter.git
+git@github.com:ihoneymon/mastering-spring-mvc-4.git
 git@github.com:SpringOne2GX-2014/messaging-improvements.git
 git@github.com:samer-abdelkafi/mock-spring-project.git
 git@github.com:jknack/modern-web-app.git
@@ -103,11 +105,11 @@ git@github.com:ihoneymon/spring-data-jpa-paging-sample.git
 git@github.com:spring-projects/spring-data-keyvalue-examples.git
 git@github.com:arawn/spring-examples.git
 git@github.com:spring-projects/spring-framework.git
-git@github.com:spring-io/initializr.git
 git@github.com:spring-projects/spring-mobile-samples.git
 git@github.com:jhades/spring-mvc-angularjs-sample-app.git
 git@github.com:rstoyanchev/spring-mvc-chat.git
 git@github.com:rstoyanchev/spring-mvc-intro.git
+git@github.com:kolorobot/spring-mvc-quickstart-archetype.git
 git@github.com:spring-projects/spring-mvc-showcase.git
 git@github.com:ihoneymon/spring-pathvariable-sample.git
 git@github.com:FabienLauf/spring-petclinic.git

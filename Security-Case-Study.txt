@@ -1,0 +1,4 @@
+git@github.com:OWASP/NodeGoat.git
+git@github.com:OWASP/railsgoat.git
+git@github.com:item4/worst-php-code.git
+git@github.com:mattiasgeniar/php-exploit-scripts.git

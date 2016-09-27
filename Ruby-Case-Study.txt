@@ -11,6 +11,7 @@ git@github.com:soveran/cuba.git
 git@github.com:ahoward/demon.git
 git@github.com:brainspec/enumerize.git
 git@github.com:smartinez87/exception_notification.git
+git@github.com:JuanitoFatas/fast-ruby.git
 git@github.com:bestie/fetchable.git
 git@github.com:ahoward/fukung.git
 git@github.com:jinto/fxkeb.git
@@ -23,6 +24,7 @@ git@github.com:httprb/http.git
 git@github.com:jnunemaker/httparty.git
 git@github.com:everywish/itelec2016.git
 git@github.com:n42corp/kakao_push.git
+git@github.com:andrewvc/learn-ruby-zeromq.git
 git@github.com:alexch/learn_ruby.git
 git@github.com:github/linguist.git
 git@github.com:ahoward/macaddr.git
@@ -31,6 +33,7 @@ git@github.com:ahoward/map.git
 git@github.com:rubys/mars.git
 git@github.com:seattlerb/minitest.git
 git@github.com:sferik/mlb.git
+git@github.com:mongrel2/mongrel2.git
 git@github.com:nacyot/my_awesome_ruby_project.git
 git@github.com:redsquirrel/nest.git
 git@github.com:skmetz/ood_examples.git
@@ -49,7 +52,10 @@ git@github.com:rubysec/ruby-advisory-db.git
 git@github.com:Thibaut/ruby-benchmarks.git
 git@github.com:jechol/ruby-coding-interview-template.git
 git@github.com:gregstallings/ruby-trivia.git
+git@github.com:jordansissel/ruby-filewatch.git
+git@github.com:jordansissel/ruby-stud.git
 git@github.com:nacyot/slack_log_viewer.git
+git@github.com:jordansissel/software-patterns.git
 git@github.com:jimweirich/sudoku.git
 git@github.com:coreyhaines/sudoku_solver.git
 git@github.com:sferik/t.git
@@ -59,5 +65,6 @@ git@github.com:erikhuda/thor.git
 git@github.com:sferik/twitter.git
 git@github.com:mispy/twitter_ebooks.git
 git@github.com:twitter/twurl.git
+git@github.com:seamusabshere/upsert.git
 git@github.com:bblimke/webmock.git
 git@github.com:ahoward/wrap.git

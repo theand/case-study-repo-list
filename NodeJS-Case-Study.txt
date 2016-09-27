@@ -4,7 +4,6 @@ git@github.com:FreeCodeCamp/FreeCodeCamp.git
 git@github.com:TryGhost/Ghost.git
 git@github.com:GladysProject/Gladys.git
 git@github.com:tonite31/Imboard.git
-git@github.com:OWASP/NodeGoat.git
 git@github.com:andris9/Nodemailer.git
 git@github.com:CatsMiaow/Tested.git
 git@github.com:ramsaylanier/WordPressExpress.git
@@ -30,11 +29,6 @@ git@github.com:rauchg/slackin.git
 git@github.com:drypot/sleek.git
 git@github.com:visionmedia/superagent.git
 git@github.com:sintaxi/surge.git
-git@github.com:tastejs/todomvc.git
-git@github.com:tastejs/todomvc-api.git
-git@github.com:tastejs/todomvc-app-css.git
-git@github.com:tastejs/todomvc-app-template.git
-git@github.com:tastejs/todomvc-common.git
 git@github.com:zhukov/webogram.git
 git@github.com:rparjun/webtail.git
 git@github.com:airportyh/word-count.git

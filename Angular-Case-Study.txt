@@ -3,6 +3,7 @@ git@github.com:DanWahlin/CustomerManager.git
 git@github.com:geekuillaume/Freader.git
 git@github.com:angular-class/NG6-starter.git
 git@github.com:kamranayub/Pluralsight-Angular.git
+git@github.com:WizardFactory/TodayWeather.git
 git@github.com:angular-app/angular-app.git
 git@github.com:clouddueling/angular-authentication-example.git
 git@github.com:angular-class/angular-class-site.git
@@ -26,6 +27,7 @@ git@github.com:haukurk/angularjs-app-seed.git
 git@github.com:yearofmoo/angularjs-seed-repo.git
 git@github.com:angular/angularjs.org.git
 git@github.com:angular/builtwith.angularjs.org.git
+git@github.com:devoxx/cfp-speaker.git
 git@github.com:angular/dashboard.angularjs.org.git
 git@github.com:eggheadio/egghead-angularjs-from-scratch-getting-started.git
 git@github.com:firebase/firebase-angular-starter-pack.git

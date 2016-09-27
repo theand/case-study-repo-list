@@ -86,7 +86,6 @@ git@github.com:tutsplus/comparing-front-end-frameworks.git
 git@github.com:tutsplus/connect-the-web-with-websockets.git
 git@github.com:tutsplus/continuous-integration-workflow.git
 git@github.com:tutsplus/conversational-web-forms.git
-git@github.com:tutsplus/crawl-the-web-with-python.git
 git@github.com:tutsplus/create-a-custom-yeoman-generator.git
 git@github.com:tutsplus/create-a-full-stack-rails-and-ember-app.git
 git@github.com:tutsplus/create-a-mobile-app-with-cordova.git

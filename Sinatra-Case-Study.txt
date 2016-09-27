@@ -5,8 +5,8 @@ git@github.com:gma/nesta.git
 git@github.com:stevekinney/pizza.git
 git@github.com:play/play.git
 git@github.com:sinatra/sinatra.git
-git@github.com:karlcoelho/sinatra-boilerplate.git
-git@github.com:evanleck/sinatra-boilerplate.git
+git@github.com:karlcoelho/sinatra-boilerplate.git karlcoelho-sinatra-boilerplate
+git@github.com:evanleck/sinatra-boilerplate.git evanleck-sinatra-boilerplate
 git@github.com:sinatra/sinatra-book.git
 git@github.com:sinatra/sinatra-contrib.git
 git@github.com:sinatra/sinatra-recipes.git

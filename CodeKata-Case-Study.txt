@@ -1,0 +1,4 @@
+git@github.com:laracasts/Code-Katas-in-PHP.git
+git@github.com:laracasts/Gilded-Rose-Kata-in-PHP.git
+git@github.com:andersjanmyr/roman-numerals-kata.git
+git@github.com:ShawnMcCool/tdd-kata.git

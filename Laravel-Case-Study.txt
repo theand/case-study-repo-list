@@ -1,10 +1,15 @@
 git@github.com:chintanbanugaria/92five.git
 git@github.com:laravelish/EasyAdmin.git
+git@github.com:Laravel-Backpack/Base.git
+git@github.com:Laravel-Backpack/CRUD.git
+git@github.com:Laravel-Backpack/Demo.git
+git@github.com:CachetHQ/Cachet.git
 git@github.com:msurguy/Honeypot.git
 git@github.com:fideloper/Implementing-Laravel.git
 git@github.com:colindecarlo/Laraconway.git
 git@github.com:andrewelkins/Laravel-4-Bootstrap-Starter-Site.git
 git@github.com:web-tools/Raw.git
+git@github.com:rtablada/ShortRoundSpike.git
 git@github.com:sdebacker/TypiCMS.git
 git@github.com:letrunghieu/active.git
 git@github.com:sahibalejandro/admin.git
@@ -16,18 +21,20 @@ git@github.com:jusdeleon/contacts.git
 git@github.com:wardrobecms/core.git
 git@github.com:cribbb/cribbb.git
 git@github.com:lazychaser/cruddy.git
-git@github.com:taylorotwell/echo-demo.git
 git@github.com:simkbaio/ecnet-admin.git
 git@github.com:laravel/elixir.git
 git@github.com:adamwathan/eloquent-oauth-example.git
 git@github.com:laravel/envoy.git
 git@github.com:adamwathan/faktory-demo.git
+git@github.com:ladybirdweb/faveo-helpdesk.git
 git@github.com:fideloper/fideloper.com.git
+git@github.com:flarum/core.git flarum-core
 git@github.com:laravel/framework.git
 git@github.com:brianwebb01/hexagonal-laravel-experiment.git
 git@github.com:laravel/homestead.git
 git@github.com:LaravelCollective/html.git
 git@github.com:hillelcoren/invoice-ninja.git
+git@github.com:appkr/jwt-scratchpad.git
 git@github.com:fungku/kwiki.git
 git@github.com:machuga/l4-forums.git
 git@github.com:andersao/l5-repository.git
@@ -52,6 +59,7 @@ git@github.com:jadjoubran/laravel5-angular-material-starter.git
 git@github.com:snipe/laravel5-starter.git
 git@github.com:LaravelCollective/laravelcollective.com.git
 git@github.com:basco-johnkevin/laravelsnippets.git
+git@github.com:LavaLite/cms.git LavaLite-cms
 git@github.com:octobercms/library.git
 git@github.com:adamwathan/liftranker.git
 git@github.com:bertog/litemedia-laravel4.git
@@ -78,5 +86,6 @@ git@github.com:adamgoose/sgfwebdevs.git
 git@github.com:laravel/socialite.git
 git@github.com:mattstauffer/synonym-namer.git
 git@github.com:MrJuliuss/syntara.git
+git@github.com:Vuedo/vuedo.git
 git@github.com:wardrobecms/wardrobe.git
 git@github.com:smartbos/xe_laravel_practice.git

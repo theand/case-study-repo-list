@@ -1,9 +1,9 @@
+git@github.com:autarky/framework.git
 git@github.com:Xeoncross/DByte.git
 git@github.com:domnikl/DesignPatternsPHP.git
 git@github.com:Wandu/Fastelper.git
 git@github.com:Wandu/Http.git
 git@github.com:arnia/Karybu.git
-git@github.com:ModernPUG/meetup.git
 git@github.com:NucleusCMS/NucleusCMS.git
 git@github.com:sonata-project/SonataAdminBundle.git
 git@github.com:Needlworks/Textcube.git
@@ -16,6 +16,7 @@ git@github.com:ModernPUG/allblog.git
 git@github.com:GoogleCloudPlatform/appengine-symfony-starter-project.git
 git://git.code.sf.net/p/bwapp/code
 git@github.com:tightenco/collect.git
+git@github.com:guzzle/command.git
 git@github.com:appkr/envoy.git
 git@github.com:enygma/expose.git
 git@github.com:frozeman/feindura-flat-file-cms.git
@@ -28,15 +29,16 @@ git@github.com:getgrav/grav.git
 git@github.com:ThrusterIO/http-middleware.git
 git@github.com:appkr/iperf-stress.git
 git@github.com:nikic/iter.git
+git@github.com:webmozart/json.git
 git@github.com:findstar/koreanSmsApiForApistore.git
 git@github.com:caseysoftware/marvel-php.git
+git@github.com:ModernPUG/meetup.git
 git@github.com:codeguy/modern-php.git
 git@github.com:mathiasverraes/money.git
 git@github.com:wkpark/moniwiki.git
 git@github.com:wkpark/moniwiki-wikiseed.git
 git@github.com:opencfp/opencfp.git
 git@github.com:etsy/phan.git
-git@github.com:mattiasgeniar/php-exploit-scripts.git
 git@github.com:schmittjoh/php-option.git
 git@github.com:alexandrezia/phpscheduleit.git
 git@github.com:hmlb/phpunit-vw.git
@@ -45,7 +47,6 @@ git@github.com:d3m3vilurr/soojung.git
 git@github.com:kolber/stacey.git
 git@github.com:spatie/string.git
 git@github.com:tightenco/symposium.git
-git@github.com:ShawnMcCool/tdd-kata.git
 git@github.com:findstar/testableSample.git
 git@github.com:graulund/tweetnest.git
 git@github.com:Anahkiasen/underscore-php.git

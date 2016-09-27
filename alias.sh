@@ -169,6 +169,12 @@ function create_txt_for_all_casestudy(){
     cd ../Chrome-Case-Study/
     get_all_git_origin > ../case-study-repo-list/chrome_new.txt
 
+    cd ../CodeKata-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/codekata_new.txt
+
+    cd ../Crawler-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/crawler_new.txt
+
     cd ../Django-Case-Study/
     get_all_git_origin > ../case-study-repo-list/django_new.txt
 
@@ -238,20 +244,26 @@ function create_txt_for_all_casestudy(){
     cd ../Ruby-Case-Study/
     get_all_git_origin > ../case-study-repo-list/ruby_new.txt
 
+    cd ../Security-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/security_new.txt
+
+    cd ../Sinatra-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/sinatra_new.txt
+
     cd ../Spring-Case-Study/
     get_all_git_origin > ../case-study-repo-list/spring_new.txt
 
     cd ../SpringGuides-Case-Study/
     get_all_git_origin > ../case-study-repo-list/sg_new.txt
 
-    cd ../Sinatra-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/sinatra_new.txt
-
     cd ../StaticSite-Case-Study/
     get_all_git_origin > ../case-study-repo-list/static_new.txt
 
     cd ../TIL/
     get_all_git_origin > ../case-study-repo-list/til_new.txt
+
+    cd ../TODOXXX-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/todo_new.txt
 
     cd ../TutsPlus-Resources/
     get_all_git_origin > ../case-study-repo-list/tuts_new.txt
@@ -285,6 +297,12 @@ function clone_repo_for_all_casestudy(){
 
     mkdir -p ../Chrome-Case-Study/;cd ../Chrome-Case-Study/;
     clone_repo_from_txt ../case-study-repo-list/Chrome-Case-Study.txt
+
+    mkdir -p ../CodeKata-Case-Study/;cd ../CodeKata-Case-Study/;
+    clone_repo_from_txt ../case-study-repo-list/CodeKata-Case-Study.txt
+
+    mkdir -p ../Crawler-Case-Study/;cd ../Crawler-Case-Study/;
+    clone_repo_from_txt ../case-study-repo-list/Crawler-Case-Study.txt
 
     mkdir -p ../Django-Case-Study/;cd ../Django-Case-Study/;
     clone_repo_from_txt ../case-study-repo-list/Django-Case-Study.txt
@@ -355,6 +373,9 @@ function clone_repo_for_all_casestudy(){
     mkdir -p ../Ruby-Case-Study/;cd ../Ruby-Case-Study/;
     clone_repo_from_txt ../case-study-repo-list/Ruby-Case-Study.txt
 
+    mkdir -p ../Security-Case-Study/;cd ../Security-Case-Study/;
+    clone_repo_from_txt ../case-study-repo-list/Security-Case-Study.txt
+
     mkdir -p ../Sinatra-Case-Study/;cd ../Sinatra-Case-Study/;
     clone_repo_from_txt ../case-study-repo-list/Sinatra-Case-Study.txt
 
@@ -369,6 +390,9 @@ function clone_repo_for_all_casestudy(){
 
     mkdir -p ../TIL/;cd ../TIL/;
     clone_repo_from_txt ../case-study-repo-list/TIL.txt
+
+    mkdir -p ../TodoXXX-Case-Study/;cd ../TodoXXX-Case-Study/;
+    clone_repo_from_txt ../case-study-repo-list/TodoXXX-Case-Study.txt
 
     mkdir -p ../TutsPlus-Resources/;cd ../TutsPlus-Resources/;
     clone_repo_from_txt ../case-study-repo-list/TutsPlus-Resources.txt

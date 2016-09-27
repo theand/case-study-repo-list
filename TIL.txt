@@ -1,7 +1,7 @@
+git@github.com:AndrewVos/today-i-learned.git AndrewVos-til
 git@github.com:ahastudio/til.git ahastudio-til
 git@github.com:altmetric/til.git altmetric-til
 git@github.com:arastu/til.git arastu-til
-git@github.com:AndrewVos/today-i-learned.git AndrewVos-today-i-learned
 git@github.com:devsejong/TIL.git devsejong-TIL
 git@github.com:dezitter/til.git dezitter-til
 git@github.com:elpassion/til.git elpassion-til
@@ -11,10 +11,12 @@ git@github.com:FakeSloth/til.git FakeSloth-til
 git@github.com:Fool-Stack-Rangers/til.git Fool-Stack-Rangers-til
 git@github.com:geteloquent/til.git geteloquent-til
 git@github.com:holycrap872/til.git holycrap872-til
+git@github.com:hashrocket/hr-til.git
 git@github.com:ip2k/todayilearned.git ip2k-todayilearned
 git@github.com:jbranchaud/til.git jbranchaud-til
 git@github.com:jscappini/til.git jscappini-til
 git@github.com:justincampbell/til.git justincampbell-til
+git@github.com:koojunho/til.git koojunho-til
 git@github.com:leandog/til.git leandog-til
 git@github.com:legelisten/til.git legelisten-til
 git@github.com:Legoben/Today-I-Learned.git Legoben-Today-I-Learned
