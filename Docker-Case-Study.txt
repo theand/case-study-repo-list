@@ -1,0 +1,3 @@
+git@github.com:phusion/baseimage-docker.git
+git@github.com:docker/labs.git
+git@github.com:phusion/passenger-docker.git

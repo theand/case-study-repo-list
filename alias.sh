@@ -46,7 +46,7 @@ function update_git_all(){
         then
             echo "Processing : $DIR"
             cd $DIR ;
-            if git pull ;
+            if git pull -X theirs;
             then
                 echo "pull succeeded";
             else
@@ -178,6 +178,9 @@ function create_txt_for_all_casestudy(){
     cd ../Django-Case-Study/
     get_all_git_origin > ../case-study-repo-list/django_new.txt
 
+    cd ../Docker-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/docker_new.txt
+
     cd ../Electron-Case-Study/
     get_all_git_origin > ../case-study-repo-list/electron_new.txt
 
@@ -268,8 +271,14 @@ function create_txt_for_all_casestudy(){
     cd ../TutsPlus-Resources/
     get_all_git_origin > ../case-study-repo-list/tuts_new.txt
 
+    cd ../Vagrant-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/vagrant_new.txt
+
     cd ../Vue-Case-Study/
     get_all_git_origin > ../case-study-repo-list/vue_new.txt
+
+    cd ../Wiki-Case-Study/
+    get_all_git_origin > ../case-study-repo-list/wiki_new.txt
 
     cd ..
 
@@ -306,6 +315,9 @@ function clone_repo_for_all_casestudy(){
 
     mkdir -p ../Django-Case-Study/;cd ../Django-Case-Study/;
     clone_repo_from_txt ../case-study-repo-list/Django-Case-Study.txt
+
+    mkdir -p ../Docker-Case-Study/;cd ../Docker-Case-Study/;
+    clone_repo_from_txt ../case-study-repo-list/Docker-Case-Study.txt
 
     mkdir -p ../Electron-Case-Study/;cd ../Electron-Case-Study/;
     clone_repo_from_txt ../case-study-repo-list/Electron-Case-Study.txt
@@ -397,8 +409,14 @@ function clone_repo_for_all_casestudy(){
     mkdir -p ../TutsPlus-Resources/;cd ../TutsPlus-Resources/;
     clone_repo_from_txt ../case-study-repo-list/TutsPlus-Resources.txt
 
+    mkdir -p ../Vagrant-Case-Study/;cd ../Vagrant-Case-Study/;
+    clone_repo_from_txt ../case-study-repo-list/Vagrant-Case-Study.txt
+
     mkdir -p ../Vue-Case-Study/;cd ../Vue-Case-Study/;
     clone_repo_from_txt ../case-study-repo-list/Vue-Case-Study.txt
+
+    mkdir -p ../Wiki-Case-Study/;cd ../Wiki-Case-Study/;
+    clone_repo_from_txt ../case-study-repo-list/Wiki-Case-Study.txt
 
     cd ..
 
