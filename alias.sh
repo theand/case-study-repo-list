@@ -1,4 +1,49 @@
 
+CASE_STUDY=( Admin-Case-Study
+Angular-Case-Study
+Atom-Case-Study
+Bot-Case-Study
+boxen
+Chrome-Case-Study
+CodeKata-Case-Study
+Crawler-Case-Study
+Django-Case-Study
+Docker-Case-Study
+Electron-Case-Study
+Flask-Case-Study
+FrontEnd-Case-Study
+General-Case-Study
+iOS-Case-Study
+JS-Case-Study
+Java-Case-Study
+Laracast
+Laravel-Case-Study
+LetsCodeJavaScript-Lab
+LetsCodeJavaScript-LessonLearned
+Motion-Case-Study
+My-Module-Work
+My-Sample-Code
+My-Study-Material
+My-Translation-Work
+NodeJS-Case-Study
+PHP-Case-Study
+Python-Case-Study
+Rails-Case-Study
+React-Case-Study
+Ruby-Case-Study
+Security-Case-Study
+Sinatra-Case-Study
+Spring-Case-Study
+SpringGuides-Case-Study
+StaticSite-Case-Study
+TIL
+TODOXXX-Case-Study
+TutsPlus-Resources
+Vagrant-Case-Study
+Vue-Case-Study
+Wiki-Case-Study
+)
+
 #################
 
 #서브디렉토리들의 git remote 저장소 주소를 뽑아내기.
@@ -149,277 +194,26 @@ function check_not_git(){
 ################
 function create_txt_for_all_casestudy(){
 
-    cd ~/Works
+    for d in ${CASE_STUDY[@]}; do
+        echo $d
+        cd ~/Works/$d
+        get_all_git_origin > ../case-study-repo-list/${d}_new.txt
+    done
 
-    cd Admin-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/admin_new.txt
-
-    cd ../Angular-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/angular_new.txt
-
-    cd ../Atom-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/atom_new.txt
-
-    cd ../Bot-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/bot_new.txt
-
-    cd ../boxen/
-    get_all_git_origin > ../case-study-repo-list/boxen_new.txt
-
-    cd ../Chrome-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/chrome_new.txt
-
-    cd ../CodeKata-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/codekata_new.txt
-
-    cd ../Crawler-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/crawler_new.txt
-
-    cd ../Django-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/django_new.txt
-
-    cd ../Docker-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/docker_new.txt
-
-    cd ../Electron-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/electron_new.txt
-
-    cd ../Flask-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/flask_new.txt
-
-    cd ../FrontEnd-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/front_new.txt
-
-    cd ../General-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/general_new.txt
-
-    cd ../iOS-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/ios_new.txt
-
-    cd ../JS-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/js_new.txt
-
-    cd ../Java-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/java_new.txt
-
-    cd ../Laracast/
-    get_all_git_origin > ../case-study-repo-list/laracast_new.txt
-
-    cd ../Laravel-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/laravel_new.txt
-
-    cd ../LetsCodeJavaScript-Lab/
-    get_all_git_origin > ../case-study-repo-list/lets_lab_new.txt
-
-    cd ../LetsCodeJavaScript-LessonLearned/
-    get_all_git_origin > ../case-study-repo-list/lets_lesson_new.txt
-
-    cd ../Motion-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/motion_new.txt
-
-    cd ../My-Module-Work/
-    get_all_git_origin > ../case-study-repo-list/my-module_new.txt
-
-    cd ../My-Sample-Code/
-    get_all_git_origin > ../case-study-repo-list/my-sample_new.txt
-
-    cd ../My-Study-Material/
-    get_all_git_origin > ../case-study-repo-list/my-study_new.txt
-
-    cd ../My-Translation-Work/
-    get_all_git_origin > ../case-study-repo-list/my-trans_new.txt
-
-    cd ../NodeJS-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/nodejs_new.txt
-
-    cd ../PHP-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/php_new.txt
-
-    cd ../Python-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/python_new.txt
-
-    cd ../Rails-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/rails_new.txt
-
-    cd ../React-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/react_new.txt
-
-    cd ../Ruby-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/ruby_new.txt
-
-    cd ../Security-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/security_new.txt
-
-    cd ../Sinatra-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/sinatra_new.txt
-
-    cd ../Spring-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/spring_new.txt
-
-    cd ../SpringGuides-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/sg_new.txt
-
-    cd ../StaticSite-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/static_new.txt
-
-    cd ../TIL/
-    get_all_git_origin > ../case-study-repo-list/til_new.txt
-
-    cd ../TODOXXX-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/todo_new.txt
-
-    cd ../TutsPlus-Resources/
-    get_all_git_origin > ../case-study-repo-list/tuts_new.txt
-
-    cd ../Vagrant-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/vagrant_new.txt
-
-    cd ../Vue-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/vue_new.txt
-
-    cd ../Wiki-Case-Study/
-    get_all_git_origin > ../case-study-repo-list/wiki_new.txt
-
-    cd ..
-
+    cd ~/Works/case-study-repo-list
 }
-
-
 
 
 ################
 function clone_repo_for_all_casestudy(){
+    for d in ${CASE_STUDY[@]}; do
+        echo $d
+        mkdir -p ~/Works/$d;
+        cd ~/Works/$d;
+        clone_repo_from_txt ../case-study-repo-list/${d}.txt
+    done
 
-    mkdir -p ~/Works;cd ~/Works;
-
-    mkdir -p Admin-Case-Study/;cd Admin-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Admin-Case-Study.txt
-
-    mkdir -p ../Angular-Case-Study/;cd ../Angular-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Angular-Case-Study.txt
-
-    mkdir -p ../Atom-Case-Study/;cd ../Atom-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Atom-Case-Study.txt
-
-    mkdir -p ../Bot-Case-Study/;cd ../Bot-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Bot-Case-Study.txt
-
-    mkdir -p ../Chrome-Case-Study/;cd ../Chrome-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Chrome-Case-Study.txt
-
-    mkdir -p ../CodeKata-Case-Study/;cd ../CodeKata-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/CodeKata-Case-Study.txt
-
-    mkdir -p ../Crawler-Case-Study/;cd ../Crawler-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Crawler-Case-Study.txt
-
-    mkdir -p ../Django-Case-Study/;cd ../Django-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Django-Case-Study.txt
-
-    mkdir -p ../Docker-Case-Study/;cd ../Docker-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Docker-Case-Study.txt
-
-    mkdir -p ../Electron-Case-Study/;cd ../Electron-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Electron-Case-Study.txt
-
-    mkdir -p ../Flask-Case-Study/;cd ../Flask-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Flask-Case-Study.txt
-
-    mkdir -p ../FrontEnd-Case-Study/;cd ../FrontEnd-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/FrontEnd-Case-Study.txt
-
-    mkdir -p ../General-Case-Study/;cd ../General-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/General-Case-Study.txt
-
-    mkdir -p ../iOS-Case-Study/;cd ../iOS-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/iOS-Case-Study.txt
-
-    mkdir -p ../JS-Case-Study/;cd ../JS-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/JS-Case-Study.txt
-
-    mkdir -p ../Java-Case-Study/;cd ../Java-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Java-Case-Study.txt
-
-    mkdir -p ../Laracast/;cd ../Laracast/;
-    clone_repo_from_txt ../case-study-repo-list/Laracast.txt
-
-    mkdir -p ../Laravel-Case-Study/;cd ../Laravel-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Laravel-Case-Study.txt
-
-    mkdir -p ../LetsCodeJavaScript-Lab/;cd ../LetsCodeJavaScript-Lab/;
-    clone_repo_from_txt ../case-study-repo-list/LetsCodeJavaScript-Lab.txt
-
-    mkdir -p ../LetsCodeJavaScript-LessonLearned/;cd ../LetsCodeJavaScript-LessonLearned/;
-    clone_repo_from_txt ../case-study-repo-list/LetsCodeJavaScript-LessonLearned.txt
-
-    mkdir -p ../Motion-Case-Study/;cd ../Motion-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Motion-Case-Study.txt
-
-    mkdir -p ../My-Module-Work/;cd ../My-Module-Work/;
-    clone_repo_from_txt ../case-study-repo-list/My-Module-Work.txt
-
-    mkdir -p ../My-Sample-Code/;cd ../My-Sample-Code/;
-    clone_repo_from_txt ../case-study-repo-list/My-Sample-Code.txt
-
-    mkdir -p ../My-Study-Material/;cd ../My-Study-Material/;
-    clone_repo_from_txt ../case-study-repo-list/My-Study-Material.txt
-
-    mkdir -p ../My-Translation-Work/;cd ../My-Translation-Work/;
-    clone_repo_from_txt ../case-study-repo-list/My-Translation-Work.txt
-
-    mkdir -p ../NodeJS-Case-Study/;cd ../NodeJS-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/NodeJS-Case-Study.txt
-
-    mkdir -p ../PHP-Case-Study/;cd ../PHP-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/PHP-Case-Study.txt
-
-    mkdir -p ../Python-Case-Study/;cd ../Python-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Python-Case-Study.txt
-
-    mkdir -p ../Rails-Case-Study/;cd ../Rails-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Rails-Case-Study.txt
-
-    mkdir -p ../React-Case-Study/;cd ../React-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/React-Case-Study.txt
-
-    mkdir -p ../Ruby-Case-Study/;cd ../Ruby-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Ruby-Case-Study.txt
-
-    mkdir -p ../Security-Case-Study/;cd ../Security-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Security-Case-Study.txt
-
-    mkdir -p ../Sinatra-Case-Study/;cd ../Sinatra-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Sinatra-Case-Study.txt
-
-    mkdir -p ../Spring-Case-Study/;cd ../Spring-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Spring-Case-Study.txt
-
-    mkdir -p ../SpringGuides-Case-Study/;cd ../SpringGuides-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/SpringGuides-Case-Study.txt
-
-    mkdir -p ../StaticSite-Case-Study/;cd ../StaticSite-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/StaticSite-Case-Study.txt
-
-    mkdir -p ../TIL/;cd ../TIL/;
-    clone_repo_from_txt ../case-study-repo-list/TIL.txt
-
-    mkdir -p ../TodoXXX-Case-Study/;cd ../TodoXXX-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/TodoXXX-Case-Study.txt
-
-    mkdir -p ../TutsPlus-Resources/;cd ../TutsPlus-Resources/;
-    clone_repo_from_txt ../case-study-repo-list/TutsPlus-Resources.txt
-
-    mkdir -p ../Vagrant-Case-Study/;cd ../Vagrant-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Vagrant-Case-Study.txt
-
-    mkdir -p ../Vue-Case-Study/;cd ../Vue-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Vue-Case-Study.txt
-
-    mkdir -p ../Wiki-Case-Study/;cd ../Wiki-Case-Study/;
-    clone_repo_from_txt ../case-study-repo-list/Wiki-Case-Study.txt
-
-    cd ..
-
+    cd ~/Works
 }
 
 
