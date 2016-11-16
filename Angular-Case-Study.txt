@@ -1,9 +1,3 @@
-git@github.com:DanWahlin/Angular2-JumpStart.git
-git@github.com:DanWahlin/CustomerManager.git
-git@github.com:geekuillaume/Freader.git
-git@github.com:angular-class/NG6-starter.git
-git@github.com:kamranayub/Pluralsight-Angular.git
-git@github.com:WizardFactory/TodayWeather.git
 git@github.com:angular-app/angular-app.git
 git@github.com:clouddueling/angular-authentication-example.git
 git@github.com:angular-class/angular-class-site.git
@@ -19,6 +13,7 @@ git@github.com:angular-class/angular-testing-quick-start-guide.git
 git@github.com:angular/angular.js.git
 git@github.com:jimthedev/angular2-falcor-webpack-builder.git
 git@github.com:johnpapa/angular2-go.git
+git@github.com:DanWahlin/Angular2-JumpStart.git
 git@github.com:rogerpadilla/angular2-minimalist-starter.git
 git@github.com:angular-class/angular2-reactive-starter.git
 git@github.com:angular-class/angular2-webpack-starter.git
@@ -28,9 +23,11 @@ git@github.com:yearofmoo/angularjs-seed-repo.git
 git@github.com:angular/angularjs.org.git
 git@github.com:angular/builtwith.angularjs.org.git
 git@github.com:devoxx/cfp-speaker.git
+git@github.com:DanWahlin/CustomerManager.git
 git@github.com:angular/dashboard.angularjs.org.git
 git@github.com:eggheadio/egghead-angularjs-from-scratch-getting-started.git
 git@github.com:firebase/firebase-angular-starter-pack.git
+git@github.com:geekuillaume/Freader.git
 git@github.com:yeoman/generator-angular.git
 git@github.com:DaftMonk/generator-angular-fullstack.git
 git@github.com:johnpapa/generator-hottowel.git
@@ -44,8 +41,11 @@ git@github.com:callmehiphop/mario-cards.git
 git@github.com:angular/material-start.git
 git@github.com:tekpub/ng-mongo.git
 git@github.com:ocombe/ng2-webpack.git
+git@github.com:angular-class/NG6-starter.git
 git@github.com:jimrhoskins/ngmodules.org.git
+git@github.com:kamranayub/Pluralsight-Angular.git
 git@github.com:angular/quickstart.git
 git@github.com:ihoneymon/rocking-the-rest-api-view.git
 git@github.com:Stamplay/stamplay-foodme.git
+git@github.com:WizardFactory/TodayWeather.git
 git@github.com:angular-tips/webpack-demo.git

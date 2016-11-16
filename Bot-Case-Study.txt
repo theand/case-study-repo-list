@@ -2,14 +2,19 @@ git@github.com:rubenlagus/TelegramBots.git
 git@github.com:howdyai/botkit.git
 git@github.com:vaihtovirta/botup.git
 git@github.com:FreeCodeCamp/camperbot.git
+git@github.com:spchuang/fb-local-chat-bot.git
+git@github.com:conbus/fbmq.git
 git@github.com:github/generator-hubot.git
 git@github.com:github/hubot.git
 git@github.com:github/hubot-scripts.git
 git@github.com:slackhq/hubot-slack.git
 git@github.com:github/janky.git
+git@github.com:weirdmeetup/koalabot.git
 git@github.com:jun85664396/messenger-bot-rails.git
+git@github.com:fbsamples/messenger-platform-samples.git
 git@github.com:szastupov/musicbot.git
 git@github.com:sng2c/mypeople-bot-buffer.git
+git@github.com:DiegoRBaquero/node-fb-messenger.git
 git@github.com:slackhq/node-slack-client.git
 git@github.com:teampopong/pokrbot.git
 git@github.com:slackhq/python-slackclient.git
@@ -19,4 +24,6 @@ git@github.com:irazasyed/telegram-bot-bootstrap.git
 git@github.com:irazasyed/telegram-bot-sdk.git
 git@github.com:kolar/telegram-poll-bot.git
 git@github.com:eljojo/telegram_bot.git
+git@github.com:rubenlagus/TelegramBots.git
+git@github.com:andygrunwald/TrendingGithub.git
 git@github.com:datamachine/twx.botapi.git

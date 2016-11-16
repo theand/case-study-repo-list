@@ -1,4 +1,3 @@
-git@github.com:ShinJaehun/ClassCasts.git
 git@github.com:activeadmin/activeadmin.git
 git@github.com:rails/activeresource.git
 git@github.com:thoughtbot/administrate.git
@@ -12,6 +11,7 @@ git@github.com:rorlakr/blog_season_4.git
 git@github.com:presidentbeef/brakeman.git
 git@github.com:browsermedia/browsercms.git
 git@github.com:vaihtovirta/calendar_on_rails.git
+git@github.com:ShinJaehun/ClassCasts.git
 git@github.com:bborn/communityengine.git
 git@github.com:orendon/contrib-hub.git
 git@github.com:nukomeet/coworfing.git
@@ -35,6 +35,7 @@ git@github.com:kpumuk/meta-tags.git
 git@github.com:OpenHunting/openhunt.git
 git@github.com:orientation/orientation.git
 git@github.com:phusion/passenger-ruby-rails-demo.git
+git@github.com:phusion/passenger_status_service.git
 git@github.com:piggybak/piggybak.git
 git@github.com:publify/publify.git
 git@github.com:rubysherpas/r4ia_examples.git

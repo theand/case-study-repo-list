@@ -1,4 +1,3 @@
-git@github.com:danielmcgraw/Jekyll-Base.git
 git@github.com:trek/beautiful-open.git
 git@github.com:cdmedia/cms.js.git
 git@github.com:waferbaby/dimples.git
@@ -18,13 +17,13 @@ git@github.com:hexojs/hexo-webui.git
 git@github.com:hexojs/hexojs.github.io.git
 git@github.com:poole/hyde.git
 git@github.com:jekyll/jekyll.git
+git@github.com:danielmcgraw/Jekyll-Base.git
 git@github.com:necolas/jekyll-boilerplate.git
 git@github.com:planetjekyll/jekyll-bootstrap-theme.git
 git@github.com:mdo/jekyll-example.git
 https://github.com/planetjekyll/jekyll-minimal-theme
 git@github.com:mdo/jekyll-snippets.git
 git@github.com:lektor/lektor.git
-git@github.com:npm/newww.git
 git@github.com:npm/newww-tests.git
 git@github.com:getnikola/nikola.git
 git@github.com:chriseidhof/pomotv.git

@@ -1,4 +1,12 @@
 git@github.com:imwilsonxu/chrome-extension-dev-template.git
+git@github.com:sionide21/Insert-jQuery.git
+git@github.com:olivertso/instagrabber.git
+git@github.com:phlare/instagram-download-chrome.git
+git@github.com:cjkumaresh/instagram-downloader-chrome.git
+git@github.com:mittya/instagram-helper.git
+git@github.com:davidmaillo/instagram-images-download-extension.git
+git@github.com:astritzeqiri/instagram_download_button.git
+git@github.com:davidhwayne/instanabber.git
 git@github.com:ohgyun/naver-news-user-comments-viewer.git
 git@github.com:ohgyun/naver_news_redirector.git
 git@github.com:sindresorhus/notifier-for-github-chrome.git

@@ -2,6 +2,8 @@ git@github.com:njh/dbpedialite.git
 git@github.com:Thibaut/devdocs.git
 git@github.com:zaknelson/hike.io.git
 git@github.com:gma/nesta.git
+git@github.com:phusion/passenger-ruby-heroku-demo.git
+git@github.com:phusion/passenger-ruby-sinatra-demo.git
 git@github.com:stevekinney/pizza.git
 git@github.com:play/play.git
 git@github.com:sinatra/sinatra.git

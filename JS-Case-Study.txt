@@ -1,15 +1,12 @@
-git@github.com:OmarElGabry/DesignPatterns.git
-git@github.com:angular-class/ES6-build-tools.git
-git@github.com:ReactiveX/RxJS.git
-git@github.com:NUKnightLab/TimelineJS3.git
-git@github.com:getify/You-Dont-Know-JS.git
 git@github.com:ruby-korea/advent-calendar.git
 git@github.com:winterbe/algorithms.git
 git@github.com:mzabriskie/axios.git
 git@github.com:zloirock/core-js.git
 git@github.com:twitter/d3kit.git
+git@github.com:OmarElGabry/DesignPatterns.git
 git@github.com:madrobby/dom-monster.git
 git@github.com:zloirock/dtf.git
+git@github.com:angular-class/ES6-build-tools.git
 git@github.com:jakearchibald/es6-promise.git
 git@github.com:angular-class/es6-workshop.git
 git@github.com:lukehoban/es6features.git
@@ -35,6 +32,7 @@ git@github.com:jquery/jquery-simulate.git
 git@github.com:AllThingsSmitty/jquery-tips-everyone-should-know.git
 git@github.com:benhowdle89/js-idioms.git
 git@github.com:mathieuancelin/js-repaint-perfs.git
+git@github.com:verekia/js-stack-from-scratch.git
 git@github.com:wesbos/keycodes.git
 git@github.com:jamesshore/lets_code_javascript.git
 git@github.com:lodash/lodash.git
@@ -52,11 +50,13 @@ git@github.com:sindresorhus/query-string.git
 git@github.com:jquery/qunit.git
 git@github.com:ramda/ramda.git
 git@github.com:mdo/redditate.git
+git@github.com:ReactiveX/RxJS.git
 git@github.com:outsideris/slack-invite-automation.git
 git@github.com:lqez/smartstudy-lottery-2015.git
 git@github.com:swmaestro/somat.git
 git@github.com:alexei/sprintf.js.git
 git@github.com:jinbonetwork/the-art-of-protest-android.git
+git@github.com:NUKnightLab/TimelineJS3.git
 git@github.com:parshap/truncate-utf8-bytes.git
 git@github.com:nhnent/tui.code-snippet.git
 git@github.com:twitter/twemoji.git
@@ -66,3 +66,4 @@ git@github.com:epeli/underscore.string.git
 git@github.com:bellbind/using-promise-q.git
 git@github.com:odyss009/webpack-sample.git
 git@github.com:bradleyboy/yarsk.git
+git@github.com:getify/You-Dont-Know-JS.git

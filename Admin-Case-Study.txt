@@ -1,6 +1,6 @@
 git@github.com:almasaeed2010/AdminLTE.git
-git@github.com:VinceG/Bootstrap-Admin-Theme-3.git
 git@github.com:akveo/blur-admin.git
+git@github.com:VinceG/Bootstrap-Admin-Theme-3.git
 git@github.com:intentmedia/dashboard.js.git
 git@github.com:keen/dashboards.git
 git@github.com:Shopify/dashing.git

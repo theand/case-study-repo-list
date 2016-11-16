@@ -1,9 +1,7 @@
-git@github.com:superlloyd/VueSamples.git
 git@github.com:rajabishek/begin.git
 git@github.com:inca/voie-example.git
 git@github.com:vuejs/vue.git
 git@github.com:fundon/vue-admin.git
-git@github.com:vuejs/vue-browserify-example.git
 git@github.com:vuejs/vue-cli.git
 git@github.com:vuejs/vue-hackernews.git
 git@github.com:vuejs/vue-html-loader.git
@@ -15,9 +13,8 @@ git@github.com:kazupon/vue-router-hackernews.git
 git@github.com:yuche/vue-strap.git
 git@github.com:vuejs/vue-template-validator.git
 git@github.com:vuejs/vue-validator.git
-git@github.com:vuejs/vue-webpack-example.git
 git@github.com:vuejs/vuefire.git
-git@github.com:vuejs/vueify-example.git
 git@github.com:vuejs/vuejs.org.git
+git@github.com:superlloyd/VueSamples.git
 git@github.com:vuejs-templates/webpack.git
 git@github.com:vuejs-templates/webpack-simple.git
