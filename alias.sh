@@ -44,6 +44,21 @@ Vue-Case-Study
 Wiki-Case-Study
 )
 
+shuffle() {
+   local i tmp size max rand
+
+   # $RANDOM % (i+1) is biased because of the limited range of $RANDOM
+   # Compensate by using a range which is a multiple of the array size.
+   size=${#CASE_STUDY[*]}
+   max=$(( 32768 / size * size ))
+
+   for ((i=size-1; i>0; i--)); do
+      while (( (rand=$RANDOM) >= max )); do :; done
+      rand=$(( rand % (i+1) ))
+      tmp=${CASE_STUDY[i]} CASE_STUDY[i]=${CASE_STUDY[rand]} CASE_STUDY[rand]=$tmp
+   done
+}
+
 #################
 
 #서브디렉토리들의 git remote 저장소 주소를 뽑아내기.
@@ -96,7 +111,7 @@ function update_git_all(){
                 echo "pull succeeded";
             else
                 echo "!!!git reset hard!!!";
-                git reset --hard origin/master;
+                git reset --hard origin/HEAD;
             fi
             git remote prune origin;
             cd .. ;
@@ -120,55 +135,38 @@ function gc_git_all(){
 
 
 function works_update_all(){
-    cd ~/Works/case-study-repo-list;
-    for DIR in *.txt;
-    do
-        bname=$(basename "$DIR" .txt);
+
+    shuffle;
+
+    for bname in ${CASE_STUDY[@]}; do
         echo "==================="
         echo "Case Study : $bname"
         echo "==================="
 
-        if [[ -d ../$bname ]] && [[ $bname != "TutsPlus-Resources" ]] && [[ $bname != "My-Module-Work" ]] && [[ $bname != "My-Sample-Code" ]] && [[ $bname != "My-Study-Material" ]] && [[ $bname != "boxen" ]] && [[ $bname != "iOS-Case-Study" ]]
+        if [[ -d ~/Works/$bname ]] && [[ $bname != "TutsPlus-Resources" ]] && [[ $bname != "My-Module-Work" ]] && [[ $bname != "My-Sample-Code" ]] && [[ $bname != "My-Study-Material" ]] && [[ $bname != "boxen" ]] && [[ $bname != "iOS-Case-Study" ]]
         then
-            cd ../$bname ;
+            cd ~/Works/$bname ;
             update_git_all ;
-            cd ../case-study-repo-list;
         fi
     done
 }
 
 
 function works_gc_all(){
-    cd ~/Works/case-study-repo-list;
-    for DIR in *.txt;
-    do
-        bname=$(basename "$DIR" .txt);
+
+    for bname in ${CASE_STUDY[@]}; do
         echo "==================="
         echo "Case Study : $bname"
         echo "==================="
 
-        if [[ -d ../$bname ]] && [[ $bname != "My-Module-Work" ]] && [[ $bname != "My-Sample-Code" ]] && [[ $bname != "My-Study-Material" ]] && [[ $bname != "boxen" ]] && [[ $bname != "iOS-Case-Study" ]]
+        if [[ -d ~/Works/$bname ]] && [[ $bname != "My-Module-Work" ]] && [[ $bname != "My-Sample-Code" ]] && [[ $bname != "My-Study-Material" ]] && [[ $bname != "boxen" ]] && [[ $bname != "iOS-Case-Study" ]]
         then
-            cd ../$bname ;
+            cd ~/Works/$bname ;
             gc_git_all ;
-            cd ../case-study-repo-list;
         fi
     done
 }
 #################
-
-function update_composer_all(){
-    for DIR in `ls`;
-    do
-        echo "Processing : $DIR"
-        if [[ -d $DIR ]] && [[ -e $DIR/composer.json ]]
-        then
-            cd $DIR ;
-            composer update ;
-            cd .. ;
-        fi
-    done
-}
 
 
 function reset_git_origin(){
@@ -206,6 +204,7 @@ function create_txt_for_all_casestudy(){
 
 ################
 function clone_repo_for_all_casestudy(){
+
     for d in ${CASE_STUDY[@]}; do
         echo $d
         mkdir -p ~/Works/$d;
