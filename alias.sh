@@ -172,7 +172,7 @@ function works_gc_all(){
 function reset_git_origin(){
     if [[ -d .git ]]
     then
-        git reset --hard origin/master
+        git reset --hard origin
     fi
 }
 
