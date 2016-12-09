@@ -3,6 +3,7 @@ git@github.com:winterbe/algorithms.git
 git@github.com:mzabriskie/axios.git
 git@github.com:zloirock/core-js.git
 git@github.com:twitter/d3kit.git
+git@github.com:date-fns/date-fns.git
 git@github.com:OmarElGabry/DesignPatterns.git
 git@github.com:madrobby/dom-monster.git
 git@github.com:zloirock/dtf.git
@@ -41,6 +42,8 @@ git@github.com:moment/moment-timezone.git
 git@github.com:ohgyun/mustard.git
 git@github.com:parshap/node-sanitize-filename.git
 git@github.com:andrewvc/node-streamlogger.git
+git@github.com:peasy/peasy-js.git
+git@github.com:peasy/peasy-js-samples.git
 git@github.com:tectonic/pjax-router.git
 git@github.com:twitter/plumage.js.git
 git@github.com:andersjanmyr/promise-lab.git
@@ -55,6 +58,7 @@ git@github.com:outsideris/slack-invite-automation.git
 git@github.com:lqez/smartstudy-lottery-2015.git
 git@github.com:swmaestro/somat.git
 git@github.com:alexei/sprintf.js.git
+git@github.com:tc39/test262.git
 git@github.com:jinbonetwork/the-art-of-protest-android.git
 git@github.com:NUKnightLab/TimelineJS3.git
 git@github.com:parshap/truncate-utf8-bytes.git

@@ -1,1 +1,4 @@
 git@github.com:akngs/ecogwiki.git
+git@github.com:wkpark/moniwiki.git
+git@github.com:wkpark/moniwiki-wikiseed.git
+git@github.com:dittos/wikistat.git

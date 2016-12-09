@@ -1,3 +1,4 @@
+git@github.com:omgmog/chrome-add-link-to-trello.git
 git@github.com:imwilsonxu/chrome-extension-dev-template.git
 git@github.com:sionide21/Insert-jQuery.git
 git@github.com:olivertso/instagrabber.git

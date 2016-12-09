@@ -37,7 +37,7 @@ Spring-Case-Study
 SpringGuides-Case-Study
 StaticSite-Case-Study
 TIL
-TODOXXX-Case-Study
+TodoXXX-Case-Study
 TutsPlus-Resources
 Vagrant-Case-Study
 Vue-Case-Study

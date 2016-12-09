@@ -27,8 +27,6 @@ git@github.com:caseysoftware/marvel-php.git
 git@github.com:ModernPUG/meetup.git
 git@github.com:codeguy/modern-php.git
 git@github.com:mathiasverraes/money.git
-git@github.com:wkpark/moniwiki.git
-git@github.com:wkpark/moniwiki-wikiseed.git
 git@github.com:NucleusCMS/NucleusCMS.git
 git@github.com:opencfp/opencfp.git
 git@github.com:etsy/phan.git

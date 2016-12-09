@@ -1,6 +1,7 @@
 git@github.com:trek/beautiful-open.git
 git@github.com:cdmedia/cms.js.git
 git@github.com:waferbaby/dimples.git
+git@github.com:minio/doctor.git
 git@github.com:hexojs/hexo.git
 git@github.com:hexojs/hexo-clean-css.git
 git@github.com:hexojs/hexo-cli.git

@@ -40,12 +40,15 @@ git@github.com:vladmihalcea/high-performance-java-persistence.git
 git@github.com:kevinsawicki/http-request.git
 git@github.com:verekia/initializr.git
 git@github.com:iluwatar/java-design-patterns.git
+git@github.com:albertlatacz/java-repl.git
 git@github.com:kevinsawicki/java-timeago.git
 git@github.com:winterbe/java8-explorer.git
 git@github.com:gmind7/java8-training.git
 git@github.com:winterbe/java8-tutorial.git
 git@github.com:java8/Java8InAction.git
 git@github.com:Yongdae-Kim/java_study.git
+git@github.com:shipilev/jdk8-lambda-samples.git
+git@github.com:JosePaumard/jdk8-lambda-tour.git
 git@github.com:jOOQ/jOOQ.git
 git@github.com:jOOQ/jOOQ-s-Java-8-Goodies.git
 git@github.com:qwefgh90/JSearch.git
@@ -73,6 +76,7 @@ git@github.com:perwendel/spark-template-engines.git
 git@github.com:naver/svngit.git
 git@github.com:ahastudio/tdd-by-example.git
 git@github.com:mbosecke/template-benchmark.git
+git@github.com:thymeleaf/thymeleaf.git
 git@github.com:google/tiger.git
 git@github.com:twitter/twitter-korean-text.git
 git@github.com:linkedin/URL-Detector.git

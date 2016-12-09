@@ -46,7 +46,6 @@ git@github.com:nltk/nltk.git
 git@github.com:andrewlouis93/Office-Scripts.git
 git@github.com:pydata/pandas.git
 git@github.com:hanpama/peppertext.git
-git@github.com:phaethon/scapy.git
 git@github.com:mitsuhiko/platter.git
 git@github.com:mitsuhiko/probe.git
 git@github.com:pythonkr/pyconapac-2016.git
@@ -66,6 +65,7 @@ git@github.com:rubik/radon.git
 git@github.com:reddit/reddit.git
 git@github.com:kennethreitz/requests.git
 git@github.com:moggers87/salmon.git
+git@github.com:phaethon/scapy.git
 git@github.com:scikit-learn/scikit-learn.git
 git@github.com:sphinx-doc/sphinx.git
 git@bitbucket.org:zzzeek/sqlalchemy.git
@@ -81,6 +81,5 @@ git@github.com:web2py/web2py.git
 git@github.com:web2py/web3py.git
 git@github.com:mitsuhiko/werkzeug.git
 git@github.com:Suor/whatever.git
-git@github.com:dittos/wikistat.git
 git@github.com:w3c/wpt-tools.git
 git@github.com:zopefoundation/Zope.git

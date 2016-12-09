@@ -145,6 +145,8 @@ git@github.com:samer-abdelkafi/ssng-project.git
 git@github.com:dlwjddn22/SSProject.git
 git@github.com:ihoneymon/study-orm-jpa.git
 git@github.com:arawn/swagger-spring-mvc-showcase.git
+git@github.com:thymeleaf/thymeleafexamples-gtvg.git
+git@github.com:thymeleaf/thymeleafexamples-stsm.git
 git@github.com:jdubois/Tudu-Lists.git
 git@github.com:eugenp/tutorials.git
 git@github.com:WebGoat/WebGoat.git
