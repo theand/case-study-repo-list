@@ -127,11 +127,24 @@ function gc_git_all(){
         then
             echo "Processing : $DIR"
             cd $DIR ;
+            git remote prune origin;
             git gc;
             cd .. ;
         fi
     done
 }
+
+function gc_git_all_sub(){
+    shopt -u dotglob
+    for DIR in `\ls`;
+    do
+        echo "In : $DIR"
+        cd $DIR ;
+        gc_git_all;
+        cd ..;
+    done
+}
+
 
 
 function works_update_all(){
