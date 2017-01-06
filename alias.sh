@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 
 CASE_STUDY=( Admin-Case-Study
 Angular-Case-Study
@@ -63,7 +64,7 @@ shuffle() {
 
 #서브디렉토리들의 git remote 저장소 주소를 뽑아내기.
 function get_all_git_origin(){
-    for DIR in `ls`;
+    for DIR in `\ls -f`;
     do
         if [[ -d $DIR ]] && [[ -d $DIR/.git ]]
         then
@@ -100,7 +101,7 @@ function clone_repo_from_txt(){
 
 #서브디렉토리의 모든 git 저장소를 업데이트.
 function update_git_all(){
-    for DIR in `ls`;
+    for DIR in `\ls -f`;
     do
         if [[ -d $DIR ]] && [[ -d $DIR/.git ]]
         then
@@ -121,7 +122,7 @@ function update_git_all(){
 
 #서브디렉토리의 모든 git 저장소를 gc
 function gc_git_all(){
-    for DIR in `ls`;
+    for DIR in `\ls -f`;
     do
         if [[ -d $DIR ]] && [[ -d $DIR/.git ]]
         then
@@ -136,7 +137,7 @@ function gc_git_all(){
 
 function gc_git_all_sub(){
     shopt -u dotglob
-    for DIR in `\ls`;
+    for DIR in `\ls -f`;
     do
         echo "In : $DIR"
         cd $DIR ;
@@ -148,6 +149,8 @@ function gc_git_all_sub(){
 
 
 function works_update_all(){
+
+    pushd .
 
     shuffle;
 
@@ -162,10 +165,14 @@ function works_update_all(){
             update_git_all ;
         fi
     done
+
+    popd
 }
 
 
 function works_gc_all(){
+
+    pushd .
 
     for bname in ${CASE_STUDY[@]}; do
         echo "==================="
@@ -178,6 +185,8 @@ function works_gc_all(){
             gc_git_all ;
         fi
     done
+
+    popd
 }
 #################
 
@@ -190,7 +199,7 @@ function reset_git_origin(){
 }
 
 function check_not_git(){
-  for DIR in `ls`;
+  for DIR in `\ls -f`;
   do
       if [[ ! -d $DIR/.git ]]
       then
@@ -230,33 +239,3 @@ function clone_repo_for_all_casestudy(){
 
 
 
-#참고 https://github.com/theand/git-open/blob/develop/git-open
-function replace_opdev_to_cpdev(){
-    for DIR in `ls`;
-    do
-        if [[ -d $DIR ]] && [[ -d $DIR/.git ]]
-        then
-            cd $DIR ;
-
-            giturl=$(git config --get remote.origin.url)
-            if [ -z "$giturl" ]; then
-                echo "remote.origin.url not set in $DIR."
-                cd ..;
-                continue
-            fi
-
-            echo "Processing $DIR";
-            if grep -q github.daumkakao.com:OpDev <<<$giturl; then
-                echo "  original remote.origin.url : $giturl"
-                giturl=${giturl/:OpDev/:CpDev}
-                git remote set-url origin $giturl
-                echo "  changed remote.origin.url : $giturl"
-            else
-                echo "  !!! not github.daumkakao.com:OpDev !!! : $giturl"
-            fi
-
-            echo "";
-            cd .. ;
-        fi
-    done
-}
