@@ -1,5 +1,6 @@
 git@github.com:sajjadAI/CaptureDeo.git
 git@github.com:bodzaital/Cat-A-Gram.git
+git@github.com:mdamien/chrome-extensions-archive.git
 git@github.com:hgielar/CLI-Instagram-Downloader.git
 git@github.com:tutsplus/crawl-the-web-with-python.git
 git@github.com:teampopong/crawlers.git

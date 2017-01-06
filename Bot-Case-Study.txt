@@ -8,6 +8,7 @@ git@github.com:github/hubot.git
 git@github.com:github/hubot-scripts.git
 git@github.com:slackhq/hubot-slack.git
 git@github.com:github/janky.git
+git@github.com:Just-Some-Bots/MusicBot.git
 git@github.com:weirdmeetup/koalabot.git
 git@github.com:jun85664396/messenger-bot-rails.git
 git@github.com:fbsamples/messenger-platform-samples.git
@@ -26,3 +27,4 @@ git@github.com:eljojo/telegram_bot.git
 git@github.com:rubenlagus/TelegramBots.git
 git@github.com:andygrunwald/TrendingGithub.git
 git@github.com:datamachine/twx.botapi.git
+git@github.com:JungWinter/yellowid-flask.git

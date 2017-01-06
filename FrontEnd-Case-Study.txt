@@ -1,3 +1,4 @@
+git@github.com:ampproject/amphtml.git
 git@github.com:daneden/animate.css.git
 git@github.com:h5bp/ant-build-script.git
 git@github.com:mdo/code-guide.git

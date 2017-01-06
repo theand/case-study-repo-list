@@ -27,6 +27,7 @@ git@github.com:rubysherpas/forem.git
 git@github.com:luciuschoi/foundblog.git
 git@github.com:thoughtbot/hound.git
 git@github.com:javajigi/humhum.git
+git@github.com:presidentbeef/inject-some-sql.git
 git@github.com:RailsApps/learn-rails.git
 git@github.com:loomio/loomio.git
 git@github.com:mephistorb/mephisto.git

@@ -11,6 +11,7 @@ git@github.com:angular-class/ES6-build-tools.git
 git@github.com:jakearchibald/es6-promise.git
 git@github.com:angular-class/es6-workshop.git
 git@github.com:lukehoban/es6features.git
+git@github.com:amilajack/eslint-plugin-compat.git
 git@github.com:necolas/event-shim.js.git
 git@github.com:github/fetch.git
 git@github.com:mattdiamond/fuckitjs.git

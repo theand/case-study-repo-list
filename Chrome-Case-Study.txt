@@ -1,5 +1,7 @@
 git@github.com:omgmog/chrome-add-link-to-trello.git
 git@github.com:imwilsonxu/chrome-extension-dev-template.git
+git@github.com:adrienjoly/chrome-next-step-for-trello.git
+git@github.com:au5ton/DirectLinks.git
 git@github.com:sionide21/Insert-jQuery.git
 git@github.com:olivertso/instagrabber.git
 git@github.com:phlare/instagram-download-chrome.git
@@ -11,4 +13,7 @@ git@github.com:davidhwayne/instanabber.git
 git@github.com:ohgyun/naver-news-user-comments-viewer.git
 git@github.com:ohgyun/naver_news_redirector.git
 git@github.com:sindresorhus/notifier-for-github-chrome.git
+git@github.com:Rezaaa/Prello-Chrome-Extension.git
 git@github.com:sindresorhus/refined-github.git
+git@github.com:zaucy/trello-context-menus.git
+git@github.com:Shaddix/TrelloChromeExtension.git

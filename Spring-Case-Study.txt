@@ -3,6 +3,7 @@ git@github.com:aramsoft/aramcomp.git
 git@github.com:arquillian/arquillian-showcase.git
 git@github.com:brunobat/basic-testing-webapp.git
 git@github.com:joshlong/boot-it-up.git
+git@github.com:viniciusccarvalho/boot-two-way-ssl-example.git
 git@github.com:BroadleafCommerce/BroadleafCommerce.git
 git@github.com:dpinto-pivotal/cf-SpringBootTrader.git
 git@github.com:spring-cloud-samples/config-repo.git

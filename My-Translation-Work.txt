@@ -1,6 +1,7 @@
 git@github.com:johnpapa/angular-styleguide.git
 git@github.com:mgechev/angularjs-style-guide.git
 git@github.com:cxxr/better-java.git
+git@github.com:ryanmcdermott/clean-code-javascript.git
 git@github.com:xpressengine/Composer-korean-docs.git
 git@github.com:laravel/docs.git
 git@github.com:bagder/everything-curl.git

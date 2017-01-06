@@ -58,6 +58,7 @@ git@github.com:benelog/lambda-resort.git
 git@github.com:ihoneymon/learn-tdd.git
 git@github.com:ocpsoft/logging.git
 git@github.com:logsniffer/logsniffer.git
+git@github.com:DimitrisAndreou/memory-measurer.git
 git@github.com:Kevin-Lee/modern-java-untold.git
 git@github.com:javajigi/mvp-examples.git
 git@github.com:okjsp/okky.git
@@ -79,6 +80,7 @@ git@github.com:mbosecke/template-benchmark.git
 git@github.com:thymeleaf/thymeleaf.git
 git@github.com:google/tiger.git
 git@github.com:twitter/twitter-korean-text.git
+git@github.com:ua-parser/uap-java.git
 git@github.com:linkedin/URL-Detector.git
 git@github.com:mikaelhg/urlbuilder.git
 git@github.com:vert-x/vertx-examples.git
