@@ -1,7 +1,6 @@
 git@github.com:sajjadAI/CaptureDeo.git
 git@github.com:bodzaital/Cat-A-Gram.git
 git@github.com:mdamien/chrome-extensions-archive.git
-git@github.com:hgielar/CLI-Instagram-Downloader.git
 git@github.com:tutsplus/crawl-the-web-with-python.git
 git@github.com:teampopong/crawlers.git
 git@github.com:janko-m/down.git
@@ -18,7 +17,6 @@ git@github.com:lukekarrys/instagram-download.git
 git@github.com:cjkumaresh/instagram-downloader.git
 git@github.com:carlinhus/Instagram-downloader.git
 git@github.com:Eblonko/instagram-downloader.git
-git@github.com:ahmethakanbesel/instagram-photo-downloader.git
 git@github.com:cls1991/instagram-picture-downloader.git
 git@github.com:gl051/instagram-scraper.git
 git@github.com:pranavsricharan/instagram_downloader.git
@@ -38,7 +36,6 @@ git@github.com:sf27/StalkGramKotlinPlus.git
 git@github.com:sf27/StalkGramPlus.git
 git@github.com:sf27/StalkGramReactNative.git
 git@github.com:CaseyKelly/terminal-instagram-download.git
-git@github.com:Eblonko/tg-instagram-downloader.git
 git@github.com:robdelacruz/web-instagram-dl.git
 git@github.com:qwefgh90/WebDownloader.git
 git@github.com:rg3/youtube-dl.git

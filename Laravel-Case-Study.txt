@@ -28,6 +28,7 @@ git@github.com:LaravelCollective/html.git
 git@github.com:fideloper/Implementing-Laravel.git
 git@github.com:hillelcoren/invoice-ninja.git
 git@github.com:appkr/jwt-scratchpad.git
+git@github.com:phanan/koel.git
 git@github.com:fungku/kwiki.git
 git@github.com:machuga/l4-forums.git
 git@github.com:andersao/l5-repository.git
@@ -63,6 +64,7 @@ git@github.com:adamwathan/liftranker.git
 git@github.com:bertog/litemedia-laravel4.git
 git@github.com:laravel/lumen.git
 git@github.com:laravel/lumen-framework.git
+git@github.com:vluzrmos/lumen-tinker.git
 git@github.com:Xethron/migrations-generator.git
 git@github.com:msurguy/missingpetflyer.git
 git@github.com:ModernPUG/modernpug.org.git

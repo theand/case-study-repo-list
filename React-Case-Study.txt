@@ -4,7 +4,6 @@ git@github.com:gaearon/flux-react-router-example.git
 git@github.com:wesbos/Learn-Redux.git
 git@github.com:wesbos/Learn-Redux-Site.git
 git@github.com:wesbos/Learn-Redux-Starter-Files.git
-git@github.com:gregturn/react-and-spring-data-rest.git
 git@github.com:wesbos/React-Beer-Me.git
 git@github.com:mxstbr/react-boilerplate.git
 git@github.com:assertchris/react-cms.git
@@ -25,7 +24,7 @@ git@github.com:reactjs/react-tutorial.git
 git@github.com:kouphax/react-workshop.git
 git@github.com:fullstackreact/react-yelp-clone.git
 git@github.com:Rokt33r/ReactElectronExample.git
-git@github.com:rackt/redux.git
+git@github.com:reactjs/redux.git
 git@github.com:happypoulp/redux-tutorial.git
 git@github.com:winterbe/spring-react-example.git
 git@github.com:lukekarrys/universal-static-instagram.git

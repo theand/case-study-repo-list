@@ -17,8 +17,10 @@ git@github.com:chentsulin/electron-react-boilerplate.git
 git@github.com:electronkr/electron-spectron-showcase.git
 git@github.com:electronkr/electron-starter-kit.git
 git@github.com:importre/electron-starterify.git
+git@github.com:SimulatedGREG/electron-vue.git
 git@github.com:importre/epp.git
 git@github.com:sindresorhus/generator-electron.git
+git@github.com:ChangJoo-Park/gitrelease-app.git
 git@github.com:maxogden/menubar.git
 git@github.com:k0kubun/Nocturn.git
 git@github.com:brandonjpierce/node-webkit-boilerplate.git

@@ -11,6 +11,7 @@ git@github.com:enygma/expose.git
 git@github.com:Wandu/Fastelper.git
 git@github.com:frozeman/feindura-flat-file-cms.git
 git@github.com:forkcms/forkcms.git
+git@github.com:lstrojny/functional-php.git
 git@github.com:assertchris/generators-and-iter.git
 https://github.com/igorw/get-in
 git@github.com:GoogleCloudPlatform/getting-started-php.git

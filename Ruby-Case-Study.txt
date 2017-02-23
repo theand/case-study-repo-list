@@ -4,7 +4,9 @@ git@github.com:sporkmonger/addressable.git
 git@github.com:ahoward/arrayfields.git
 git@github.com:marcandre/backports.git
 git@github.com:codahale/bcrypt-ruby.git
+git@github.com:rubychan/coderay.git
 git@github.com:ahoward/coerce.git
+git@github.com:rubychan/colorspec.git
 git@github.com:danneu/craig.git
 git@github.com:soveran/cuba.git
 git@github.com:ahoward/demon.git
@@ -36,6 +38,7 @@ git@github.com:seattlerb/minitest.git
 git@github.com:sferik/mlb.git
 git@github.com:mongrel2/mongrel2.git
 git@github.com:redsquirrel/nest.git
+git@github.com:ohler55/oj.git
 git@github.com:skmetz/ood_examples.git
 git@github.com:github/pages-health-check.git
 git@github.com:phusion/passenger-ruby-faye-websocket-demo.git
@@ -57,9 +60,12 @@ git@github.com:Thibaut/ruby-benchmarks.git
 git@github.com:jechol/ruby-coding-interview-template.git
 git@github.com:jordansissel/ruby-filewatch.git
 git@github.com:jordansissel/ruby-stud.git
+git@github.com:rubychan/rubybenchmark.git
 git@github.com:ruby-korea/RubyDesignPatternStudy.git
+git@github.com:rubychan/shootout.git
 git@github.com:nacyot/slack_log_viewer.git
 git@github.com:jordansissel/software-patterns.git
+git@github.com:rubychan/stringscanner-benchmarks.git
 git@github.com:jimweirich/sudoku.git
 git@github.com:coreyhaines/sudoku_solver.git
 git@github.com:sferik/t.git
@@ -70,5 +76,6 @@ git@github.com:sferik/twitter.git
 git@github.com:mispy/twitter_ebooks.git
 git@github.com:twitter/twurl.git
 git@github.com:seamusabshere/upsert.git
+git@github.com:rubychan/water.git
 git@github.com:bblimke/webmock.git
 git@github.com:ahoward/wrap.git

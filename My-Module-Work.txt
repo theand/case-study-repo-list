@@ -1,3 +1,4 @@
+git@github.com:omgmog/chrome-add-link-to-trello.git
 git@github.com:theand/git-open.git
 git@github.com:theand/github-backup.git
 git@github.daumkakao.com:rob-c/linkify.git

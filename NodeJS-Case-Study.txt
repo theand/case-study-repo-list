@@ -5,6 +5,7 @@ git@github.com:nodejs-enterprise/cms.git
 git@github.com:FreeCodeCamp/COM1000.git
 git@github.com:NickCarneiro/curlconverter.git
 git@github.com:angular-class/email-responder.git
+git@github.com:vmasto/express-babel.git
 git@github.com:airportyh/express-promises-error-handling.git
 git@github.com:focusaurus/express_code_structure.git
 git@github.com:Marak/faker.js.git
@@ -31,6 +32,7 @@ git@github.com:openstf/stf.git
 git@github.com:visionmedia/superagent.git
 git@github.com:sintaxi/surge.git
 git@github.com:CatsMiaow/Tested.git
+git@github.com:EthanRBrown/web-development-with-node-and-express.git
 git@github.com:zhukov/webogram.git
 git@github.com:rparjun/webtail.git
 git@github.com:airportyh/word-count.git

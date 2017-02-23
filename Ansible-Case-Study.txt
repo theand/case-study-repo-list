@@ -1,0 +1,17 @@
+git@github.com:knight1128/ansible-apache-php.git
+git@github.com:ansible/ansible-examples.git
+git@github.com:knight1128/ansible-jenkins.git
+git@github.com:opdavies/ansible-role-yum-cron.git
+git@github.com:knight1128/ansible-simple.git
+git@github.com:dhrrgn/laravel-vagrant-ansible.git
+git@github.com:opdavies/macos-provisioning.git
+git@github.com:jverdeyen/macplan.git
+git@github.com:phansible/docker-ansible.git
+git@github.com:phansible/role-apache.git
+git@github.com:phansible/role-elasticsearch.git
+git@github.com:phansible/role-pgsql.git
+git@github.com:phansible/role-server.git
+git@github.com:phansible/role-vagrant_local.git
+git@github.com:mheap/phpnw-ansible-playbooks.git
+git@github.com:rvm/rvm1-ansible.git
+git@github.com:FriendsOfCake/vagrant-ansible.git

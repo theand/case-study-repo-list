@@ -59,9 +59,11 @@ git@github.com:kennethreitz/python-guide.git
 git@github.com:mitsuhiko/python-modernize.git
 git@github.com:mitsuhiko/python-regex-scanner.git
 git@github.com:realpython/python-scripts.git
+git@github.com:gregmalcolm/python_koans.git
 git@github.com:pytube/pytube.git
 git@github.com:pytube/data.git
 git@github.com:rubik/radon.git
+git@github.com:mnot/redbot.git
 git@github.com:reddit/reddit.git
 git@github.com:kennethreitz/requests.git
 git@github.com:moggers87/salmon.git

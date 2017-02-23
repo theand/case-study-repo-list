@@ -15,6 +15,7 @@ git@github.com:ihoneymon/never-ending-study.git
 git@github.com:komarserjio/notejam.git
 git@github.com:phusion/phusion-server-tools.git
 git@github.com:rorlakr/Playground.git
+git@github.com:rubychan/Programming-Languages-Syntax-Examples.git
 git@github.com:einaregilsson/Redirector.git
 git@github.com:josiahcarlson/redis-in-action.git
 git@github.com:github/scripts-to-rule-them-all.git

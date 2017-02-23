@@ -15,7 +15,6 @@ git@github.com:apache/commons-io.git
 git@github.com:apache/commons-lang.git
 git@github.com:apache/commons-logging.git
 git@github.com:apache/commons-net.git
-git@github.com:apache/commons-primitives.git
 git@github.com:apache/commons-validator.git
 git@github.com:GoogleCloudPlatform/compute-getting-started-java.git
 git@github.com:debop/connectionpool-benchmark.git
