@@ -2,6 +2,7 @@
 
 CASE_STUDY=( Admin-Case-Study
 Angular-Case-Study
+Ansible-Case-Study
 Atom-Case-Study
 Bot-Case-Study
 boxen
@@ -214,13 +215,15 @@ function check_not_git(){
 ################
 function create_txt_for_all_casestudy(){
 
+    mkdir ~/Works/case-study-repo-list-new/ -p
     for d in ${CASE_STUDY[@]}; do
         echo $d
         cd ~/Works/$d
-        get_all_git_origin > ../case-study-repo-list/${d}_new.txt
+        get_all_git_origin > ../case-study-repo-list-new/${d}.txt
     done
 
-    cd ~/Works/case-study-repo-list
+    cd ~/Works/case-study-repo-list-new
+    bcomp  ~/Works/case-study-repo-list-new  ~/Works/case-study-repo-list
 }
 
 
