@@ -7,7 +7,6 @@ git@github.com:ChangJoo-Park/vue-component-generator.git
 git@github.com:vuejs/vue-devtools.git
 git@github.com:vuejs/vue-hackernews.git
 git@github.com:vuejs/vue-html-loader.git
-git@github.com:vuejs/vue-loader-example.git
 git@github.com:kazupon/vue-plugin-boilerplate.git
 git@github.com:vuejs/vue-resource.git
 git@github.com:vuejs/vue-router.git

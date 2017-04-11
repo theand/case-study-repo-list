@@ -2,6 +2,7 @@ git@github.com:aosabook/500lines.git
 git@github.com:aosabook/aosabook.git
 git@github.com:abiyani/automate-save-page-as.git
 git@github.com:ragingwind/bare-boilerplate.git
+git@github.com:eggsby/boiled-eggs.git
 git@github.com:ahastudio/CodingLife.git
 git@github.com:lucaminudel/CodingTestsAndSolutions.git
 git@github.com:twitter/commons.git
