@@ -123,7 +123,7 @@ function update_git_all(){
 
 #서브디렉토리의 모든 git 저장소를 gc
 function gc_git_all(){
-    for DIR in `\ls -f`;
+    for DIR in `\ls -A`;
     do
         if [[ -d $DIR ]] && [[ -d $DIR/.git ]]
         then
@@ -138,7 +138,7 @@ function gc_git_all(){
 
 function gc_git_all_sub(){
     shopt -u dotglob
-    for DIR in `\ls -f`;
+    for DIR in `\ls -A`;
     do
         echo "In : $DIR"
         cd $DIR ;
