@@ -32,6 +32,7 @@ git@github.com:thoughtbot/hound.git
 git@github.com:javajigi/humhum.git
 git@github.com:presidentbeef/inject-some-sql.git
 git@github.com:markets/invisible_captcha.git
+git@github.com:webgradus/kms.git
 git@github.com:RailsApps/learn-rails.git
 git@github.com:loomio/loomio.git
 git@github.com:markets/maily.git

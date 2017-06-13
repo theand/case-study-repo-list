@@ -1,7 +1,6 @@
-git@github.com:AndrewVos/today-i-learned.git AndrewVos-til
 git@github.com:ahastudio/til.git ahastudio-til
 git@github.com:altmetric/til.git altmetric-til
-git@github.com:arastu/til.git arastu-til
+git@github.com:AndrewVos/today-i-learned.git AndrewVos-til
 git@github.com:devsejong/TIL.git devsejong-TIL
 git@github.com:dezitter/til.git dezitter-til
 git@github.com:elpassion/til.git elpassion-til

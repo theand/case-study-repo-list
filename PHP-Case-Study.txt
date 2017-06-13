@@ -24,6 +24,7 @@ git@github.com:nikic/iter.git
 git@github.com:webmozart/json.git
 git@github.com:arnia/Karybu.git
 git@github.com:findstar/koreanSmsApiForApistore.git
+git@github.com:dddinphp/last-wishes.git
 git@github.com:caseysoftware/marvel-php.git
 git@github.com:ModernPUG/meetup.git
 git@github.com:codeguy/modern-php.git
@@ -31,6 +32,7 @@ git@github.com:mathiasverraes/money.git
 git@github.com:NucleusCMS/NucleusCMS.git
 git@github.com:opencfp/opencfp.git
 git@github.com:etsy/phan.git
+git@github.com:kenjis/php-framework-benchmark.git
 git@github.com:schmittjoh/php-option.git
 git@github.com:alexandrezia/phpscheduleit.git
 git@github.com:hmlb/phpunit-vw.git

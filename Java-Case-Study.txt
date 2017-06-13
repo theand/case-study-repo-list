@@ -5,7 +5,6 @@ git@github.com:MTDdk/autolink-java.git
 git@github.com:gmind7/bakery-spring-data-jpa-sample.git
 git@github.com:cxxr/better-java.git
 git@github.com:ben-manes/caffeine.git
-git@github.com:devoxx/cfp-devoxx.git
 git@github.com:apache/commons-collections.git
 git@github.com:apache/commons-configuration.git
 git@github.com:apache/commons-csv.git
@@ -23,6 +22,7 @@ git@github.com:OmarElGabry/DesignPatterns.git
 git@github.com:marhan/effective-java-examples.git
 git@github.com:arawn/egovframe-springmvc.git
 git@github.com:ratpack/example-books.git
+git@github.com:jhalterman/failsafe.git
 git@github.com:eirslett/frontend-maven-plugin.git
 git@github.com:smola/galimatias.git
 git@github.com:GoogleCloudPlatform/gcloud-java-examples.git
@@ -30,6 +30,7 @@ git@github.com:GoogleCloudPlatform/getting-started-java.git
 git@github.com:kevinsawicki/github-maven-example.git
 git@github.com:ertugrulcetin/GlueList.git
 git@github.com:kwon37xi/gradle-tutorial.git
+git@github.com:oci-pronghorn/GreenLightning.git
 git@github.com:google/guava.git
 git@github.com:bbejeck/guava-blog.git
 git@github.com:tfnico/guava-examples.git
@@ -46,6 +47,7 @@ git@github.com:gmind7/java8-training.git
 git@github.com:winterbe/java8-tutorial.git
 git@github.com:java8/Java8InAction.git
 git@github.com:Yongdae-Kim/java_study.git
+git@github.com:jcabi/jcabi-aspects.git
 git@github.com:shipilev/jdk8-lambda-samples.git
 git@github.com:JosePaumard/jdk8-lambda-tour.git
 git@github.com:jOOQ/jOOQ.git
@@ -65,6 +67,8 @@ git@github.com:hrldcpr/pcollections.git
 git@github.com:dankle/pdfmerger.git
 git@github.com:ocpsoft/prettytime.git
 git@github.com:ocpsoft/regex-tester.git
+git@github.com:orfjackal/retrolambda.git
+git@github.com:tusharmndr/retry-function-wrapper.git
 git@github.com:ocpsoft/rewrite.git
 git@github.com:ihoneymon/rocking-the-gradle.git
 git@github.com:ReactiveX/RxJava.git
@@ -73,8 +77,10 @@ git@github.com:javajigi/slipp-v2.git
 git@github.com:javajigi/slipp-v2-uploader.git
 git@github.com:perwendel/spark.git
 git@github.com:perwendel/spark-template-engines.git
+git@github.com:LawrenceAhn/spring-log2slack.git
 git@github.com:naver/svngit.git
 git@github.com:ahastudio/tdd-by-example.git
+git@github.com:orfjackal/tdd-tetris-tutorial.git
 git@github.com:mbosecke/template-benchmark.git
 git@github.com:thymeleaf/thymeleaf.git
 git@github.com:google/tiger.git
@@ -83,5 +89,6 @@ git@github.com:ua-parser/uap-java.git
 git@github.com:linkedin/URL-Detector.git
 git@github.com:mikaelhg/urlbuilder.git
 git@github.com:vert-x/vertx-examples.git
+git@github.com:eggsby/warden.git
 git@github.com:naver/yobi.git
 git@github.com:yona-projects/yona.git
