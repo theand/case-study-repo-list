@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+red=`tput setaf 1`
+green=`tput setaf 2`
+reset=`tput sgr0`
+
 CASE_STUDY=( Admin-Case-Study
 Angular-Case-Study
 Ansible-Case-Study
@@ -112,7 +116,7 @@ function update_git_all(){
             then
                 echo "pull succeeded";
             else
-                echo "!!!git reset hard!!!";
+                echo "${red} ${DIR} !!!git reset hard!!! ${reset}";
                 git reset --hard origin/HEAD;
             fi
             git remote prune origin;
@@ -204,7 +208,7 @@ function check_not_git(){
   do
       if [[ ! -d $DIR/.git ]]
       then
-          echo "not git : $DIR"
+          echo "${red}not git : ${DIR} ${reset}"
       fi
   done
 }
