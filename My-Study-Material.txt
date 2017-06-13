@@ -1,6 +1,0 @@
-git@github.com:blakeembrey/code-problems.git
-git@github.com:theand/CodeKata.git
-git@github.com:theand-exercises/company_coding_test.git
-git@github.com:theand-exercises/exercises-for-programmers.git
-git@github.com:theand/study-note.git
-git@github.daumkakao.com:rob-c/study_railsguidebook.git

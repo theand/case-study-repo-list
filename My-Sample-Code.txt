@@ -1,5 +1,0 @@
-git@github.com:theand/sample-boris.git
-git@github.com:theand/sample-date.git
-git@github.com:theand/sample-escaping.git
-git@github.com:theand/sample-goutte.git
-git@github.com:theand/sample-whoops.git

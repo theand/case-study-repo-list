@@ -22,14 +22,12 @@ General-Case-Study
 iOS-Case-Study
 JS-Case-Study
 Java-Case-Study
+Kotlin-Case-Study
 Laracast
 Laravel-Case-Study
 LetsCodeJavaScript-Lab
 LetsCodeJavaScript-LessonLearned
 Motion-Case-Study
-My-Module-Work
-My-Sample-Code
-My-Study-Material
 My-Translation-Work
 NodeJS-Case-Study
 PHP-Case-Study
@@ -202,7 +200,7 @@ function works_gc_all(){
 
         containsElement "$bname" "${CASE_STUDY_EXCLUDE[@]}"
         no_excludes=$?
-        if [[ -d ~/Works/Study/$bname ]] && [[ no_excludes -eq 1  ]]
+        if [[ -d ~/Works/Study/$bname ]] && [[ no_excludes -eq 1  ]] 
         then
             cd ~/Works/Study/$bname;
             gc_git_all ;
