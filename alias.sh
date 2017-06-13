@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-red=`tput setaf 1`
-green=`tput setaf 2`
-reset=`tput sgr0`
+red=$(tput setaf 1)
+green=$(tput setaf 2)
+reset=$(tput sgr0)
 
 CASE_STUDY=( Admin-Case-Study
 Angular-Case-Study
@@ -50,6 +50,11 @@ Vue-Case-Study
 Wiki-Case-Study
 )
 
+CASE_STUDY_EXCLUDE=( boxen
+iOS-Case-Study
+TutsPlus-Resources
+)
+
 shuffle() {
    local i tmp size max rand
 
@@ -64,6 +69,13 @@ shuffle() {
       tmp=${CASE_STUDY[i]} CASE_STUDY[i]=${CASE_STUDY[rand]} CASE_STUDY[rand]=$tmp
    done
 }
+
+containsElement () {
+  local e
+  for e in "${@:2}"; do [[ "$e" == "$1" ]] && return 0; done
+  return 1
+}
+
 
 #################
 
@@ -159,15 +171,19 @@ function works_update_all(){
 
     shuffle;
 
-    for bname in ${CASE_STUDY[@]}; do
+    for bname in "${CASE_STUDY[@]}"; do
         echo "==================="
         echo "Case Study : $bname"
         echo "==================="
 
-        if [[ -d ~/Works/$bname ]] && [[ $bname != "TutsPlus-Resources" ]] && [[ $bname != "My-Module-Work" ]] && [[ $bname != "My-Sample-Code" ]] && [[ $bname != "My-Study-Material" ]] && [[ $bname != "boxen" ]] && [[ $bname != "iOS-Case-Study" ]]
+        containsElement "$bname" "${CASE_STUDY_EXCLUDE[@]}"
+        no_excludes=$?
+        if [[ -d ~/Works/Study/$bname ]] && [[ no_excludes -eq 1  ]]
         then
-            cd ~/Works/$bname ;
+            cd ~/Works/Study/$bname ;
             update_git_all ;
+        else
+            echo "${red}skip  ~/Works/Study/$bname${reset}"
         fi
     done
 
@@ -179,15 +195,19 @@ function works_gc_all(){
 
     pushd .
 
-    for bname in ${CASE_STUDY[@]}; do
+    for bname in "${CASE_STUDY[@]}"; do
         echo "==================="
         echo "Case Study : $bname"
         echo "==================="
 
-        if [[ -d ~/Works/$bname ]] && [[ $bname != "My-Module-Work" ]] && [[ $bname != "My-Sample-Code" ]] && [[ $bname != "My-Study-Material" ]] && [[ $bname != "boxen" ]] && [[ $bname != "iOS-Case-Study" ]]
+        containsElement "$bname" "${CASE_STUDY_EXCLUDE[@]}"
+        no_excludes=$?
+        if [[ -d ~/Works/Study/$bname ]] && [[ no_excludes -eq 1  ]]
         then
-            cd ~/Works/$bname ;
+            cd ~/Works/Study/$bname;
             gc_git_all ;
+        else
+            echo "${red}skip  ~/Works/Study/$bname${reset}"
         fi
     done
 
@@ -219,15 +239,15 @@ function check_not_git(){
 ################
 function create_txt_for_all_casestudy(){
 
-    mkdir ~/Works/case-study-repo-list-new/ -p
+    mkdir ~/Works/Study/case-study-repo-list-new/ -p
     for d in ${CASE_STUDY[@]}; do
         echo $d
-        cd ~/Works/$d
+        cd ~/Works/Study/$d
         get_all_git_origin > ../case-study-repo-list-new/${d}.txt
     done
 
-    cd ~/Works/case-study-repo-list-new
-    bcomp  ~/Works/case-study-repo-list-new  ~/Works/case-study-repo-list
+    cd ~/Works/Study/case-study-repo-list-new
+    bcomp  ~/Works/Study/case-study-repo-list-new  ~/Works/Study/case-study-repo-list
 }
 
 
@@ -236,12 +256,12 @@ function clone_repo_for_all_casestudy(){
 
     for d in ${CASE_STUDY[@]}; do
         echo $d
-        mkdir -p ~/Works/$d;
-        cd ~/Works/$d;
+        mkdir -p ~/Works/Study/$d;
+        cd ~/Works/Study/$d;
         clone_repo_from_txt ../case-study-repo-list/${d}.txt
     done
 
-    cd ~/Works
+    cd ~/Works/Study
 }
 
 
