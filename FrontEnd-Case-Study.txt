@@ -3,6 +3,7 @@ git@github.com:daneden/animate.css.git
 git@github.com:h5bp/ant-build-script.git
 git@github.com:mdo/code-guide.git
 git@github.com:Omgitsonlyalex/Crowder-Email-Template.git
+https://github.com/mdn/css-examples.git
 git@github.com:webpack/css-loader.git
 git@github.com:mdo/css-output.git
 git@github.com:AllThingsSmitty/css-protips.git
@@ -55,9 +56,11 @@ git@github.com:ohgyun/starting-webpack.git
 git@github.com:AllThingsSmitty/super-simple-css-tooltips.git
 git@github.com:Polymer/topeka.git
 git@github.com:edwardtufte/tufte-css.git
+https://github.com/googlesamples/web-fundamentals.git
 git@github.com:w3c/web-platform-tests.git
 git@github.com:google/web-starter-kit.git
 git@github.com:ruanyf/webpack-demos.git
 git@github.com:phuu/webpack-dependency-demo.git
+git@github.com:wesbos/What-The-Flexbox.git
 git@github.com:mdo/wtf-forms.git
 git@github.com:mdo/wtf-html-css.git

@@ -1,3 +1,5 @@
+https://github.com/gilbutITbook/006764.git
+https://github.com/gilbutITbook/006834.git
 git@github.com:KeepSafe/aiohttp.git
 git@github.com:zzzeek/alembic.git
 git@github.com:kennethreitz/alphaglyph.git
@@ -40,6 +42,7 @@ git@github.com:zzzeek/mako.git
 git@github.com:mitsuhiko/markupsafe.git
 git@github.com:JukkaL/mypy.git
 git@github.com:onefinestay/nameko.git
+https://github.com/SethMMorton/natsort.git
 git@github.com:networkx/networkx.git
 git@github.com:samuelclay/NewsBlur.git
 git@github.com:nltk/nltk.git
@@ -54,6 +57,7 @@ git@github.com:pythonkr/pyconkr-2015.git
 git@github.com:web2py/pydal.git
 git@github.com:perhapsspy/pylog.git
 git@github.com:Pylons/pyramid.git
+git@github.com:mingrammer/pyreportcard.git
 git@github.com:TheAlgorithms/Python.git
 git@github.com:kennethreitz/python-guide.git
 git@github.com:mitsuhiko/python-modernize.git

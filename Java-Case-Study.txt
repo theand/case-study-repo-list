@@ -1,3 +1,5 @@
+https://github.com/gilbutITbook/006725.git
+https://github.com/gilbutITbook/006903.git
 git@github.com:spotify/apollo.git
 git@github.com:GoogleCloudPlatform/appengine-guestbook-java.git
 git@github.com:GoogleCloudPlatform/appengine-java-vm-guestbook-extras.git
@@ -5,6 +7,7 @@ git@github.com:MTDdk/autolink-java.git
 git@github.com:gmind7/bakery-spring-data-jpa-sample.git
 git@github.com:cxxr/better-java.git
 git@github.com:ben-manes/caffeine.git
+git@github.com:zepinos/ChatServer.git
 git@github.com:apache/commons-collections.git
 git@github.com:apache/commons-configuration.git
 git@github.com:apache/commons-csv.git
@@ -21,6 +24,7 @@ git@github.com:tjchaplin/DDDSample.git
 git@github.com:OmarElGabry/DesignPatterns.git
 git@github.com:marhan/effective-java-examples.git
 git@github.com:arawn/egovframe-springmvc.git
+https://github.com/csj4032/enjoy-java8.git
 git@github.com:ratpack/example-books.git
 git@github.com:jhalterman/failsafe.git
 git@github.com:eirslett/frontend-maven-plugin.git
@@ -41,6 +45,7 @@ git@github.com:kevinsawicki/http-request.git
 git@github.com:verekia/initializr.git
 git@github.com:iluwatar/java-design-patterns.git
 git@github.com:albertlatacz/java-repl.git
+git@github.com:jarvis-kim/java-study.git
 git@github.com:kevinsawicki/java-timeago.git
 git@github.com:winterbe/java8-explorer.git
 git@github.com:gmind7/java8-training.git
@@ -50,18 +55,23 @@ git@github.com:Yongdae-Kim/java_study.git
 git@github.com:jcabi/jcabi-aspects.git
 git@github.com:shipilev/jdk8-lambda-samples.git
 git@github.com:JosePaumard/jdk8-lambda-tour.git
+https://github.com/oblac/jodd.git
 git@github.com:jOOQ/jOOQ.git
 git@github.com:jOOQ/jOOQ-s-Java-8-Goodies.git
 git@github.com:qwefgh90/JSearch.git
 git@github.com:junit-team/junit5.git
 git@github.com:slipp/jwp-book.git
 git@github.com:benelog/lambda-resort.git
+https://github.com/optimaize/language-detector.git
 git@github.com:ihoneymon/learn-tdd.git
+git@github.com:visualkhh/lib-java.git
 git@github.com:ocpsoft/logging.git
 git@github.com:logsniffer/logsniffer.git
 git@github.com:DimitrisAndreou/memory-measurer.git
 git@github.com:Kevin-Lee/modern-java-untold.git
 git@github.com:javajigi/mvp-examples.git
+git@github.com:anyunzhong/netty-chat.git
+git@github.com:thierryherrmann/nettychat.git
 git@github.com:okjsp/okky.git
 git@github.com:hrldcpr/pcollections.git
 git@github.com:dankle/pdfmerger.git
@@ -90,5 +100,6 @@ git@github.com:linkedin/URL-Detector.git
 git@github.com:mikaelhg/urlbuilder.git
 git@github.com:vert-x/vertx-examples.git
 git@github.com:eggsby/warden.git
+https://github.com/optimaize/webcrawler-verifier.git
 git@github.com:naver/yobi.git
 git@github.com:yona-projects/yona.git

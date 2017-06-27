@@ -1,3 +1,8 @@
+https://github.com/gilbutITbook/006746.git
+https://github.com/gilbutITbook/006815.git
+https://github.com/gilbutITbook/006859.git
+https://github.com/gilbutITbook/006880.git
+https://github.com/gilbutITbook/006905.git
 git@github.com:mraible/21-points.git
 git@github.com:wlfekymk/3rd-Party-Push-Server-JPA-Spring-Boot-Redis.git
 git@github.com:aramsoft/aramcomp.git
@@ -34,6 +39,7 @@ git@github.com:arawn/ksug-2012-spring-31-summary.git
 git@github.com:holyeye/ksug2015-morden-jpa.git
 git@github.com:arahansa/learn_springsecurity.git
 git@github.com:arahansa/LearningSpringSocial.git
+git@github.com:visualkhh/lib-spring.git
 git@github.com:reactor/lite-rx-api-hands-on.git
 git@github.com:naver/lucy-xss-filter.git
 git@github.com:naver/lucy-xss-servlet-filter.git
@@ -98,12 +104,14 @@ git@github.com:snicoll/spring-boot-maven-tests.git
 git@github.com:sbcoba/spring-boot-multidatasource.git
 git@github.com:sbcoba/spring-boot-oauth2-sample.git
 git@github.com:sdeleuze/spring-boot-sample-web-handlebars.git
+git@github.com:young891221/spring-boot-social-comment.git
 git@github.com:ihoneymon/spring-boot-starter.git
 git@github.com:mmeany/spring-boot-web-mvc-tiles3.git
 git@github.com:mikaelhg/spring-boot-webpack-es6-react-poc.git
 git@github.com:ptahchiev/spring-cache-test.git
 git@github.com:sbcoba/spring-camp-spring-security-session.git
 git@github.com:sbcoba/spring-camp-spring-security-session2.git
+git@github.com:kbastani/spring-cloud-microservice-example.git
 git@github.com:spring-projects/spring-data-book.git
 git@github.com:spring-projects/spring-data-commons.git
 git@github.com:spring-projects/spring-data-document-examples.git

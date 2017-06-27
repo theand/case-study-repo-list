@@ -17,12 +17,16 @@ git@github.com:donpark/hbs.git
 git@github.com:tonite31/Imboard.git
 git@github.com:disjukr/jews.git
 git@github.com:bevacqua/jscharting.git
+https://github.com/typicode/json-server.git
+https://github.com/typicode/jsonplaceholder.git
 git@github.com:keystonejs/keystone.git
+https://github.com/typicode/lowdb.git
 git@github.com:wesbos/mastering-markdown.git
 git@github.com:ohgyun/md2html.git
 git@github.com:cfjedimaster/mockdata.git
 git@github.com:GoogleCloudPlatform/nodejs-getting-started.git
 git@github.com:andris9/Nodemailer.git
+https://github.com/domenic/opener.git
 git@github.com:phusion/passenger-nodejs-websocket-demo.git
 git@github.com:drypot/rapixel.git
 git@github.com:drypot/raysoda.git

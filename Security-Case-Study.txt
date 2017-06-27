@@ -1,4 +1,7 @@
+git@github.com:leizongmin/js-xss.git
 git@github.com:OWASP/NodeGoat.git
 git@github.com:OWASP/railsgoat.git
+https://github.com/google/security-research-pocs.git
 git@github.com:item4/worst-php-code.git
 git@github.com:mattiasgeniar/php-exploit-scripts.git
+git@github.com:yahoo/xss-filters.git

@@ -1,4 +1,5 @@
 git@github.com:JetBrains/Exposed.git
+git@github.com:MindorksOpenSource/from-java-to-kotlin.git
 git@github.com:sdeleuze/geospatial-messenger.git
 git@github.com:JetBrains/kotlin-benchmarks.git
 git@github.com:JetBrains/kotlin-examples.git

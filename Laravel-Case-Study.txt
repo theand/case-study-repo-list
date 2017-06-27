@@ -2,9 +2,22 @@ git@github.com:chintanbanugaria/92five.git
 git@github.com:letrunghieu/active.git
 git@github.com:sahibalejandro/admin.git
 git@github.com:dingo/api.git
-git@github.com:Laravel-Backpack/Base.git
-git@github.com:Laravel-Backpack/CRUD.git
-git@github.com:Laravel-Backpack/Demo.git
+git@github.com:AsgardCms/AdminLTE.git AsgardCms-AdminLTE
+git@github.com:AsgardCms/Block.git AsgardCms-Block
+git@github.com:AsgardCms/Blog.git AsgardCms-Blog
+git@github.com:AsgardCms/Core.git AsgardCms-Core
+git@github.com:AsgardCms/Dashboard.git AsgardCms-Dashboard
+git@github.com:AsgardCms/Media.git AsgardCms-Media
+git@github.com:AsgardCms/Menu.git AsgardCms-Menu
+git@github.com:AsgardCms/Notification.git AsgardCms-Notification
+git@github.com:AsgardCms/Platform.git AsgardCms-Platform
+git@github.com:AsgardCms/Setting.git AsgardCms-Setting
+git@github.com:AsgardCms/Tag.git AsgardCms-Tag
+git@github.com:AsgardCms/User.git AsgardCms-User
+git@github.com:AsgardCms/Website.git AsgardCms-Website
+git@github.com:Laravel-Backpack/Base.git Backpack-Base
+git@github.com:Laravel-Backpack/CRUD.git Backpack-CRUD
+git@github.com:Laravel-Backpack/Demo.git Backpack-Demo
 git@github.com:visualplus/board.git
 git@github.com:CachetHQ/Cachet.git
 git@bitbucket.org:sprocketweb/cms.git
@@ -36,7 +49,6 @@ git@github.com:appkr/l5essential.git
 git@github.com:laralib/l5scaffold.git
 git@github.com:colindecarlo/Laraconway.git
 git@github.com:LaravelDaily/Laraexpenses-QuickAdmin.git
-git@github.com:laramap/laramap.com.git
 git@github.com:LaravelDaily/Larancer-QuickAdmin.git
 git@github.com:larapress-cms/larapress.git
 git@github.com:LaravelDaily/Laratime-QuickAdmin.git
@@ -47,6 +59,7 @@ git@github.com:yhbyun/laravel-bookmark.git
 git@github.com:davzie/laravel-bootstrap.git
 git@github.com:unicodeveloper/laravel-hackathon-starter.git
 git@github.com:thisiskaden/laravel-korea.git
+git@github.com:rap2hpoutre/laravel-log-viewer.git
 git@github.com:kdocki/laravel-presenter-example.git
 git@github.com:ChuckHeintzelman/laravel-recipes.git
 git@github.com:CodepadME/laravel-tricks.git
@@ -90,7 +103,6 @@ git@github.com:laravel/socialite.git
 git@github.com:mattstauffer/synonym-namer.git
 git@github.com:MrJuliuss/syntara.git
 git@github.com:sdebacker/TypiCMS.git
-git@github.com:the-control-group/voyager.git
 git@github.com:Vuedo/vuedo.git
 git@github.com:wardrobecms/wardrobe.git
 git@github.com:smartbos/xe_laravel_practice.git

@@ -1,6 +1,5 @@
 git@github.com:kennethreitz/changelogdash.git
 git@github.com:teampopong/codenamu2014.git
-git@github.com:kennethreitz/conductofcode.git
 git@github.com:teampopong/data.popong.com.git
 git@github.com:imwilsonxu/fbone.git
 git@github.com:mitsuhiko/flask.git

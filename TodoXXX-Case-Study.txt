@@ -12,6 +12,7 @@ git@github.com:SandeeshS/laravel-realworld-example-app.git
 git@github.com:msurguy/LaravelBackboneTodoMVC.git
 git@github.com:AngularClass/NG6-todomvc-starter.git
 git@github.com:gothinkster/node-express-realworld-example-app.git
+git@github.com:komarserjio/notejam.git
 https://github.com/tastejs/PropertyCross.git
 git@github.com:gothinkster/rails-realworld-example-app.git
 git@github.com:unimonkiez/react-cordova-boilerplate.git

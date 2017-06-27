@@ -27,6 +27,7 @@ Laracast
 Laravel-Case-Study
 LetsCodeJavaScript-Lab
 LetsCodeJavaScript-LessonLearned
+Markdown-Documents
 Motion-Case-Study
 My-Translation-Work
 NodeJS-Case-Study
@@ -43,6 +44,7 @@ StaticSite-Case-Study
 TIL
 TodoXXX-Case-Study
 TutsPlus-Resources
+TypeScript-Case-Study
 Vagrant-Case-Study
 Vue-Case-Study
 Wiki-Case-Study

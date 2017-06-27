@@ -1,4 +1,5 @@
 git@github.com:facebookincubator/create-react-app.git
+git@github.com:dev-meetup/dev-meetup.github.io.git
 git@github.com:fbsamples/f8app.git
 git@github.com:gaearon/flux-react-router-example.git
 git@github.com:wesbos/Learn-Redux.git
@@ -13,6 +14,7 @@ git@github.com:gaearon/react-makes-you-sad.git
 git@github.com:ptmt/react-native-desktop.git
 https://github.com/hhshhm/react-native-movies
 git@github.com:importre/react-primer.git
+git@github.com:davidrayoussef/react-quiz.git
 git@github.com:oviava/react-redux-axios-example.git
 git@github.com:davezuko/react-redux-starter-kit.git
 git@github.com:erikras/react-redux-universal-hot-example.git

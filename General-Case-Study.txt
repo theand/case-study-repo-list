@@ -10,12 +10,11 @@ git@github.com:nacyot/docker-programming-languages.git
 git@github.com:nacyot/dockerfiles.git
 git@github.com:drypot/git-study.git
 git@github.com:GoogleCloudPlatform/golang-samples.git
+git@github.com:gojp/goreportcard.git
 git@github.com:kylefeng28/Hello-Polyglot-World.git
 git@github.com:winterbe/langs.git
 git@github.com:ihoneymon/never-ending-study.git
-git@github.com:komarserjio/notejam.git
 git@github.com:phusion/phusion-server-tools.git
-git@github.com:rorlakr/Playground.git
 git@github.com:rubychan/Programming-Languages-Syntax-Examples.git
 git@github.com:einaregilsson/Redirector.git
 git@github.com:josiahcarlson/redis-in-action.git

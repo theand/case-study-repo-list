@@ -1,6 +1,4 @@
-git@github.com:activeadmin/activeadmin.git
 git@github.com:rails/activeresource.git
-git@github.com:thoughtbot/administrate.git
 git@github.com:svenfuchs/adva-cms2.git
 git@github.com:svenfuchs/adva_cms.git
 git@github.com:rubys/awdwr.git
@@ -19,7 +17,6 @@ git@github.com:orendon/contrib-hub.git
 git@github.com:nukomeet/coworfing.git
 git@github.com:ahoward/dao.git
 git@github.com:thredded/db_text_search.git
-git@github.com:activeadmin/demo.activeadmin.info.git
 git@github.com:dante-xx/devday_rails.git
 git@github.com:diaspora/diaspora.git
 git@github.com:discourse/discourse.git
@@ -65,7 +62,6 @@ git@github.com:RailsApps/rails-stripe-coupons.git
 git@github.com:RailsApps/rails-stripe-membership-saas.git
 git@github.com:rafaelfranca/rails-tools.git
 git@github.com:RailsApps/rails3-mongoid-omniauth.git
-git@github.com:sferik/rails_admin.git
 git@github.com:RailsApps/rails_apps_composer.git
 git@github.com:RailsApps/rails_apps_pages.git
 git@github.com:RailsApps/rails_apps_testing.git

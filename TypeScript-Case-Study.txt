@@ -1,0 +1,13 @@
+git@github.com:brentlintner/synt.git
+git@github.com:Microsoft/TSJS-lib-generator.git
+git@github.com:Microsoft/TypeScript.git
+git@github.com:Microsoft/typescript-build2016-demos.git
+git@github.com:Microsoft/TypeScript-Handbook.git
+git@github.com:Microsoft/TypeScript-Node-Starter.git
+git@github.com:Microsoft/TypeScript-React-Conversion-Guide.git
+git@github.com:Microsoft/TypeScript-React-Native-Starter.git
+git@github.com:Microsoft/TypeScript-React-Starter.git
+git@github.com:Microsoft/TypeScript-Vue-Starter.git
+git@github.com:Microsoft/TypeScript-WeChat-Starter.git
+git@github.com:Microsoft/TypeScriptSamples.git
+git@github.com:Microsoft/TypeSearch.git

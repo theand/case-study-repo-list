@@ -8,7 +8,6 @@ git@github.com:cjkumaresh/download-nowrins.git
 git@github.com:adalbertoteixeira/download_image_from_url.git
 git@github.com:blan4/hexapic.git
 git@github.com:verfehlix/ig-profile-picture-downloader.git
-git@github.com:piersholt/imagegrabber.git
 git@github.com:lamiinek/Insta-Download.git
 git@github.com:overide/Insta-download.git
 git@github.com:anuragpv/insta-fullscreen.git
@@ -32,11 +31,13 @@ git@github.com:mitsuhiko/kickstarter-scraper.git
 git@github.com:HugoTian/pyinsta.git
 git@github.com:aolle/pynst.git
 git@github.com:sebastienbarre/ragamints.git
+git@github.com:DormyMo/SpiderKeeper.git
 git@github.com:sf27/StalkGramKotlinPlus.git
 git@github.com:sf27/StalkGramPlus.git
 git@github.com:sf27/StalkGramReactNative.git
 git@github.com:CaseyKelly/terminal-instagram-download.git
 git@github.com:robdelacruz/web-instagram-dl.git
 git@github.com:qwefgh90/WebDownloader.git
+https://github.com/domenic/worm-scraper.git
 git@github.com:rg3/youtube-dl.git
 git@github.com:sancayouth/YTsubPy.git

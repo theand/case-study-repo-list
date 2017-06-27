@@ -17,6 +17,7 @@ https://github.com/igorw/get-in
 git@github.com:GoogleCloudPlatform/getting-started-php.git
 git@github.com:RedgooseDev/goose.git
 git@github.com:getgrav/grav.git
+git@github.com:getgrav/grav-plugin-admin.git
 git@github.com:Wandu/Http.git
 git@github.com:ThrusterIO/http-middleware.git
 git@github.com:appkr/iperf-stress.git
