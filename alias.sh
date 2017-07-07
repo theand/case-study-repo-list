@@ -189,6 +189,7 @@ function works_update_all(){
 
     popd
 }
+alias wua=works_update_all
 
 
 function works_gc_all(){
@@ -213,6 +214,8 @@ function works_gc_all(){
 
     popd
 }
+alias wga=works_gc_all
+
 #################
 
 
