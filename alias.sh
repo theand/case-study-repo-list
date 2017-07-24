@@ -9,7 +9,6 @@ Angular-Case-Study
 Ansible-Case-Study
 Atom-Case-Study
 Bot-Case-Study
-boxen
 Chrome-Case-Study
 CodeKata-Case-Study
 Crawler-Case-Study
@@ -50,8 +49,7 @@ Vue-Case-Study
 Wiki-Case-Study
 )
 
-CASE_STUDY_EXCLUDE=( boxen
-iOS-Case-Study
+CASE_STUDY_EXCLUDE=( iOS-Case-Study
 TutsPlus-Resources
 )
 
@@ -203,7 +201,7 @@ function works_gc_all(){
 
         containsElement "$bname" "${CASE_STUDY_EXCLUDE[@]}"
         no_excludes=$?
-        if [[ -d ~/Works/Study/$bname ]] && [[ no_excludes -eq 1  ]] 
+        if [[ -d ~/Works/Study/$bname ]] && [[ no_excludes -eq 1  ]]
         then
             cd ~/Works/Study/$bname;
             gc_git_all ;

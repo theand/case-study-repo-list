@@ -1,9 +1,0 @@
-git@github.com:theand-boxen/boxen.git
-git@github.com:theand/our-boxen.git
-git@github.com:theand-boxen/puppet-boxen.git
-git@github.com:theand-boxen/puppet-brewcask.git
-git@github.com:theand-boxen/puppet-homebrew.git
-git@github.com:theand-boxen/puppet-iterm2.git
-git@github.com:theand-boxen/puppet-mathiasdotfiles.git
-git@github.com:theand-boxen/puppet-ruby.git
-git@github.com:theand-boxen/puppet-spf13vim3.git
