@@ -79,6 +79,7 @@ git@github.com:rubys/riggr.git
 git@github.com:rorlakr/rorla.git
 git@github.com:rorlakr/rorla_api.git
 git@github.com:rubysec/ruby-advisory-db.git
+git@github.com:heroku/ruby-getting-started.git
 git@github.com:standardfile/ruby-server.git
 git@github.com:jimweirich/sample_friends_app.git
 git@github.com:basvodde/scrumprimer.git

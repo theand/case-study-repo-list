@@ -48,6 +48,7 @@ git@github.com:andersao/l5-repository.git
 git@github.com:appkr/l5essential.git
 git@github.com:laralib/l5scaffold.git
 git@github.com:colindecarlo/Laraconway.git
+git@github.com:LaravelDaily/LaraEventTickets-QuickAdminPanel.git
 git@github.com:LaravelDaily/Laraexpenses-QuickAdmin.git
 git@github.com:LaravelDaily/Larancer-QuickAdmin.git
 git@github.com:larapress-cms/larapress.git

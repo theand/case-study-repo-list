@@ -3,6 +3,7 @@ https://github.com/gilbutITbook/006834.git
 git@github.com:KeepSafe/aiohttp.git
 git@github.com:zzzeek/alembic.git
 git@github.com:kennethreitz/alphaglyph.git
+https://github.com/rory/apache-log-parser.git
 git@github.com:kennethreitz/autoenv.git
 git@github.com:openstack/barbican.git
 git@github.com:reddit/baseplate.git
@@ -21,14 +22,17 @@ git@github.com:mitsuhiko/cli-tools.git
 git@github.com:mitsuhiko/click.git
 git@github.com:dorfsmay/click_example.git
 git@github.com:kennethreitz/clint.git
+git@github.com:madisonmay/CommonRegex.git
 git@github.com:pythonkr/conference-record-scripts.git
 git@github.com:AndreaCensi/contracts.git
 git@github.com:telefonicaid/di-py.git
 git@bitbucket.org:zzzeek/dogpile.cache.git
 git@bitbucket.org:zzzeek/dogpile.core.git
 git@github.com:hunkim/effective_python_notebook.git
+https://github.com/lethain/extraction.git
 git@github.com:GoogleCloudPlatform/getting-started-python.git
 git@github.com:davidfokkema/git-rewrite-author.git
+git@github.com:bluedisk/hangul-toolkit.git
 git@github.com:nyergler/hieroglyph.git
 git@github.com:gleitz/howdoi.git
 git@github.com:teampopong/infographics.git
@@ -36,6 +40,7 @@ git@github.com:kennethreitz/its.py.git
 git@github.com:mitsuhiko/itsdangerous.git
 git@github.com:mitsuhiko/jinja2.git
 git@github.com:TeamLab/lab_for_gachon_cs50.git
+git@github.com:Mimino666/langdetect.git
 git@github.com:kennethreitz/legit.git
 git@github.com:bsnux/linter-python-pep8.git
 git@github.com:zzzeek/mako.git
@@ -50,6 +55,7 @@ git@github.com:andrewlouis93/Office-Scripts.git
 git@github.com:pydata/pandas.git
 git@github.com:hanpama/peppertext.git
 git@github.com:mitsuhiko/platter.git
+https://github.com/rory/prettytime.git
 git@github.com:mitsuhiko/probe.git
 git@github.com:pythonkr/pyconapac-2016.git
 git@github.com:pythonkr/pyconkr-2014.git
@@ -69,6 +75,7 @@ git@github.com:pytube/data.git
 git@github.com:rubik/radon.git
 git@github.com:mnot/redbot.git
 git@github.com:reddit/reddit.git
+git@github.com:daeilkim/refinery.git
 git@github.com:kennethreitz/requests.git
 git@github.com:moggers87/salmon.git
 git@github.com:phaethon/scapy.git

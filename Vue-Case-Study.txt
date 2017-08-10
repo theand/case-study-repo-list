@@ -1,8 +1,10 @@
 git@github.com:rajabishek/begin.git
+git@github.com:sdras/intro-to-vue.git
 https://github.com/hootlex/the-majesty-of-vuejs-2.git
 git@github.com:inca/voie-example.git
 git@github.com:vuejs/vue.git
 git@github.com:fundon/vue-admin.git
+git@github.com:Coffcer/vue-chat.git
 git@github.com:vuejs/vue-cli.git
 git@github.com:ChangJoo-Park/vue-component-generator.git
 git@github.com:vuejs/vue-devtools.git
@@ -15,11 +17,13 @@ git@github.com:vuejs/vue-router.git
 git@github.com:kazupon/vue-router-hackernews.git
 git@github.com:yuche/vue-strap.git
 git@github.com:vuejs/vue-template-validator.git
+git@github.com:egoist/vue-timeago.git
 git@github.com:vuejs/vue-validator.git
 git@github.com:vuejs/vuefire.git
 git@github.com:hootlex/vuejs-paginator.git
 git@github.com:vuejs/vuejs.org.git
 git@github.com:superlloyd/VueSamples.git
+git@github.com:JiriChara/vuex-crud.git
 git@github.com:vuejs-templates/webpack.git
 git@github.com:vuejs-templates/webpack-simple.git
 git@github.com:weexteam/weex-hackernews.git

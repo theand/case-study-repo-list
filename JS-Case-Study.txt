@@ -16,6 +16,7 @@ git@github.com:OmarElGabry/DesignPatterns.git
 https://github.com/mdn/dom-examples.git
 git@github.com:madrobby/dom-monster.git
 git@github.com:zloirock/dtf.git
+git@github.com:mdn/emogotchi.git
 https://github.com/getify/ES-Feature-Tests.git
 git@github.com:angular-class/ES6-build-tools.git
 git@github.com:jakearchibald/es6-promise.git
@@ -52,6 +53,7 @@ git@github.com:falsandtru/jquery-pjax.git
 git@github.com:jquery/jquery-simulate.git
 git@github.com:AllThingsSmitty/jquery-tips-everyone-should-know.git
 https://github.com/mdn/js-examples.git
+git@github.com:krausest/js-framework-benchmark.git
 git@github.com:benhowdle89/js-idioms.git
 git@github.com:mathieuancelin/js-repaint-perfs.git
 git@github.com:verekia/js-stack-from-scratch.git
@@ -68,6 +70,7 @@ git@github.com:ohgyun/mustard.git
 https://github.com/bubkoo/natsort.git
 git@github.com:parshap/node-sanitize-filename.git
 git@github.com:andrewvc/node-streamlogger.git
+git@github.com:marpple/partial.js.git
 git@github.com:peasy/peasy-js.git
 git@github.com:peasy/peasy-js-samples.git
 git@github.com:tectonic/pjax-router.git
@@ -86,11 +89,13 @@ git@github.com:outsideris/slack-invite-automation.git
 git@github.com:lqez/smartstudy-lottery-2015.git
 git@github.com:swmaestro/somat.git
 git@github.com:alexei/sprintf.js.git
+https://github.com/marcuswestin/store.js.git
 git@github.com:raganwald/string-lambdas.git
 https://github.com/mdn/sw-test.git
 git@github.com:tc39/test262.git
 git@github.com:jinbonetwork/the-art-of-protest-android.git
 git@github.com:NUKnightLab/TimelineJS3.git
+git@github.com:mdn/to-do-notifications.git
 git@github.com:parshap/truncate-utf8-bytes.git
 git@github.com:nhnent/tui.code-snippet.git
 git@github.com:twitter/twemoji.git

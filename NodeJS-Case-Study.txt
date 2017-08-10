@@ -4,6 +4,7 @@ git@github.com:jsha/blocktogether.git
 git@github.com:nodejs-enterprise/cms.git
 git@github.com:FreeCodeCamp/COM1000.git
 git@github.com:NickCarneiro/curlconverter.git
+git@github.com:floatdrop/debug-http.git
 git@github.com:mobz/elasticsearch-head.git
 git@github.com:angular-class/email-responder.git
 git@github.com:vmasto/express-babel.git

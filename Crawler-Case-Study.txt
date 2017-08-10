@@ -28,6 +28,8 @@ git@github.com:telunyang/InstagramVideoPhotoDownloader.git
 git@github.com:theus/instantgram.git
 git@github.com:akurtovic/InstaRaider.git
 git@github.com:mitsuhiko/kickstarter-scraper.git
+git@github.com:p-e-w/krill.git
+https://github.com/rubysoho07/MovieScheduler.git
 git@github.com:HugoTian/pyinsta.git
 git@github.com:aolle/pynst.git
 git@github.com:sebastienbarre/ragamints.git

@@ -49,6 +49,8 @@ git@github.com:samer-abdelkafi/mock-spring-project.git
 git@github.com:jknack/modern-web-app.git
 git@github.com:SpringOne2GX-2014/monty-python-trivia.git
 git@github.com:origoni/MultiDatabase.git
+git@github.com:paulc4/mvc-content-neg.git
+git@github.com:paulc4/mvc-content-neg-views.git
 git@github.com:paulc4/mvc-exceptions.git
 git@github.com:kenu/mybatis-examples.git
 git@github.com:mybatis/mybatis-spring-boot.git
@@ -131,7 +133,7 @@ git@github.com:ihoneymon/spring-pathvariable-sample.git
 git@github.com:FabienLauf/spring-petclinic.git
 git@github.com:sdeleuze/spring-reactive-playground.git
 git@github.com:bclozel/spring-reactive-university.git
-git@github.com:SpringOne2GX-2014/spring-resource-handling.git
+git@github.com:bclozel/spring-resource-handling.git
 git@github.com:olivergierke/spring-restbucks.git
 git@github.com:spring-projects/spring-restdocs.git
 git@github.com:gmind7/spring-restdocs-seminar.git

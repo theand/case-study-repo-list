@@ -24,12 +24,14 @@ git@github.com:sindresorhus/generator-electron.git
 git@github.com:ChangJoo-Park/gitrelease-app.git
 git@github.com:increments/kobito-oss.git
 git@github.com:maxogden/menubar.git
+git@github.com:microeinhundert/music-app-electron.git
 git@github.com:k0kubun/Nocturn.git
 git@github.com:brandonjpierce/node-webkit-boilerplate.git
 git@github.com:easylogic/openproxy-ui.git
 git@github.com:gabrielbull/react-desktop.git
 git@github.com:react-photonkit/react-photonkit.git
 git@github.com:maxogden/screencat.git
+git@github.com:rhysd/Shiba.git
 git@github.com:BZCoding/SkelEktron.git
 git@github.com:Soundnode/soundnode-app.git
 git@github.com:kevinsawicki/spectron.git
