@@ -7,5 +7,6 @@ git@github.com:ecolemo/djangobp.git
 git@github.com:divio/djangocms-admin-style.git
 git@github.com:localwiki/localwiki-backend-server.git
 https://github.com/rubysoho07/MusicManager.git
+git@github.com:openshift/nodejs-ex.git
 git@github.com:pythonkr/pyconkr-2014.git
 git@github.com:pythonkr/pyconkr-2015.git

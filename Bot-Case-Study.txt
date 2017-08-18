@@ -3,6 +3,7 @@ git@github.com:vaihtovirta/botup.git
 git@github.com:FreeCodeCamp/camperbot.git
 git@github.com:Kitchu0401/event-notifier.git
 git@github.com:spchuang/fb-local-chat-bot.git
+git@github.com:carpedm20/fbchat.git
 git@github.com:conbus/fbmq.git
 git@github.com:github/generator-hubot.git
 git@github.com:github/hubot.git

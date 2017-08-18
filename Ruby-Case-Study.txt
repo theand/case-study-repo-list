@@ -58,6 +58,7 @@ git@github.com:bbatsov/rubocop.git
 git@github.com:rubysec/ruby-advisory-db.git
 git@github.com:Thibaut/ruby-benchmarks.git
 git@github.com:jechol/ruby-coding-interview-template.git
+git@github.com:openshift/ruby-ex.git
 git@github.com:jordansissel/ruby-filewatch.git
 git@github.com:jordansissel/ruby-stud.git
 git@github.com:rubychan/rubybenchmark.git

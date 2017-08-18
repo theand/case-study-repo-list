@@ -25,6 +25,7 @@ https://github.com/typicode/lowdb.git
 git@github.com:wesbos/mastering-markdown.git
 git@github.com:ohgyun/md2html.git
 git@github.com:cfjedimaster/mockdata.git
+git@github.com:openshift/nodejs-ex.git
 git@github.com:GoogleCloudPlatform/nodejs-getting-started.git
 git@github.com:andris9/Nodemailer.git
 https://github.com/domenic/opener.git

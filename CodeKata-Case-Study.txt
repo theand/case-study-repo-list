@@ -1,9 +1,7 @@
-git@github.com:winterbe/algorithms.git
-git@github.com:keon/algorithms.git
-git@github.com:gzc/CLRS.git
 git@github.com:laracasts/Code-Katas-in-PHP.git
 git@github.com:laracasts/Gilded-Rose-Kata-in-PHP.git
 git@github.com:csujedihy/lc-all-solutions.git
 git@github.com:rorlakr/Playground.git
+git@github.com:gregmalcolm/python_koans.git
 git@github.com:andersjanmyr/roman-numerals-kata.git
 git@github.com:ShawnMcCool/tdd-kata.git

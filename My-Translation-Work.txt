@@ -6,6 +6,7 @@ git@github.com:xpressengine/Composer-korean-docs.git
 git@github.com:laravel/docs.git
 git@github.com:bagder/everything-curl.git
 git@github.com:php-fig/fig-standards.git
+git@github.com:hemanth/functional-programming-jargon.git
 git@github.com:thoughtbot/guides.git
 git@github.com:bagder/http2-explained.git
 git@github.com:necolas/idiomatic-css.git
@@ -15,6 +16,7 @@ git@github.com:thisiskaden/laravel4-docs-korean.git
 git@github.com:theand/Laravel4-lang.git
 git@github.com:thisiskaden/laravel4-lang-korean.git
 git@github.com:laraveltherightway/laraveltherightway.github.io.git
+git@github.com:zeeshanu/learn-regex.git
 git@github.com:laravel/lumen-docs.git
 git@github.com:MostlyAdequate/mostly-adequate-guide.git
 git@github.com:codeguy/php-the-right-way.git

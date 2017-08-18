@@ -1,0 +1,8 @@
+git@github.com:sherxon/AlgoDS.git
+git@github.com:keon/algorithms.git
+git@github.com:winterbe/algorithms.git
+git@github.com:keon/algorithms.git
+git@github.com:gzc/CLRS.git
+git@github.com:skidding/illustrated-algorithms.git
+git@github.com:mgechev/javascript-algorithms.git
+git@github.com:jiayihu/pretty-algorithms.git

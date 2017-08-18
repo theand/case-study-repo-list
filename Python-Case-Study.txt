@@ -7,6 +7,7 @@ https://github.com/rory/apache-log-parser.git
 git@github.com:kennethreitz/autoenv.git
 git@github.com:openstack/barbican.git
 git@github.com:reddit/baseplate.git
+git@github.com:mahmoud/boltons.git
 git@github.com:realpython/book1-exercises.git
 git@github.com:realpython/book2-exercises.git
 git@github.com:realpython/book3-exercises.git
@@ -35,6 +36,7 @@ git@github.com:davidfokkema/git-rewrite-author.git
 git@github.com:bluedisk/hangul-toolkit.git
 git@github.com:nyergler/hieroglyph.git
 git@github.com:gleitz/howdoi.git
+git@github.com:python-hyper/hyperlink.git
 git@github.com:teampopong/infographics.git
 git@github.com:kennethreitz/its.py.git
 git@github.com:mitsuhiko/itsdangerous.git
@@ -69,7 +71,6 @@ git@github.com:kennethreitz/python-guide.git
 git@github.com:mitsuhiko/python-modernize.git
 git@github.com:mitsuhiko/python-regex-scanner.git
 git@github.com:realpython/python-scripts.git
-git@github.com:gregmalcolm/python_koans.git
 git@github.com:pytube/pytube.git
 git@github.com:pytube/data.git
 git@github.com:rubik/radon.git

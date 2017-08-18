@@ -9,9 +9,8 @@ git@github.com:eggsby/boiled-eggs.git
 git@github.com:ahastudio/CodingLife.git
 git@github.com:lucaminudel/CodingTestsAndSolutions.git
 git@github.com:twitter/commons.git
-git@github.com:nacyot/docker-programming-languages.git
-git@github.com:nacyot/dockerfiles.git
 git@github.com:drypot/git-study.git
+git@github.com:openshift/golang-ex.git
 git@github.com:GoogleCloudPlatform/golang-samples.git
 git@github.com:gojp/goreportcard.git
 git@github.com:kylefeng28/Hello-Polyglot-World.git

@@ -5,6 +5,7 @@ green=$(tput setaf 2)
 reset=$(tput sgr0)
 
 CASE_STUDY=( Admin-Case-Study
+Algorithm-Case-Study
 Angular-Case-Study
 Ansible-Case-Study
 Atom-Case-Study

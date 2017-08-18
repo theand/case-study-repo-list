@@ -51,6 +51,7 @@ git@github.com:RailsApps/rails-devise.git
 git@github.com:RailsApps/rails-devise-pundit.git
 git@github.com:RailsApps/rails-devise-roles.git
 git@github.com:voormedia/rails-erd.git
+git@github.com:openshift/rails-ex.git
 git@github.com:RailsApps/rails-foundation.git
 git@github.com:RailsApps/rails-mailinglist-activejob.git
 git@github.com:RailsApps/rails-omniauth.git
@@ -87,6 +88,7 @@ git@github.com:twitter/secureheaders.git
 git@github.com:ahoward/sekrets.git
 git@github.com:hukl/shortcut.io.git
 git@github.com:rafaelfranca/simple_form-bootstrap.git
+git@github.com:denkGroot/Spina.git
 git@github.com:shageman/sportsball.git
 git@github.com:spree/spree.git
 git@github.com:jnunemaker/stars.git
