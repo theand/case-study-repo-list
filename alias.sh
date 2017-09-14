@@ -244,7 +244,7 @@ function check_not_git(){
 function create_txt_for_all_casestudy(){
 
     mkdir ~/Works/Study/case-study-repo-list-new/ -p
-    rm -f *.txt
+    rm -f ~/Works/Study/case-study-repo-list-new/*.txt
     for d in ${CASE_STUDY[@]}; do
         echo $d
         cd ~/Works/Study/$d
