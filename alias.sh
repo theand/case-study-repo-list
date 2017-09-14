@@ -11,6 +11,7 @@ Ansible-Case-Study
 Atom-Case-Study
 Bot-Case-Study
 Chrome-Case-Study
+Cloud-Case-Study
 CodeKata-Case-Study
 Crawler-Case-Study
 Django-Case-Study
@@ -22,13 +23,13 @@ General-Case-Study
 iOS-Case-Study
 JS-Case-Study
 Java-Case-Study
+Koan-Case-Study
 Kotlin-Case-Study
 Laracast
 Laravel-Case-Study
 LetsCodeJavaScript-Lab
 LetsCodeJavaScript-LessonLearned
 Markdown-Documents
-Motion-Case-Study
 My-Translation-Work
 NodeJS-Case-Study
 PHP-Case-Study
@@ -45,6 +46,7 @@ TIL
 TodoXXX-Case-Study
 TutsPlus-Resources
 TypeScript-Case-Study
+UserScript-Case-Study
 Vagrant-Case-Study
 Vue-Case-Study
 Wiki-Case-Study
@@ -242,6 +244,7 @@ function check_not_git(){
 function create_txt_for_all_casestudy(){
 
     mkdir ~/Works/Study/case-study-repo-list-new/ -p
+    rm -f *.txt
     for d in ${CASE_STUDY[@]}; do
         echo $d
         cd ~/Works/Study/$d
