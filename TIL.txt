@@ -1,33 +1,33 @@
-git@github.com:ahastudio/til.git ahastudio-til
-git@github.com:altmetric/til.git altmetric-til
-git@github.com:AndrewVos/today-i-learned.git AndrewVos-til
-git@github.com:devsejong/TIL.git devsejong-TIL
-git@github.com:dezitter/til.git dezitter-til
-git@github.com:elpassion/til.git elpassion-til
-git@github.com:envylabs/til.git envylabs-til
-git@github.com:erfannoury/TIL.git erfannoury-TIL
-git@github.com:FakeSloth/til.git FakeSloth-til
-git@github.com:Fool-Stack-Rangers/til.git Fool-Stack-Rangers-til
-git@github.com:geteloquent/til.git geteloquent-til
-git@github.com:holycrap872/til.git holycrap872-til
+git@github.com:ahastudio/til.git
+git@github.com:altmetric/til.git
+git@github.com:AndrewVos/today-i-learned.git
+git@github.com:devsejong/TIL.git
+git@github.com:dezitter/til.git
+git@github.com:elpassion/til.git
+git@github.com:envylabs/til.git
+git@github.com:erfannoury/TIL.git
+git@github.com:FakeSloth/til.git
+git@github.com:Fool-Stack-Rangers/til.git
+git@github.com:geteloquent/til.git
+git@github.com:holycrap872/til.git
 git@github.com:hashrocket/hr-til.git
-git@github.com:ip2k/todayilearned.git ip2k-todayilearned
-git@github.com:jbranchaud/til.git jbranchaud-til
-git@github.com:jscappini/til.git jscappini-til
-git@github.com:justincampbell/til.git justincampbell-til
-git@github.com:koojunho/til.git koojunho-til
-git@github.com:leandog/til.git leandog-til
-git@github.com:legelisten/til.git legelisten-til
-git@github.com:Legoben/Today-I-Learned.git Legoben-Today-I-Learned
-git@github.com:milooy/TIL.git milooy-TIL
-git@github.com:moschan/til.git moschan-til
-git@github.com:MotelIs/til.git MotelIs-til
-git@github.com:netguru/til.git netguru-til
-git@github.com:nowStackOverflow/TIL.git nowStackOverflow-TIL
-git@github.com:rbreve/TIL.git rbreve-TIL
-git@github.com:rstacruz/til.git rstacruz-til
-git@github.com:rubytaiwan/til.git rubytaiwan-til
-git@github.com:shuhrat/til.git shuhrat-til
-git@github.com:stamm/til.git stamm-til
-git@github.com:thoughtbot/til.git thoughtbot-til
-git@github.com:WanderWorld/til.git WanderWorld-til
+git@github.com:ip2k/todayilearned.git
+git@github.com:jbranchaud/til.git
+git@github.com:jscappini/til.git
+git@github.com:justincampbell/til.git
+git@github.com:koojunho/til.git
+git@github.com:leandog/til.git
+git@github.com:legelisten/til.git
+git@github.com:Legoben/Today-I-Learned.git
+git@github.com:milooy/TIL.git
+git@github.com:moschan/til.git
+git@github.com:MotelIs/til.git
+git@github.com:netguru/til.git
+git@github.com:nowStackOverflow/TIL.git
+git@github.com:rbreve/TIL.git
+git@github.com:rstacruz/til.git
+git@github.com:rubytaiwan/til.git
+git@github.com:shuhrat/til.git
+git@github.com:stamm/til.git
+git@github.com:thoughtbot/til.git
+git@github.com:WanderWorld/til.git

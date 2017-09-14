@@ -9,6 +9,7 @@ git@github.com:github/generator-hubot.git
 git@github.com:github/hubot.git
 git@github.com:github/hubot-scripts.git
 git@github.com:slackhq/hubot-slack.git
+git@github.com:aboutsajjad/IUST-FaceMash.git
 git@github.com:github/janky.git
 git@github.com:Just-Some-Bots/MusicBot.git
 git@github.com:weirdmeetup/koalabot.git
@@ -22,6 +23,7 @@ git@github.com:teampopong/pokrbot.git
 git@github.com:slackhq/python-slackclient.git
 git@github.com:kciter/simple-slack-bot.git
 git@github.com:brandonshin/slackbot-workout.git
+git@github.com:Machiel/strangerbot.git
 git@github.com:yukuku/telebot.git
 git@github.com:irazasyed/telegram-bot-bootstrap.git
 git@github.com:irazasyed/telegram-bot-sdk.git

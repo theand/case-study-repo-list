@@ -7,7 +7,9 @@ git@github.com:mraible/21-points.git
 git@github.com:wlfekymk/3rd-Party-Push-Server-JPA-Spring-Boot-Redis.git
 git@github.com:aramsoft/aramcomp.git
 git@github.com:arquillian/arquillian-showcase.git
+git@github.com:making/athenz-spring-security-poc.git
 git@github.com:brunobat/basic-testing-webapp.git
+git@github.com:making/beansviz-spring-boot-actuator.git
 git@github.com:joshlong/boot-it-up.git
 git@github.com:viniciusccarvalho/boot-two-way-ssl-example.git
 git@github.com:BroadleafCommerce/BroadleafCommerce.git
@@ -16,7 +18,16 @@ git@github.com:dpinto-pivotal/cf-SpringBootTrader.git
 git@github.com:spring-cloud-samples/config-repo.git
 git@github.com:dandelion/dandelion-datatables-samples.git
 git@github.com:gregturn/debug-your-spring-boot-app.git
+git@github.com:making/demo-authorization.git
+git@github.com:making/demo-download.git
+git@github.com:making/demo-interceptor.git
+git@github.com:making/demo-message-source.git
+git@github.com:kazuki43zoo/demo-reactive-mybatis.git
+git@github.com:making/demo-rest-security.git
+git@github.com:making/demo-route-service.git
+git@github.com:making/demo-search.git
 git@github.com:qwefgh90/document-repository-web.git
+git@github.com:making/echo.git
 git@github.com:cer/event-sourcing-examples.git
 git@github.com:FabienLauf/expedia-backendtest.git
 git@github.com:gregturn/flights.git
@@ -25,8 +36,13 @@ git@github.com:samer-abdelkafi/fng-project.git
 git@github.com:madsenevoldsen/Forest-bookshop-example.git
 git@github.com:jhipster/generator-jhipster.git
 git@github.com:csj4032/genius.git
+git@github.com:making/hajiboot-samples.git
+git@github.com:making/hello-db.git
+git@github.com:making/hello-legacy-tomcat.git
+git@github.com:making/hello-servlet.git
 https://github.com/jarvis-kim/hibernate-audited-exam.git
 git@github.com:debop/hibernate-examples.git
+git@github.com:making/infinite-fizz-buzz.git
 git@github.com:spring-io/initializr.git
 git@github.com:kakaotrack/java-framework-class.git
 git@github.com:JD-Software/JDeSurvey.git
@@ -34,6 +50,7 @@ git@github.com:jhipster/jhipster-sample-app.git
 git@github.com:jhipster/jhipster-sample-app-gradle.git
 git@github.com:holyeye/jpabook.git
 git@github.com:mybatis/jpetstore-6.git
+git@github.com:making/jsug-shop.git
 git@github.com:debop/jvm-experiments.git
 git@github.com:arawn/ksug-2012-spring-31-summary.git
 git@github.com:holyeye/ksug2015-morden-jpa.git
@@ -45,6 +62,7 @@ git@github.com:naver/lucy-xss-filter.git
 git@github.com:naver/lucy-xss-servlet-filter.git
 git@github.com:ihoneymon/mastering-spring-mvc-4.git
 git@github.com:SpringOne2GX-2014/messaging-improvements.git
+git@github.com:making/metflix.git
 git@github.com:samer-abdelkafi/mock-spring-project.git
 git@github.com:jknack/modern-web-app.git
 git@github.com:SpringOne2GX-2014/monty-python-trivia.git
@@ -59,6 +77,7 @@ git@github.com:samer-abdelkafi/ng-project.git
 git@github.com:samer-abdelkafi/ng-swagger-project.git
 git@github.com:naver/ngrinder.git
 git@github.com:loslch/NHNGuestBook.git
+git@github.com:making/oauth2-sso-demo.git
 git@github.com:spring-projects/spring-social-samples.git
 git@github.com:kenu/okdevtv.git
 git@github.com:okjsp/okjsp-site.git
@@ -70,7 +89,10 @@ git@github.com:lanyonm/playground.git
 git@github.com:ihoneymon/project-word-management.git
 git@github.com:samer-abdelkafi/project4example8.git
 git@github.com:Yongdae-Kim/quartz_study.git
+git@github.com:making/reactive-poller.git
+git@github.com:making/reactive-syslog-server.git
 git@github.com:jbrisbin/reactor-ntp-clock.git
+git@github.com:making/reactor-reactive-programming.git
 git@github.com:olivergierke/repositories-deepdive.git
 git@github.com:arawn/resource-handling-in-springmvc.git
 git@github.com:ihoneymon/rest-api-study.git
@@ -97,7 +119,9 @@ git@github.com:spring-projects/spring-batch-admin.git
 git@github.com:debop/spring-batch-experiments.git
 git@github.com:SpringOne2GX-2014/spring-batch-performance-tuning.git
 git@github.com:spring-projects/spring-boot.git
+git@github.com:making/spring-boot-actuator-dashboard.git
 git@github.com:kingbbode/spring-boot-attitude.git
+git@github.com:making/spring-boot-batch-multi-jobs.git
 git@github.com:wjdsupj/spring-boot-examples-for-beginner.git
 git@github.com:philwebb/spring-boot-for-the-java-ee-developer.git
 git@github.com:SpringOne2GX-2014/spring-boot-for-the-web-tier.git
@@ -123,6 +147,7 @@ git@github.com:spring-projects/spring-data-keyvalue-examples.git
 git@github.com:arawn/spring-examples.git
 git@github.com:spring-projects/spring-framework.git
 git@github.com:spring-projects/spring-integration-samples.git
+git@github.com:making/spring-lottery.git
 git@github.com:spring-projects/spring-mobile-samples.git
 git@github.com:jhades/spring-mvc-angularjs-sample-app.git
 git@github.com:rstoyanchev/spring-mvc-chat.git
@@ -165,8 +190,10 @@ git@github.com:samer-abdelkafi/ssng-project.git
 git@github.com:dlwjddn22/SSProject.git
 git@github.com:ihoneymon/study-orm-jpa.git
 git@github.com:arawn/swagger-spring-mvc-showcase.git
+git@github.com:making/thrift-server.git
 git@github.com:thymeleaf/thymeleafexamples-gtvg.git
 git@github.com:thymeleaf/thymeleafexamples-stsm.git
 git@github.com:jdubois/Tudu-Lists.git
 git@github.com:eugenp/tutorials.git
+git@github.com:bclozel/webflux-streaming-showcase.git
 git@github.com:WebGoat/WebGoat.git

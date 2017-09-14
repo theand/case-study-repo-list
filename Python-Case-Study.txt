@@ -59,6 +59,7 @@ git@github.com:hanpama/peppertext.git
 git@github.com:mitsuhiko/platter.git
 https://github.com/rory/prettytime.git
 git@github.com:mitsuhiko/probe.git
+git@github.com:asweigart/pyautogui.git
 git@github.com:pythonkr/pyconapac-2016.git
 git@github.com:pythonkr/pyconkr-2014.git
 git@github.com:pythonkr/pyconkr-2015.git

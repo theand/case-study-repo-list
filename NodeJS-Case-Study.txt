@@ -25,11 +25,13 @@ https://github.com/typicode/lowdb.git
 git@github.com:wesbos/mastering-markdown.git
 git@github.com:ohgyun/md2html.git
 git@github.com:cfjedimaster/mockdata.git
+https://github.com/qvacua/netmag-nodejs.git
 git@github.com:openshift/nodejs-ex.git
 git@github.com:GoogleCloudPlatform/nodejs-getting-started.git
 git@github.com:andris9/Nodemailer.git
 https://github.com/domenic/opener.git
 git@github.com:phusion/passenger-nodejs-websocket-demo.git
+git@github.com:CatsMiaow/PollK.git
 git@github.com:drypot/rapixel.git
 git@github.com:drypot/raysoda.git
 git@github.com:benhowdle89/reqres.git

@@ -9,6 +9,7 @@ git@github.com:eggsby/boiled-eggs.git
 git@github.com:ahastudio/CodingLife.git
 git@github.com:lucaminudel/CodingTestsAndSolutions.git
 git@github.com:twitter/commons.git
+https://github.com/onlywei/explain-git-with-d3.git
 git@github.com:drypot/git-study.git
 git@github.com:openshift/golang-ex.git
 git@github.com:GoogleCloudPlatform/golang-samples.git

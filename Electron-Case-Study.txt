@@ -19,6 +19,7 @@ git@github.com:electronkr/electron-spectron-showcase.git
 git@github.com:electronkr/electron-starter-kit.git
 git@github.com:importre/electron-starterify.git
 git@github.com:SimulatedGREG/electron-vue.git
+git@github.com:CatsMiaow/electron-vue-typescript.git
 git@github.com:importre/epp.git
 git@github.com:sindresorhus/generator-electron.git
 git@github.com:ChangJoo-Park/gitrelease-app.git

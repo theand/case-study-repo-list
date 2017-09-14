@@ -1,6 +1,9 @@
 git@github.com:rajabishek/begin.git
+git@github.com:Kitchu0401/home-ledger.git
 git@github.com:sdras/intro-to-vue.git
+https://github.com/vuejs-kr/kr.vuejs.org.git
 https://github.com/hootlex/the-majesty-of-vuejs-2.git
+git@github.com:Microsoft/TypeScript-Vue-Starter.git
 git@github.com:inca/voie-example.git
 git@github.com:vuejs/vue.git
 git@github.com:fundon/vue-admin.git
@@ -19,6 +22,8 @@ git@github.com:yuche/vue-strap.git
 git@github.com:vuejs/vue-template-validator.git
 git@github.com:egoist/vue-timeago.git
 git@github.com:vuejs/vue-validator.git
+git@github.com:CatsMiaow/vue-webpack-typescript.git
+git@github.com:arusantimo/vue2_vuex_webpack2_typescript_kor_boilerplate.git
 git@github.com:vuejs/vuefire.git
 git@github.com:hootlex/vuejs-paginator.git
 git@github.com:vuejs/vuejs.org.git

@@ -44,6 +44,7 @@ git@github.com:tdziurko/Guava-Lessons.git
 git@github.com:google/guice.git
 git@github.com:vladmihalcea/high-performance-java-persistence.git
 git@github.com:kevinsawicki/http-request.git
+git@github.com:LeeKyoungIl/illuminati.git
 git@github.com:verekia/initializr.git
 git@github.com:iluwatar/java-design-patterns.git
 git@github.com:albertlatacz/java-repl.git
@@ -51,6 +52,7 @@ git@github.com:jarvis-kim/java-study.git
 git@github.com:kevinsawicki/java-timeago.git
 git@github.com:BafS/Java8-CheatSheet.git
 git@github.com:winterbe/java8-explorer.git
+https://github.com/mr-rampage/java8-study-group.git
 git@github.com:gmind7/java8-training.git
 git@github.com:winterbe/java8-tutorial.git
 git@github.com:java8/Java8InAction.git
@@ -72,10 +74,12 @@ git@github.com:ihoneymon/learn-tdd.git
 git@github.com:visualkhh/lib-java.git
 git@github.com:ocpsoft/logging.git
 git@github.com:logsniffer/logsniffer.git
+git@github.com:making/marked4j.git
 git@github.com:DimitrisAndreou/memory-measurer.git
 git@github.com:Kevin-Lee/modern-java-untold.git
 git@github.com:javajigi/mvp-examples.git
 git@github.com:anyunzhong/netty-chat.git
+git@github.com:making/netty-in-action.git
 git@github.com:thierryherrmann/nettychat.git
 git@github.com:okjsp/okky.git
 git@github.com:hrldcpr/pcollections.git

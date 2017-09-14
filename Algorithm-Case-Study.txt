@@ -6,3 +6,4 @@ git@github.com:gzc/CLRS.git
 git@github.com:skidding/illustrated-algorithms.git
 git@github.com:mgechev/javascript-algorithms.git
 git@github.com:jiayihu/pretty-algorithms.git
+git@github.com:raywenderlich/swift-algorithm-club.git

@@ -3,10 +3,9 @@ git@github.com:MindorksOpenSource/from-java-to-kotlin.git
 git@github.com:sdeleuze/geospatial-messenger.git
 git@github.com:JetBrains/kotlin-benchmarks.git
 git@github.com:JetBrains/kotlin-examples.git
+https://github.com/Kotlin/kotlin-frontend-plugin.git
 git@github.com:Kotlin/kotlin-fullstack-sample.git
 git@github.com:Kotlin/kotlin-in-action.git
-git@github.com:Kotlin/kotlin-koans.git
-git@github.com:Kotlin/kotlin-koans-edu.git
 git@github.com:JetBrains/kotlin-web-demo.git
 git@github.com:hussien89aa/KotlinUdemy.git
 git@github.com:Kotlin/ktor.git
