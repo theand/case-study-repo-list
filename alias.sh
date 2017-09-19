@@ -80,32 +80,6 @@ containsElement () {
 
 #################
 
-#서브디렉토리들의 git remote 저장소 주소를 뽑아내기.
-function get_all_git_origin(){
-    for DIR in `\ls -f`;
-    do
-        if [[ -d $DIR ]] && [[ -d $DIR/.git ]]
-        then
-           cd $DIR ;
-           git config --get remote.origin.url ;
-           cd .. ;
-        fi
-    done
-}
-
-#지정한 디렉토리 목록에 대해서만 저장소 주소를 뽑아냄
-function get_git_origin_from_txt(){
-    while read line;
-    do
-        if [[ -d $line ]]
-        then
-            cd $line ;
-            git config --get remote.origin.url ;
-            cd ..;
-        fi
-    done < $1
-}
-
 
 #git 저장소 경로를 담고 있는 txt파일을 읽어서 프로젝트를 모두 clone.
 function clone_repo_from_txt(){
@@ -138,31 +112,6 @@ function update_git_all(){
     done
 }
 
-#서브디렉토리의 모든 git 저장소를 gc
-function gc_git_all(){
-    for DIR in `\ls -A`;
-    do
-        if [[ -d $DIR ]] && [[ -d $DIR/.git ]]
-        then
-            echo "Processing : $DIR"
-            cd $DIR ;
-            git remote prune origin;
-            git gc;
-            cd .. ;
-        fi
-    done
-}
-
-function gc_git_all_sub(){
-    shopt -u dotglob
-    for DIR in `\ls -A`;
-    do
-        echo "In : $DIR"
-        cd $DIR ;
-        gc_git_all;
-        cd ..;
-    done
-}
 
 
 
@@ -216,27 +165,6 @@ function works_gc_all(){
     popd
 }
 alias wga=works_gc_all
-
-#################
-
-
-function reset_git_origin(){
-    if [[ -d .git ]]
-    then
-        git reset --hard origin
-    fi
-}
-
-function check_not_git(){
-  for DIR in `\ls -f`;
-  do
-      if [[ ! -d $DIR/.git ]]
-      then
-          echo "${red}not git : ${DIR} ${reset}"
-      fi
-  done
-}
-
 
 
 
