@@ -14,6 +14,7 @@ Chrome-Case-Study
 Cloud-Case-Study
 CodeKata-Case-Study
 Crawler-Case-Study
+Db-Case-Study
 Django-Case-Study
 Docker-Case-Study
 Electron-Case-Study
@@ -29,6 +30,7 @@ Laracast
 Laravel-Case-Study
 LetsCodeJavaScript-Lab
 LetsCodeJavaScript-LessonLearned
+MachineLearning-Case-Study
 Markdown-Documents
 My-Translation-Work
 NodeJS-Case-Study
@@ -42,6 +44,7 @@ Sinatra-Case-Study
 Spring-Case-Study
 SpringGuides-Case-Study
 StaticSite-Case-Study
+TestAutomation-Case-Study
 TIL
 TodoXXX-Case-Study
 TutsPlus-Resources
