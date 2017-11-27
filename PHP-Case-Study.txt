@@ -38,6 +38,7 @@ git@github.com:schmittjoh/php-option.git
 git@github.com:alexandrezia/phpscheduleit.git
 git@github.com:hmlb/phpunit-vw.git
 git@github.com:Pligg/pligg-cms.git
+https://github.com/antirez/retwis.git
 git@github.com:sonata-project/SonataAdminBundle.git
 git@github.com:d3m3vilurr/soojung.git
 git@github.com:kolber/stacey.git
@@ -56,5 +57,4 @@ git@github.com:josephernest/void.git
 git@github.com:filp/whoops.git
 git@github.com:twitter/wordpress.git
 git@github.com:xpressengine/xe-core.git
-git@github.com:xpressengine/xe-selenium-uitest.git
 git@github.com:xpressengine/xpressengine.git

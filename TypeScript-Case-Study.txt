@@ -2,6 +2,7 @@ https://github.com/DefinitelyTyped/DefinitelyTyped.git
 git@github.com:gcanti/fp-ts.git
 git@github.com:deptno/nextjs-typescript-boilerplate.git
 git@github.com:CatsMiaow/node-express-typescript.git
+git@github.com:ragingwind/node-module-boilerplate-with-ts.git
 git@github.com:brentlintner/synt.git
 git@github.com:TypeStrong/ts-node.git
 git@github.com:Microsoft/TSJS-lib-generator.git

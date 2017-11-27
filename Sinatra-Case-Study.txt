@@ -12,4 +12,5 @@ git@github.com:evanleck/sinatra-boilerplate.git evanleck-sinatra-boilerplate
 git@github.com:sinatra/sinatra-book.git
 git@github.com:sinatra/sinatra-contrib.git
 git@github.com:sinatra/sinatra-recipes.git
+git@github.com:seapy/slack_invite_automation_sinatra.git
 git@github.com:rubys/wicker.git

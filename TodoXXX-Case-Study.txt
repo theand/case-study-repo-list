@@ -30,6 +30,7 @@ git@github.com:tastejs/todomvc-app-css.git
 git@github.com:tastejs/todomvc-app-template.git
 git@github.com:tastejs/todomvc-backbone-es6.git
 git@github.com:tastejs/todomvc-common.git
+git@github.com:UYEONG/TodoMVC-react.js.git
 git@github.com:jaysoo/todomvc-redux-react-typescript.git
 git@github.com:kouphax/todomvc-server.git
 git@github.com:kouphax/todomvc-server-static-content.git

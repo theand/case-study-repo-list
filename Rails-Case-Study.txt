@@ -29,6 +29,7 @@ git@github.com:thoughtbot/hound.git
 git@github.com:javajigi/humhum.git
 git@github.com:presidentbeef/inject-some-sql.git
 git@github.com:markets/invisible_captcha.git
+git@github.com:code-mancers/invoicing.git
 git@github.com:webgradus/kms.git
 git@github.com:RailsApps/learn-rails.git
 git@github.com:loomio/loomio.git
@@ -73,6 +74,8 @@ git@github.com:RailsApps/rails_layout.git
 git@github.com:jechol/rails_load_paths_test.git
 git@github.com:jechol/rails_time_zone_test.git
 git@github.com:ahoward/rails_view.git
+git@github.com:code-mancers/rapidfire.git
+git@github.com:code-mancers/rapidfire-demo.git
 git@github.com:rorlakr/rcafe.git
 git@github.com:redmine/redmine.git
 git@github.com:refinery/refinerycms.git
@@ -92,6 +95,7 @@ git@github.com:denkGroot/Spina.git
 git@github.com:shageman/sportsball.git
 git@github.com:spree/spree.git
 git@github.com:jnunemaker/stars.git
+git@github.com:adamcooke/staytus.git
 git@github.com:thoughtbot/suspenders.git
 git@github.com:thredded/thredded.git
 git@github.com:thredded/thredded-markdown_coderay.git

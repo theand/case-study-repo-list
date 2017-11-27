@@ -5,7 +5,10 @@ git@github.com:teampopong/crawlers.git
 git@github.com:janko-m/down.git
 git@github.com:cjkumaresh/download-nowrins.git
 git@github.com:adalbertoteixeira/download_image_from_url.git
+https://github.com/ellerbrock/egghead-video-download.git
 git@github.com:aboutsajjad/Facebook-Album.git
+https://github.com/ellerbrock/get-links.git
+https://github.com/ellerbrock/get-links-cli.git
 git@github.com:blan4/hexapic.git
 git@github.com:aboutsajjad/HornyGifs.git
 git@github.com:verfehlix/ig-profile-picture-downloader.git
@@ -43,7 +46,9 @@ git@github.com:timgrossmann/InstaPy.git
 git@github.com:akurtovic/InstaRaider.git
 git@github.com:mitsuhiko/kickstarter-scraper.git
 git@github.com:p-e-w/krill.git
+https://github.com/markbrown4/egghead-downloader.git
 https://github.com/rubysoho07/MovieScheduler.git
+https://github.com/produk/new-egghead-downloader.git
 git@github.com:MichaelBurge/pornview.git
 git@github.com:HugoTian/pyinsta.git
 git@github.com:aolle/pynst.git
@@ -56,6 +61,7 @@ git@github.com:sf27/StalkGramPlus.git
 git@github.com:sf27/StalkGramReactNative.git
 git@github.com:CaseyKelly/terminal-instagram-download.git
 git@github.com:ddulhddul/Top100Music_Crawling.git
+https://github.com/vassyz/egghead-downloader.git
 git@github.com:robdelacruz/web-instagram-dl.git
 git@github.com:qwefgh90/WebDownloader.git
 https://github.com/domenic/worm-scraper.git

@@ -9,9 +9,6 @@ git@github.com:tutsplus/a-visual-guide-to-css-animation.git
 git@github.com:tutsplus/A-Web-Designer-s-Typographic-Boilerplate.git
 git@github.com:tutsplus/advanced-backbone-patterns-and-techniques.git
 git@github.com:tutsplus/advanced-oop-in-php-with-tests.git
-git@github.com:tutsplus/angularjs-for-test-driven-development.git
-git@github.com:tutsplus/AngularUI.git
-git@github.com:tutsplus/animate-your-site-with-angularjs.git
 git@github.com:tutsplus/animating-with-snap.svg.git
 git@github.com:tutsplus/authentication-in-nodejs-with-oauth2.git
 git@github.com:tutsplus/authentication-with-ruby.git
@@ -38,7 +35,6 @@ git@github.com:tutsplus/build-complete-website-expressjs.git
 git@github.com:tutsplus/build-your-first-laravel-site.git
 git@github.com:tutsplus/building-a-bootstrap-contact-form-using-php-and-ajax.git
 git@github.com:tutsplus/building-a-logger-in-sass.git
-git@github.com:tutsplus/Building-a-Web-App-From-Scratch-With-AngularJS.git
 git@github.com:tutsplus/Building-Bootstrap-With-Emmet.git
 git@github.com:tutsplus/building-chrome-extensions.git
 git@github.com:tutsplus/building-ribbit-in-scala.git
@@ -71,10 +67,8 @@ git@github.com:tutsplus/create-a-rest-api-with-django.git
 git@github.com:tutsplus/create-a-single-page--about-me--site-with-prepros--jade---stylus.git
 git@github.com:tutsplus/create-an-image-gallery-in-ruby.git
 git@github.com:tutsplus/creating-a-future-proof-responsive-email-without-media-queries.git
-git@github.com:tutsplus/creating-angular-directives.git
 git@github.com:tutsplus/css-experiments-with-form-field-animation.git
 git@github.com:tutsplus/CSS3-Preloaders.git
-git@github.com:tutsplus/cucumber-blog-example.git
 git@github.com:tutsplus/customizing-the-wordpress-admin.git
 git@github.com:tutsplus/Deploy-a-Rails-App-With-Docker.git
 git@github.com:tutsplus/design-patterns-in-ruby.git
@@ -85,7 +79,6 @@ git@github.com:tutsplus/download-attribute.git
 git@github.com:tutsplus/dropbox-datastores-dropins.git
 git@github.com:tutsplus/duo-two-factor-auth.git
 git@github.com:tutsplus/Dynamic-Dashboard-With-ChartJS.git
-git@github.com:tutsplus/easier-javascript-apps-with-angularjs.git
 git@github.com:tutsplus/easier-visual-data-in-the-browser-with-variance-charts.git
 git@github.com:tutsplus/easing-in-to-cubic-bezier-functions.git
 git@github.com:tutsplus/easy-nodejs-development-environment-with-vagrant.git
@@ -108,7 +101,6 @@ git@github.com:tutsplus/exploring-css-pseudo-elements.git
 git@github.com:tutsplus/fix-javascript-style-with-standardjs.git
 git@github.com:tutsplus/fix-your-messy-css-with-smacss.git
 git@github.com:tutsplus/float-label-form-interaction.git
-git@github.com:tutsplus/foundation-5-topbar-offcanvas-demo.git
 git@github.com:tutsplus/From-Procedural-to-Object-Oriented-PHP.git
 git@github.com:tutsplus/fun-with-web-audio.git
 git@github.com:tutsplus/functional-programming-in-php.git
@@ -137,7 +129,6 @@ git@github.com:tutsplus/Google-Maps-and-Flickr-API.git
 git@github.com:tutsplus/google-maps-api.git
 git@github.com:tutsplus/Google-Maps-API--RWD--Retina-Images-and-Debugging.git
 git@github.com:tutsplus/gumby-framework-demo.git
-git@github.com:tutsplus/hands-on-angular.git
 git@github.com:tutsplus/hands-on-ember.git
 git@github.com:tutsplus/how-it-works-laravel-eloquent-orm.git
 git@github.com:tutsplus/how-it-works-laravel-middleware.git
@@ -146,16 +137,13 @@ git@github.com:tutsplus/how-to-become-a-web-developer.git
 git@github.com:tutsplus/how-to-become-a-web-developer-jquery-and-bootstrap.git
 git@github.com:tutsplus/how-to-become-a-web-developer-learn-php.git
 git@github.com:tutsplus/how-to-build-a-page-scroll-progress-indicator-with-jquery-and-svg.git
-git@github.com:tutsplus/how-to-build-a-shrinking-fixed-top-bar-with-foundation.git
 git@github.com:tutsplus/how-to-create-a-split-screen-element-with-javascript.git
 git@github.com:tutsplus/how-to-integrate-google-no-captcha-recaptcha-on-your-website.git
 git@github.com:tutsplus/how-to-manipulate-and-animate-svg-with-snap.svg.git
 git@github.com:tutsplus/how-to-use-the-google-maps-api.git
 git@github.com:tutsplus/HTML5-NetworkInformationAPI.git
-git@github.com:tutsplus/Hybrid-WordPressIonicAngularJS.git
 git@github.com:tutsplus/hypermedia-driven-REST-API.git
 git@github.com:tutsplus/indexeddb-part-3.git
-git@github.com:tutsplus/integrate-rich-media-apis-with-foundation-for-apps.git
 git@github.com:tutsplus/interactive-art-with-p5js.git
 git@github.com:tutsplus/intro-html5-node-webkit.git
 git@github.com:tutsplus/intro-to-express.git
@@ -241,7 +229,6 @@ git@github.com:tutsplus/ruby-refactoring.git
 git@github.com:tutsplus/sailsjs-from-scratch.git
 git@github.com:tutsplus/scroll-events-made-easy.git
 git@github.com:tutsplus/scrumptious.git
-git@github.com:tutsplus/securing-an-angularjs-application.git
 git@github.com:tutsplus/self-hosted-php-sql-leaderboard.git
 git@github.com:tutsplus/semantic-html---how-to-structure-web-pages.git
 git@github.com:tutsplus/semantic-ui-for-your-web-apps.git
@@ -272,7 +259,6 @@ git@github.com:tutsplus/taking-css-shapes-to-the-next-level.git
 git@github.com:tutsplus/Taking-Google-Maps-Further.git
 git@github.com:tutsplus/taming-python-with-unit-tests.git
 git@github.com:tutsplus/team-collaboration-github.git
-git@github.com:tutsplus/testing-angular-notes-app.git
 git@github.com:tutsplus/testing-in-symfony2.git
 git@github.com:tutsplus/testing-ruby-with-rspec3.git
 git@github.com:tutsplus/the-css-of-the-future.git
@@ -296,7 +282,6 @@ git@github.com:tutsplus/web-performance-enhancement-how-to-load-images-using-in-
 git@github.com:tutsplus/webgl-threejs-basics.git
 git@github.com:tutsplus/Website-Launch-Checklist-for-Web-Designers.git
 git@github.com:tutsplus/websocket-rails.git
-git@github.com:tutsplus/whats-new-in-angular-2.git
 git@github.com:tutsplus/whats-new-in-node6.git
 git@github.com:tutsplus/whats-new-in-php-7-and-7-1.git
 git@github.com:tutsplus/whats-new-in-rails-5.git

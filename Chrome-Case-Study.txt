@@ -3,8 +3,11 @@ git@github.com:omgmog/chrome-add-link-to-trello.git
 git@github.com:imwilsonxu/chrome-extension-dev-template.git
 git@github.com:adrienjoly/chrome-next-step-for-trello.git
 https://github.com/ku/CreateLink.git
+git@github.com:djacobow/detrumpify.git
 git@github.com:au5ton/DirectLinks.git
 git@github.com:shlee322/facebook-gist-viewer.git
+git@github.com:ragingwind/g-shorten.git
+git@github.com:fukayatsu/github-localtime-crx.git
 git@github.com:sionide21/Insert-jQuery.git
 git@github.com:olivertso/instagrabber.git
 git@github.com:phlare/instagram-download-chrome.git
@@ -24,5 +27,8 @@ git@github.com:sindresorhus/refined-twitter.git
 https://gitlab.com/b2m9/safaribooks-video-extension.git
 https://github.com/mhewedy/SBO-video-extension.git
 https://github.com/jwkcp/spelling.git
+https://git.superevilmegaco.com/google-chrome/super-evil-new-tab.git
+git@github.com:google/tamperchrome.git
 git@github.com:zaucy/trello-context-menus.git
 git@github.com:Shaddix/TrelloChromeExtension.git
+git@github.com:deanhach/TrumpSans.git

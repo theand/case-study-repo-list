@@ -7,6 +7,7 @@ git@github.com:codahale/bcrypt-ruby.git
 git@github.com:rubychan/coderay.git
 git@github.com:ahoward/coerce.git
 git@github.com:rubychan/colorspec.git
+https://github.com/talyssonoc/CommonRegexRuby.git
 git@github.com:danneu/craig.git
 git@github.com:soveran/cuba.git
 git@github.com:ahoward/demon.git
@@ -14,6 +15,7 @@ git@github.com:brainspec/enumerize.git
 git@github.com:smartinez87/exception_notification.git
 git@github.com:JuanitoFatas/fast-ruby.git
 git@github.com:bestie/fetchable.git
+git@github.com:geemus/formatador.git
 git@github.com:ahoward/fukung.git
 git@github.com:jinto/fxkeb.git
 git@github.com:geokit/geokit.git

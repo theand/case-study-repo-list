@@ -23,11 +23,12 @@ git@github.com:milooy/TIL.git
 git@github.com:moschan/til.git
 git@github.com:MotelIs/til.git
 git@github.com:netguru/til.git
-git@github.com:nowStackOverflow/TIL.git
 git@github.com:rbreve/TIL.git
 git@github.com:rstacruz/til.git
 git@github.com:rubytaiwan/til.git
 git@github.com:shuhrat/til.git
 git@github.com:stamm/til.git
 git@github.com:thoughtbot/til.git
+git@github.com:JoMingyu/TIL-Python.git
 git@github.com:WanderWorld/til.git
+git@github.com:wonism/TIL.git

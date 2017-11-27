@@ -15,6 +15,7 @@ git@github.com:FreeCodeCamp/FreeCodeCamp.git
 git@github.com:TryGhost/Ghost.git
 git@github.com:GladysProject/Gladys.git
 git@github.com:donpark/hbs.git
+git@github.com:indexzero/http-server.git
 git@github.com:tonite31/Imboard.git
 git@github.com:disjukr/jews.git
 git@github.com:bevacqua/jscharting.git
@@ -22,6 +23,7 @@ https://github.com/typicode/json-server.git
 https://github.com/typicode/jsonplaceholder.git
 git@github.com:keystonejs/keystone.git
 https://github.com/typicode/lowdb.git
+git@github.com:freeCodeCamp/mail-for-good.git
 git@github.com:wesbos/mastering-markdown.git
 git@github.com:ohgyun/md2html.git
 git@github.com:cfjedimaster/mockdata.git

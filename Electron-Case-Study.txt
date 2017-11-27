@@ -3,6 +3,7 @@ git@github.com:sindresorhus/awesome-electron.git
 git@github.com:ragingwind/bare-electron-react.git
 git@github.com:black-screen/black-screen.git
 git@github.com:BoostIO/Boostnote.git
+git@github.com:auchenberg/chrome-devtools-app.git
 git@github.com:ragingwind/devdogs.git
 git@github.com:electrode-io/electrode-archetype-react-app.git
 git@github.com:electrode-io/electrode-boilerplate-universal-react-node.git

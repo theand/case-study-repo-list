@@ -7,7 +7,6 @@ git@github.com:Bash-it/bash-it.git
 git@github.com:alexanderepstein/Bash-Snippets.git
 git@github.com:eggsby/boiled-eggs.git
 git@github.com:ahastudio/CodingLife.git
-git@github.com:lucaminudel/CodingTestsAndSolutions.git
 git@github.com:twitter/commons.git
 https://github.com/onlywei/explain-git-with-d3.git
 git@github.com:drypot/git-study.git

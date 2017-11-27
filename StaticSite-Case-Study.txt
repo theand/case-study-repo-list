@@ -1,3 +1,5 @@
+git@github.com:a11yproject/a11yproject.com.git
+git@github.com:danielgtaylor/aglio.git
 git@github.com:trek/beautiful-open.git
 git@github.com:cdmedia/cms.js.git
 git@github.com:waferbaby/dimples.git
@@ -23,6 +25,7 @@ git@github.com:necolas/jekyll-boilerplate.git
 git@github.com:mdo/jekyll-example.git
 https://github.com/planetjekyll/jekyll-minimal-theme
 git@github.com:mdo/jekyll-snippets.git
+git@github.com:kakao/kakao.github.io.git
 git@github.com:lektor/lektor.git
 git@github.com:npm/newww-tests.git
 git@github.com:getnikola/nikola.git

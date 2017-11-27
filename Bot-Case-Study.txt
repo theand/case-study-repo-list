@@ -21,6 +21,7 @@ git@github.com:DiegoRBaquero/node-fb-messenger.git
 git@github.com:slackhq/node-slack-client.git
 git@github.com:teampopong/pokrbot.git
 git@github.com:slackhq/python-slackclient.git
+git@github.com:cfjedimaster/randomcomicbook.git
 git@github.com:kciter/simple-slack-bot.git
 git@github.com:brandonshin/slackbot-workout.git
 git@github.com:Machiel/strangerbot.git

@@ -11,7 +11,9 @@ git@github.com:petkaantonov/bluebird.git
 git@github.com:socketio/chat-example.git
 https://github.com/ryanmcdermott/clean-code-javascript.git
 https://github.com/qkraudghgh/clean-code-javascript-ko.git
+git@github.com:bahmutov/code-snippets.git
 git@github.com:ecrmnn/collect.js.git
+https://github.com/talyssonoc/CommonRegexJS.git
 git@github.com:zloirock/core-js.git
 https://github.com/domenic/count-to-6.git
 git@github.com:twitter/d3kit.git
@@ -69,6 +71,8 @@ git@github.com:fogus/lemonad.git
 git@github.com:jamesshore/lets_code_javascript.git
 git@github.com:lodash/lodash.git
 git@github.com:geelen/loopgifs.git
+git@github.com:moment/luxon.git
+git@github.com:petermichaux/maria.git
 git@github.com:sjsyrek/maryamyriameliamurphies.js.git
 git@github.com:moment/moment-timezone.git
 git@github.com:ohgyun/mustard.git

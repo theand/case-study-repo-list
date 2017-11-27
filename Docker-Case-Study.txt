@@ -22,3 +22,4 @@ git@github.com:sclorg/s2i-php-container.git
 git@github.com:sclorg/s2i-python-container.git
 git@github.com:sclorg/s2i-ruby-container.git
 git@github.com:sclorg/varnish-container.git
+git@github.com:shipping-docker/vessel.git

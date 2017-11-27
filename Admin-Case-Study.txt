@@ -37,3 +37,4 @@ git@github.com:IronSummitMedia/startbootstrap-sb-admin-2.git
 git@github.com:numerogeek/symfony-sonata-admin.git
 git@github.com:the-control-group/voyager.git
 git@github.com:PanJiaChen/vue-element-admin.git
+git@github.com:epicmaxco/vuestic-admin.git

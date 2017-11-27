@@ -27,6 +27,7 @@ git@github.com:zurb/foundation-sites.git
 git@github.com:FrontendMasters/front-end-handbook.git
 git@github.com:tj/frontend-boilerplate.git
 git@github.com:bendc/frontend-guidelines.git
+git@github.com:udacity/frontend-nanodegree-resume.git
 git@github.com:goschevski/fronty.git
 git@github.com:h5bp/generator-h5bp.git
 git@github.com:h5bp/generator-mobile-boilerplate.git
