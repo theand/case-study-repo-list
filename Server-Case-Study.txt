@@ -1,0 +1,6 @@
+git@github.com:phusion/phusion-server-tools.git
+git@github.com:h5bp/server-configs-apache.git
+git@github.com:h5bp/server-configs-gae.git
+git@github.com:h5bp/server-configs-nginx.git
+git@github.com:h5bp/server-configs-node.git
+git@github.com:twitter/sslconfig.git
