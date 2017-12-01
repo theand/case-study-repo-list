@@ -9,6 +9,7 @@ git@github.com:mattupstate/flask-social-example.git
 git@github.com:kennethreitz/flask-sslify.git
 git@github.com:mitsuhiko/flask-website.git
 git@github.com:Runscope/httpbin.git
+git@github.com:langdev/langdev.org.git
 git@github.com:ptpb/pb.git
 git@github.com:teampopong/pokr.kr.git
 git@github.com:teampopong/popong.com.git

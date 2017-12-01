@@ -45,7 +45,6 @@ git@github.com:mitsuhiko/itsdangerous.git
 git@github.com:mitsuhiko/jinja2.git
 git@github.com:TeamLab/lab_for_gachon_cs50.git
 git@github.com:Mimino666/langdetect.git
-git@github.com:langdev/langdev.org.git
 git@github.com:kennethreitz/legit.git
 git@github.com:bsnux/linter-python-pep8.git
 git@github.com:zzzeek/mako.git
@@ -56,6 +55,7 @@ https://github.com/SethMMorton/natsort.git
 git@github.com:networkx/networkx.git
 git@github.com:samuelclay/NewsBlur.git
 git@github.com:nltk/nltk.git
+https://github.com/Kyubyong/numpy_exercises.git
 git@github.com:andrewlouis93/Office-Scripts.git
 git@github.com:pydata/pandas.git
 git@github.com:hanpama/peppertext.git

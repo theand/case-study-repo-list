@@ -7,12 +7,9 @@ git@github.com:tutsplus/a-simple-responsive-grid-made-even-better-with-sass.git
 git@github.com:tutsplus/a-simple-responsive-html-email.git
 git@github.com:tutsplus/a-visual-guide-to-css-animation.git
 git@github.com:tutsplus/A-Web-Designer-s-Typographic-Boilerplate.git
-git@github.com:tutsplus/advanced-backbone-patterns-and-techniques.git
-git@github.com:tutsplus/advanced-oop-in-php-with-tests.git
 git@github.com:tutsplus/animating-with-snap.svg.git
 git@github.com:tutsplus/authentication-in-nodejs-with-oauth2.git
 git@github.com:tutsplus/authentication-with-ruby.git
-git@github.com:tutsplus/automated-testing-with-php.git
 git@github.com:tutsplus/away.git
 git@github.com:tutsplus/become-a-css-superhero-with-stylus.git
 git@github.com:tutsplus/Beginning-symfony-2-web-development.git
@@ -60,7 +57,6 @@ git@github.com:tutsplus/CoreData-NSFetchedResultsController.git
 git@github.com:tutsplus/CoreData-RelationshipsMoreFetching.git
 git@github.com:tutsplus/CoreData-SubclassingNSManagedObject.git
 git@github.com:tutsplus/create-a-custom-yeoman-generator.git
-git@github.com:tutsplus/create-a-full-stack-rails-and-ember-app.git
 git@github.com:tutsplus/create-a-mobile-app-with-cordova.git
 git@github.com:tutsplus/create-a-rails-api.git
 git@github.com:tutsplus/create-a-rest-api-with-django.git
@@ -85,7 +81,6 @@ git@github.com:tutsplus/easy-nodejs-development-environment-with-vagrant.git
 git@github.com:tutsplus/easy-rails-development-environment-with-vagrant.git
 git@github.com:tutsplus/ecmascript-2015-fundamentals.git
 git@github.com:tutsplus/ecmascript6-today.git
-git@github.com:tutsplus/ember-testing.git
 git@github.com:tutsplus/ensure-high-quality-android-code-with-static-analysis-tools.git
 git@github.com:tutsplus/equal-height-column-css-technique.git
 git@github.com:tutsplus/essential-css-libraries-for-web-designers.git
@@ -112,8 +107,6 @@ git@github.com:tutsplus/get-started-with-polymer.git
 git@github.com:tutsplus/get-started-with-react-native.git
 git@github.com:tutsplus/get-started-with-ruby-on-rails.git
 git@github.com:tutsplus/get-started-with-vue.git
-git@github.com:tutsplus/getting-into-emberjs-5.git
-git@github.com:tutsplus/Getting-Started-With-Backbone.git
 git@github.com:tutsplus/Getting-started-with-Laravel-4.git
 git@github.com:tutsplus/getting-started-with-react.git
 git@github.com:tutsplus/Getting-Started-With-TypeScript.git
@@ -129,7 +122,6 @@ git@github.com:tutsplus/Google-Maps-and-Flickr-API.git
 git@github.com:tutsplus/google-maps-api.git
 git@github.com:tutsplus/Google-Maps-API--RWD--Retina-Images-and-Debugging.git
 git@github.com:tutsplus/gumby-framework-demo.git
-git@github.com:tutsplus/hands-on-ember.git
 git@github.com:tutsplus/how-it-works-laravel-eloquent-orm.git
 git@github.com:tutsplus/how-it-works-laravel-middleware.git
 git@github.com:tutsplus/how-to-animate-festive-svg-icons-with-css.git
@@ -161,7 +153,6 @@ git@github.com:tutsplus/javascript-for-loop-optimization.git
 git@github.com:tutsplus/javascript-for-php-developers.git
 git@github.com:tutsplus/javascript-for-web-designers.git
 git@github.com:tutsplus/javascript-fundamentals.git
-git@github.com:tutsplus/javascript-unit-testing-mocha-chai-sinon.git
 git@github.com:tutsplus/javascript-without-jquery.git
 git@github.com:tutsplus/laravel-4-authentication.git
 git@github.com:tutsplus/learn-reactive-programming-with-rxjs.git
@@ -184,7 +175,6 @@ git@github.com:tutsplus/nodejs-better-performance.git
 git@github.com:tutsplus/nodejs-websockets-chat-service.git
 git@github.com:tutsplus/object-oriented-javascript-with-es6.git
 git@github.com:tutsplus/one-two-knockout.git
-git@github.com:tutsplus/oop-in-php-with-tests.git
 git@github.com:tutsplus/open-graph--take-control-of-how-social-media-shares-your-web-pages.git
 git@github.com:tutsplus/organic-development.git
 git@github.com:tutsplus/owasp-security-with-php.git
@@ -257,10 +247,7 @@ git@github.com:tutsplus/sw-front.git
 git@github.com:tutsplus/syntax-highlighter-demos.git
 git@github.com:tutsplus/taking-css-shapes-to-the-next-level.git
 git@github.com:tutsplus/Taking-Google-Maps-Further.git
-git@github.com:tutsplus/taming-python-with-unit-tests.git
 git@github.com:tutsplus/team-collaboration-github.git
-git@github.com:tutsplus/testing-in-symfony2.git
-git@github.com:tutsplus/testing-ruby-with-rspec3.git
 git@github.com:tutsplus/the-css-of-the-future.git
 git@github.com:tutsplus/the-holy-grail-of-css-centering.git
 git@github.com:tutsplus/thinking-in-react-component-lifecycle-methods.git
@@ -272,7 +259,6 @@ git@github.com:tutsplus/tutsplus-getting-started-with-sequel.git
 git@github.com:tutsplus/UIKitDynamics-AnimatedComponents.git
 git@github.com:tutsplus/understanding-and-using-oauth-with-laravel.git
 git@github.com:tutsplus/understanding-the-css-box-model.git
-git@github.com:tutsplus/unit-testing-with-swift-and-xctest.git
 git@github.com:tutsplus/up-and-running-with-amp.git
 git@github.com:tutsplus/up-and-running-with-swift-2.git
 git@github.com:tutsplus/validation-exception-handling.git

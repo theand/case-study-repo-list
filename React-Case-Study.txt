@@ -1,3 +1,4 @@
+git@github.com:fullstackreact/30-days-of-react.git
 git@github.com:facebookincubator/create-react-app.git
 git@github.com:dev-meetup/dev-meetup.github.io.git
 git@github.com:fbsamples/f8app.git
@@ -10,6 +11,7 @@ git@github.com:wesbos/React-Beer-Me.git
 git@github.com:mxstbr/react-boilerplate.git
 git@github.com:assertchris/react-cms.git
 git@github.com:FrontendMasters/react-enlightenment.git
+git@github.com:ohgyun/react-es6-less-bootstrap-webpack-template.git
 git@github.com:wesbos/React-For-Beginners-Starter-Files.git
 git@github.com:krasimir/react-in-patterns.git
 git@github.com:gaearon/react-makes-you-sad.git

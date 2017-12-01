@@ -36,7 +36,6 @@ git@github.com:etsy/phan.git
 git@github.com:kenjis/php-framework-benchmark.git
 git@github.com:schmittjoh/php-option.git
 git@github.com:alexandrezia/phpscheduleit.git
-git@github.com:hmlb/phpunit-vw.git
 git@github.com:Pligg/pligg-cms.git
 https://github.com/antirez/retwis.git
 git@github.com:sonata-project/SonataAdminBundle.git

@@ -4,5 +4,6 @@ git@github.com:EnterpriseQualityCoding/FizzBuzzEnterpriseEdition.git
 git@github.com:laracasts/Gilded-Rose-Kata-in-PHP.git
 git@github.com:csujedihy/lc-all-solutions.git
 git@github.com:rorlakr/Playground.git
+git@github.com:norvig/pytudes.git
 git@github.com:andersjanmyr/roman-numerals-kata.git
 git@github.com:ShawnMcCool/tdd-kata.git

@@ -19,8 +19,15 @@ https://github.com/domenic/count-to-6.git
 git@github.com:twitter/d3kit.git
 git@github.com:date-fns/date-fns.git
 git@github.com:OmarElGabry/DesignPatterns.git
+git@github.com:necolas/dom-closest.git
 https://github.com/mdn/dom-examples.git
+git@github.com:necolas/dom-insert.git
+git@github.com:necolas/dom-insert-html.git
+git@github.com:necolas/dom-matches.git
 git@github.com:madrobby/dom-monster.git
+git@github.com:necolas/dom-shims.git
+git@github.com:necolas/dom-siblings.git
+git@github.com:npm-dom/dom-style.git
 git@github.com:zloirock/dtf.git
 git@github.com:mdn/emogotchi.git
 https://github.com/getify/ES-Feature-Tests.git
@@ -36,6 +43,7 @@ git@github.com:fantasyland/fantasy-land.git
 https://github.com/getify/featuretests.io.git
 git@github.com:github/fetch.git
 https://github.com/mdn/fetch-examples.git
+git@github.com:webpack/file-loader.git
 git@github.com:mattdiamond/fuckitjs.git
 git@github.com:osteele/functional-javascript.git
 https://github.com/getify/Functional-Light-JS.git
@@ -90,7 +98,6 @@ git@github.com:promises-aplus/promises-tests.git
 https://github.com/bestiejs/punycode.js.git
 git@github.com:kriskowal/q.git
 git@github.com:sindresorhus/query-string.git
-git@github.com:jquery/qunit.git
 git@github.com:ramda/ramda.git
 git@github.com:westonganger/rearmed-js.git
 git@github.com:mdo/redditate.git
@@ -105,7 +112,6 @@ https://github.com/marcuswestin/store.js.git
 git@github.com:raganwald/string-lambdas.git
 https://github.com/mdn/sw-test.git
 git@github.com:tc39/test262.git
-git@github.com:jinbonetwork/the-art-of-protest-android.git
 git@github.com:NUKnightLab/TimelineJS3.git
 git@github.com:mdn/to-do-notifications.git
 git@github.com:parshap/truncate-utf8-bytes.git
@@ -118,6 +124,8 @@ git@github.com:documentcloud/underscore-contrib.git
 git@github.com:epeli/underscore.string.git
 git@github.com:popalexandruvasile/underscorejs-examples.git
 git@github.com:bellbind/using-promise-q.git
+git@github.com:ruanyf/webpack-demos.git
+git@github.com:phuu/webpack-dependency-demo.git
 git@github.com:odyss009/webpack-sample.git
 https://github.com/jsdom/whatwg-url.git
 git@github.com:bradleyboy/yarsk.git

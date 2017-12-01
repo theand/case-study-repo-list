@@ -17,14 +17,12 @@ git@github.com:kylefeng28/Hello-Polyglot-World.git
 git@github.com:winterbe/langs.git
 git@github.com:EBvi/map_service.git
 git@github.com:ihoneymon/never-ending-study.git
-git@github.com:phusion/phusion-server-tools.git
 git@github.com:rubychan/Programming-Languages-Syntax-Examples.git
 git@github.com:einaregilsson/Redirector.git
 git@github.com:josiahcarlson/redis-in-action.git
 git@github.com:github/scripts-to-rule-them-all.git
-git@github.com:twitter/sslconfig.git
 git@github.com:jtt/tcpstat.git
-git@github.com:lucaminudel/TDDwithMockObjectsAndDesignPrinciples.git
 git@github.com:lucaminudel/tensions_and_synergies_between_design_principles.git
+git@github.com:jinbonetwork/the-art-of-protest-android.git
 git@github.com:twitter/twitter-text.git
 git@github.com:twitter/util.git

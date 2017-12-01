@@ -10,7 +10,6 @@ git@github.com:angular-class/email-responder.git
 git@github.com:vmasto/express-babel.git
 git@github.com:airportyh/express-promises-error-handling.git
 git@github.com:focusaurus/express_code_structure.git
-git@github.com:Marak/faker.js.git
 git@github.com:FreeCodeCamp/FreeCodeCamp.git
 git@github.com:TryGhost/Ghost.git
 git@github.com:GladysProject/Gladys.git
@@ -26,7 +25,6 @@ https://github.com/typicode/lowdb.git
 git@github.com:freeCodeCamp/mail-for-good.git
 git@github.com:wesbos/mastering-markdown.git
 git@github.com:ohgyun/md2html.git
-git@github.com:cfjedimaster/mockdata.git
 https://github.com/qvacua/netmag-nodejs.git
 git@github.com:openshift/nodejs-ex.git
 git@github.com:GoogleCloudPlatform/nodejs-getting-started.git

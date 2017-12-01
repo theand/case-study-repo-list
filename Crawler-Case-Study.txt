@@ -1,3 +1,4 @@
+git@github.com:alltheplaces/alltheplaces.git
 git@github.com:bodzaital/Cat-A-Gram.git
 git@github.com:mdamien/chrome-extensions-archive.git
 git@github.com:tutsplus/crawl-the-web-with-python.git

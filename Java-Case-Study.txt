@@ -59,6 +59,7 @@ https://github.com/apache/httpcomponents-client.git
 https://github.com/apache/httpcomponents-core.git
 git@github.com:JakeWharton/hugo.git
 git@github.com:LeeKyoungIl/illuminati.git
+git@github.com:immutables/immutables.git
 git@github.com:verekia/initializr.git
 git@github.com:iluwatar/java-design-patterns.git
 git@github.com:virgo47/java-enum-conversion.git
@@ -87,7 +88,6 @@ git@github.com:slipp/jwp-book.git
 git@github.com:Kevin-Lee/kommonlee-core.git
 git@github.com:benelog/lambda-resort.git
 https://github.com/optimaize/language-detector.git
-git@github.com:ihoneymon/learn-tdd.git
 git@github.com:visualkhh/lib-java.git
 git@github.com:ocpsoft/logging.git
 git@github.com:logsniffer/logsniffer.git
@@ -119,8 +119,6 @@ git@github.com:perwendel/spark.git
 git@github.com:perwendel/spark-template-engines.git
 git@github.com:LawrenceAhn/spring-log2slack.git
 git@github.com:naver/svngit.git
-git@github.com:ahastudio/tdd-by-example.git
-git@github.com:orfjackal/tdd-tetris-tutorial.git
 git@github.com:mbosecke/template-benchmark.git
 git@github.com:thymeleaf/thymeleaf.git
 git@github.com:google/tiger.git

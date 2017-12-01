@@ -29,7 +29,6 @@ git@github.com:simkbaio/ecnet-admin.git
 git@github.com:laravel/elixir.git
 git@github.com:adamwathan/eloquent-oauth-example.git
 git@github.com:laravel/envoy.git
-git@github.com:adamwathan/faktory-demo.git
 git@github.com:ladybirdweb/faveo-helpdesk.git
 git@github.com:fideloper/fideloper.com.git
 git@github.com:flarum/core.git flarum-core

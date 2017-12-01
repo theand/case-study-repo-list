@@ -43,6 +43,7 @@ git@github.com:making/hello-legacy-tomcat.git
 git@github.com:making/hello-servlet.git
 https://github.com/jarvis-kim/hibernate-audited-exam.git
 git@github.com:debop/hibernate-examples.git
+git@github.com:bclozel/http2-experiments.git
 git@github.com:making/infinite-fizz-buzz.git
 git@github.com:spring-io/initializr.git
 git@github.com:kakaotrack/java-framework-class.git
@@ -206,4 +207,4 @@ git@github.com:eugenp/tutorials.git
 git://git.apache.org/velocity-engine.git
 git://git.apache.org/velocity-tools.git
 git@github.com:bclozel/webflux-streaming-showcase.git
-git@github.com:WebGoat/WebGoat.git
+git@github.com:bclozel/webflux-workshop.git
