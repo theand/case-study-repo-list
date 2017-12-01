@@ -4,16 +4,19 @@ red=$(tput setaf 1)
 green=$(tput setaf 2)
 reset=$(tput sgr0)
 
-CASE_STUDY=( Admin-Case-Study
+CASE_STUDY=( 
+Admin-Case-Study
 Algorithm-Case-Study
 Angular-Case-Study
 Ansible-Case-Study
 Atom-Case-Study
+BDD-Case-Study
 Bot-Case-Study
 Chrome-Case-Study
 Cloud-Case-Study
 CodeKata-Case-Study
 Crawler-Case-Study
+Data-Case-Study
 Db-Case-Study
 Django-Case-Study
 Docker-Case-Study
@@ -22,8 +25,8 @@ Flask-Case-Study
 FrontEnd-Case-Study
 General-Case-Study
 iOS-Case-Study
-JS-Case-Study
 Java-Case-Study
+JS-Case-Study
 Koan-Case-Study
 Kotlin-Case-Study
 Laracast
@@ -40,11 +43,12 @@ Rails-Case-Study
 React-Case-Study
 Ruby-Case-Study
 Security-Case-Study
+Server-Case-Study
 Sinatra-Case-Study
 Spring-Case-Study
 SpringGuides-Case-Study
 StaticSite-Case-Study
-TestAutomation-Case-Study
+TDD-Case-Study
 TIL
 TodoXXX-Case-Study
 TutsPlus-Resources
@@ -55,7 +59,8 @@ Vue-Case-Study
 Wiki-Case-Study
 )
 
-CASE_STUDY_EXCLUDE=( iOS-Case-Study
+CASE_STUDY_EXCLUDE=( 
+iOS-Case-Study
 TutsPlus-Resources
 )
 
