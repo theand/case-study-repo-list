@@ -17,6 +17,7 @@ git@github.com:jm/perwikity.git
 git@github.com:manveru/rakki.git
 git@github.com:queso/signal-wiki.git
 git@github.com:danchoi/soywiki.git
+https://github.com/vimwiki/vimwiki.git
 git@github.com:benatkin/weaky.git
 git@github.com:Requarks/wiki.git
 git@github.com:dittos/wikistat.git

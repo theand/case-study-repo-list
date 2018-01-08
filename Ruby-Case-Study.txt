@@ -4,10 +4,12 @@ git@github.com:sporkmonger/addressable.git
 git@github.com:ahoward/arrayfields.git
 git@github.com:marcandre/backports.git
 git@github.com:codahale/bcrypt-ruby.git
+git@github.com:brianmario/charlock_holmes.git
 git@github.com:rubychan/coderay.git
 git@github.com:ahoward/coerce.git
 git@github.com:rubychan/colorspec.git
 https://github.com/talyssonoc/CommonRegexRuby.git
+git@github.com:baxang/coupon-code.git
 git@github.com:danneu/craig.git
 git@github.com:soveran/cuba.git
 git@github.com:ahoward/demon.git
@@ -57,6 +59,7 @@ git@github.com:hukl/righttp.git
 git@github.com:jeremyevans/roda.git
 git@github.com:bbatsov/rubocop.git
 git@github.com:rubysec/ruby-advisory-db.git
+git@github.com:contrepoint/ruby-array-explorer.git
 git@github.com:Thibaut/ruby-benchmarks.git
 git@github.com:jechol/ruby-coding-interview-template.git
 git@github.com:openshift/ruby-ex.git

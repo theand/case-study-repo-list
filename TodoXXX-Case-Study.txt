@@ -35,4 +35,5 @@ git@github.com:jaysoo/todomvc-redux-react-typescript.git
 git@github.com:kouphax/todomvc-server.git
 git@github.com:kouphax/todomvc-server-static-content.git
 git@github.com:nateberkopec/todomvc-turbolinks.git
+git@github.com:HyunSeob/typescript-TodoMVC.git
 git@github.com:ChangRiver/vue-realworld-example-app.git

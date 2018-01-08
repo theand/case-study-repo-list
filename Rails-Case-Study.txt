@@ -42,6 +42,7 @@ git@github.com:orientation/orientation.git
 git@github.com:phusion/passenger-ruby-rails-demo.git
 git@github.com:phusion/passenger_status_service.git
 git@github.com:piggybak/piggybak.git
+git@github.com:etewiah/property_web_builder.git
 git@github.com:publify/publify.git
 git@github.com:rubysherpas/r4ia_examples.git
 git@github.com:radiant/radiant.git

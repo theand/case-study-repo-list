@@ -37,6 +37,7 @@ git@github.com:marhan/effective-java-examples.git
 git@github.com:arawn/egovframe-springmvc.git
 git@github.com:yegor256/elegantobjects.git
 https://github.com/csj4032/enjoy-java8.git
+git@github.com:essentials4j/essentials4j.git
 git@github.com:ratpack/example-books.git
 git@github.com:jhalterman/failsafe.git
 git@github.com:eirslett/frontend-maven-plugin.git

@@ -6,6 +6,7 @@ git@github.com:laracasts/Design-a-Fluent-API-with-TDD.git
 git@github.com:Marak/faker.js.git
 git@github.com:adamwathan/faktory-demo.git
 git@github.com:tutsplus/javascript-unit-testing-mocha-chai-sinon.git
+https://github.com/uuidcode/junit5-test.git
 git@github.com:ihoneymon/learn-tdd.git
 git@github.com:seattlerb/minitest.git
 git@github.com:cfjedimaster/mockdata.git

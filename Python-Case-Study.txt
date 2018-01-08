@@ -1,5 +1,6 @@
 https://github.com/gilbutITbook/006764.git
 https://github.com/gilbutITbook/006834.git
+git@github.com:mewwts/addict.git
 git@github.com:KeepSafe/aiohttp.git
 git@github.com:zzzeek/alembic.git
 git@github.com:kennethreitz/alphaglyph.git
@@ -96,5 +97,7 @@ git@github.com:web2py/web2py.git
 git@github.com:web2py/web3py.git
 git@github.com:mitsuhiko/werkzeug.git
 git@github.com:Suor/whatever.git
+git@github.com:ogt/workdays.git
 git@github.com:w3c/wpt-tools.git
+git@github.com:mistydemeo/xenoglossia.git
 git@github.com:zopefoundation/Zope.git

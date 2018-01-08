@@ -1,5 +1,6 @@
 git@github.com:sherxon/AlgoDS.git
 git@github.com:keon/algorithms.git
+https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby.git
 git@github.com:TheAlgorithms/Algorithms-Explainations.git
 git@github.com:winterbe/algorithms.git
 git@github.com:keon/algorithms.git

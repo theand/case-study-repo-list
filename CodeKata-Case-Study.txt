@@ -1,3 +1,4 @@
+https://github.com/eunmin/church-numerals.git
 git@github.com:laracasts/Code-Katas-in-PHP.git
 git@github.com:lucaminudel/CodingTestsAndSolutions.git
 git@github.com:EnterpriseQualityCoding/FizzBuzzEnterpriseEdition.git

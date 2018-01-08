@@ -6,6 +6,7 @@ git@github.com:Idnan/bash-guide.git
 git@github.com:Bash-it/bash-it.git
 git@github.com:alexanderepstein/Bash-Snippets.git
 git@github.com:eggsby/boiled-eggs.git
+git@github.com:tchapi/bootshtrap.git
 git@github.com:ahastudio/CodingLife.git
 git@github.com:twitter/commons.git
 https://github.com/onlywei/explain-git-with-d3.git
@@ -23,6 +24,7 @@ git@github.com:josiahcarlson/redis-in-action.git
 git@github.com:github/scripts-to-rule-them-all.git
 git@github.com:jtt/tcpstat.git
 git@github.com:lucaminudel/tensions_and_synergies_between_design_principles.git
+https://github.com/jlevy/the-art-of-command-line.git
 git@github.com:jinbonetwork/the-art-of-protest-android.git
 git@github.com:twitter/twitter-text.git
 git@github.com:twitter/util.git

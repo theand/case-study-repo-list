@@ -1,2 +1,3 @@
 https://github.com/shlomi-noach/common_schema.git
 https://github.com/datacharmer/test_db.git
+git@github.com:cls1991/xls2db.git
