@@ -55,6 +55,7 @@ TutsPlus-Resources
 TypeScript-Case-Study
 UserScript-Case-Study
 Vagrant-Case-Study
+Visual-Case-Study
 Vue-Case-Study
 Wiki-Case-Study
 )
