@@ -162,6 +162,7 @@ git@github.com:kolorobot/spring-mvc-quickstart-archetype.git
 git@github.com:spring-projects/spring-mvc-showcase.git
 git@github.com:ihoneymon/spring-pathvariable-sample.git
 git@github.com:FabienLauf/spring-petclinic.git
+git@github.com:chwnam/spring-quick-start.git
 git@github.com:sdeleuze/spring-reactive-playground.git
 git@github.com:bclozel/spring-reactive-university.git
 git@github.com:bclozel/spring-resource-handling.git
