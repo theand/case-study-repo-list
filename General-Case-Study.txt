@@ -1,7 +1,6 @@
 git@github.com:aosabook/500lines.git
 git@github.com:aosabook/aosabook.git
 git@github.com:abiyani/automate-save-page-as.git
-git@github.com:ragingwind/bare-boilerplate.git
 git@github.com:Idnan/bash-guide.git
 git@github.com:Bash-it/bash-it.git
 git@github.com:alexanderepstein/Bash-Snippets.git
@@ -16,7 +15,6 @@ git@github.com:GoogleCloudPlatform/golang-samples.git
 git@github.com:gojp/goreportcard.git
 git@github.com:kylefeng28/Hello-Polyglot-World.git
 git@github.com:winterbe/langs.git
-git@github.com:EBvi/map_service.git
 git@github.com:ihoneymon/never-ending-study.git
 git@github.com:rubychan/Programming-Languages-Syntax-Examples.git
 git@github.com:einaregilsson/Redirector.git

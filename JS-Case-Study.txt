@@ -33,6 +33,7 @@ git@github.com:necolas/dom-siblings.git
 git@github.com:npm-dom/dom-style.git
 git@github.com:WebReflection/dom4.git
 git@github.com:zloirock/dtf.git
+git@github.com:avanslaars/egghead-cypress-course.git
 git@github.com:mdn/emogotchi.git
 https://github.com/getify/ES-Feature-Tests.git
 git@github.com:angular-class/ES6-build-tools.git
@@ -52,6 +53,7 @@ git@github.com:indongyoo/fnjs_seminar_1.git
 git@github.com:mattdiamond/fuckitjs.git
 git@github.com:osteele/functional-javascript.git
 https://github.com/getify/Functional-Light-JS.git
+git@github.com:Functional-JavaScript/FunctionalES.git
 git@github.com:tutsplus/get-started-with-meteor.git
 git@github.com:himynameisdave/git-labelmaker.git
 git@github.com:michael/github.git
@@ -63,6 +65,7 @@ git@github.com:twitter/hogan.js.git
 git@github.com:rwaldron/idiomatic.js.git
 git@github.com:facebook/immutable-js.git
 git@github.com:mashery/iodocs.git
+https://github.com/indongyoo/issue-tracker-prototype.git
 git@github.com:Chalarangelo/javascript-lessons.git
 https://github.com/overset/javascript-natural-sort.git
 git@github.com:drypot/javascript-study.git
@@ -79,10 +82,12 @@ git@github.com:benhowdle89/js-idioms.git
 git@github.com:mathieuancelin/js-repaint-perfs.git
 git@github.com:verekia/js-stack-from-scratch.git
 https://github.com/mathiasbynens/jsesc.git
+git@github.com:MrRio/jsPDF.git
 git@github.com:wesbos/keycodes.git
 git@github.com:dtao/lazy.js.git
 git@github.com:fogus/lemonad.git
 git@github.com:jamesshore/lets_code_javascript.git
+git@github.com:libapps/libdot.git
 git@github.com:lodash/lodash.git
 git@github.com:geelen/loopgifs.git
 git@github.com:moment/luxon.git

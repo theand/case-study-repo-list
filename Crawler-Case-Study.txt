@@ -1,11 +1,11 @@
 git@github.com:alltheplaces/alltheplaces.git
-git@github.com:bodzaital/Cat-A-Gram.git
 git@github.com:mdamien/chrome-extensions-archive.git
 git@github.com:tutsplus/crawl-the-web-with-python.git
 git@github.com:teampopong/crawlers.git
 git@github.com:janko-m/down.git
 git@github.com:cjkumaresh/download-nowrins.git
 git@github.com:adalbertoteixeira/download_image_from_url.git
+git@github.com:markbrown4/egghead-downloader.git
 https://github.com/ellerbrock/egghead-video-download.git
 git@github.com:aboutsajjad/Facebook-Album.git
 https://github.com/ellerbrock/get-links.git
@@ -30,13 +30,11 @@ git@github.com:Eblonko/instagram-downloader.git
 https://github.com/mittya/instagram-helper.git
 git@github.com:totemstech/instagram-node.git
 git@github.com:postaddictme/instagram-php-scraper.git
-git@github.com:cls1991/instagram-picture-downloader.git
 git@github.com:huttarichard/instagram-private-api.git
 git@github.com:facebookarchive/instagram-ruby-gem.git
 git@github.com:gl051/instagram-scraper.git
 git@github.com:pranavsricharan/instagram_downloader.git
 git@github.com:Jyrmi/instagram_downloader.git
-git@github.com:Joelpls/InstagramDownloader.git
 git@github.com:fiterV/instagramPictures.git
 git@github.com:yigitanil/InstagramRepostDownload.git
 git@github.com:sancayouth/InstagramVideoDownloader.git

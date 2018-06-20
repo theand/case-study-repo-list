@@ -16,7 +16,6 @@ git@github.com:javiereguiluz/EasyAdminBundle.git
 git@github.com:RazorFlow/examples.git
 git@github.com:RazorFlow/framework.git
 git@github.com:puikinsh/gentelella.git
-git@github.com:timcreative/get-shit-done.git
 git@github.com:varvet/godmin.git
 git@github.com:varvet/godmin-sandbox.git
 git@github.com:euperia/htg-laravel.git
@@ -31,6 +30,7 @@ git@github.com:sferik/rails_admin.git
 git@github.com:rdash/rdash-angular.git
 git@github.com:ziyasal/rdash-angular2.git
 git@github.com:yezihaohao/react-admin.git
+git@github.com:mberneti/ReactAdmin.git
 git@github.com:start-angular/SB-Admin-BS4-Angular-4.git
 git@github.com:codecentric/spring-boot-admin.git
 git@github.com:IronSummitMedia/startbootstrap-sb-admin-2.git

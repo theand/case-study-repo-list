@@ -6,12 +6,15 @@ git@github.com:winterbe/algorithms.git
 git@github.com:keon/algorithms.git
 git@github.com:gzc/CLRS.git
 git@github.com:OpenGenus/cosmos.git
+git@github.com:gardncl/elements-of-programming-interviews.git
+https://github.com/gardncl/elements-of-programming-interviews-solutions.git
 git@github.com:TheAlgorithms/Go.git
 git@github.com:skidding/illustrated-algorithms.git
+git@github.com:donnemartin/interactive-coding-challenges.git
 git@github.com:TheAlgorithms/Java.git
 git@github.com:TheAlgorithms/Javascript.git
-git@github.com:mgechev/javascript-algorithms.git
 git@github.com:yangshun/lago.git
+git@github.com:mgechev/javascript-algorithms.git
 git@github.com:jiayihu/pretty-algorithms.git
 git@github.com:TheAlgorithms/Python.git
 git@github.com:TheAlgorithms/Ruby.git

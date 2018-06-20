@@ -12,9 +12,11 @@ git@github.com:brunobat/basic-testing-webapp.git
 git@github.com:making/beansviz-spring-boot-actuator.git
 git@github.com:joshlong/boot-it-up.git
 git@github.com:viniciusccarvalho/boot-two-way-ssl-example.git
+git@github.com:joshlong/bootiful-reactive-microservices.git
 git@github.com:BroadleafCommerce/BroadleafCommerce.git
 git@github.com:rohajda/casdemo.git
 git@github.com:dpinto-pivotal/cf-SpringBootTrader.git
+git@github.com:joshlong/cloud-native-workshop.git
 git@github.com:spring-cloud-samples/config-repo.git
 git@github.com:dandelion/dandelion-datatables-samples.git
 git@github.com:gregturn/debug-your-spring-boot-app.git
@@ -26,8 +28,10 @@ git@github.com:kazuki43zoo/demo-reactive-mybatis.git
 git@github.com:making/demo-rest-security.git
 git@github.com:making/demo-route-service.git
 git@github.com:making/demo-search.git
+git@github.com:stunstunstun/dietxurl.git
 git@github.com:qwefgh90/document-repository-web.git
 git@github.com:making/echo.git
+git@github.com:Vedenin/Employee-Storage-Service-CodingChallenge.git
 git@github.com:cer/event-sourcing-examples.git
 git@github.com:FabienLauf/expedia-backendtest.git
 git@github.com:gregturn/flights.git
@@ -99,6 +103,7 @@ git@github.com:making/reactor-reactive-programming.git
 git@github.com:olivergierke/repositories-deepdive.git
 git@github.com:arawn/resource-handling-in-springmvc.git
 git@github.com:ihoneymon/rest-api-study.git
+git@github.com:Vedenin/RestAndSpringMVC-CodingChallenge.git
 git@github.com:ihoneymon/rocking-make-rest-api.git
 git@github.com:ihoneymon/rocking-the-rest-api.git
 git@github.com:ihoneymon/rocking-the-spring-4x-web-application.git
@@ -135,10 +140,12 @@ git@github.com:sbcoba/spring-boot-multidatasource.git
 git@github.com:sbcoba/spring-boot-oauth2-sample.git
 git@github.com:okihouse/spring-boot-redis-auto-complete.git
 git@github.com:sdeleuze/spring-boot-sample-web-handlebars.git
+git@github.com:cheese10yun/spring-boot-slack-notificaion.git
 git@github.com:young891221/spring-boot-social-comment.git
 git@github.com:ihoneymon/spring-boot-starter.git
 git@github.com:mmeany/spring-boot-web-mvc-tiles3.git
 git@github.com:mikaelhg/spring-boot-webpack-es6-react-poc.git
+git@github.com:okihouse/spring-boot-webpack-react-typescript.git
 git@github.com:ptahchiev/spring-cache-test.git
 git@github.com:sbcoba/spring-camp-spring-security-session.git
 git@github.com:sbcoba/spring-camp-spring-security-session2.git
@@ -191,6 +198,7 @@ git@github.com:Yongdae-Kim/spring_study.git
 git@github.com:ihoneymon/springboot-jpa-security.git
 git@github.com:anomie7/springBoot-React--boilerplate.git
 git@github.com:svlada/springboot-security-jwt.git
+git@github.com:origoni/springboot-webflux-demo2.git
 git@github.com:kr-zephyr/SpringBootWebAppSample.git
 git@github.com:jaceshim/springcamp2017.git
 git@github.com:springfox/springfox-demos.git

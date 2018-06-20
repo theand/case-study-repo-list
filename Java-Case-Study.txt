@@ -1,11 +1,13 @@
 https://github.com/gilbutITbook/006725.git
 https://github.com/gilbutITbook/006903.git
+git@github.com:shekhargulati/30-seconds-of-java.git
 https://github.com/fukata/AES-256-CBC-Example.git
 git@github.com:airlift/airlift.git
 git@github.com:spotify/apollo.git
 git@github.com:GoogleCloudPlatform/appengine-guestbook-java.git
 git@github.com:GoogleCloudPlatform/appengine-java-vm-guestbook-extras.git
 git@github.com:MTDdk/autolink-java.git
+git@github.com:aws-asean-builders/aws-java-spring-dev-workshop.git
 git@github.com:gmind7/bakery-spring-data-jpa-sample.git
 git@github.com:Apress/beg-java-objects.git
 git@github.com:cxxr/better-java.git
@@ -33,6 +35,7 @@ git@github.com:GoogleCloudPlatform/compute-getting-started-java.git
 git@github.com:debop/connectionpool-benchmark.git
 git@github.com:tjchaplin/DDDSample.git
 git@github.com:OmarElGabry/DesignPatterns.git
+git@github.com:fbiville/devfest-2014-livecoding-archetype.git
 git@github.com:marhan/effective-java-examples.git
 git@github.com:arawn/egovframe-springmvc.git
 git@github.com:yegor256/elegantobjects.git
@@ -44,6 +47,7 @@ git@github.com:eirslett/frontend-maven-plugin.git
 git@github.com:smola/galimatias.git
 git@github.com:GoogleCloudPlatform/gcloud-java-examples.git
 git@github.com:GoogleCloudPlatform/getting-started-java.git
+git@github.com:Vedenin/GildedRoseRefactoring-CodingChallenge.git
 git@github.com:kevinsawicki/github-maven-example.git
 git@github.com:ertugrulcetin/GlueList.git
 git@github.com:kwon37xi/gradle-tutorial.git
@@ -62,6 +66,7 @@ git@github.com:JakeWharton/hugo.git
 git@github.com:LeeKyoungIl/illuminati.git
 git@github.com:immutables/immutables.git
 git@github.com:verekia/initializr.git
+https://github.com/LeonardoZ/java-concurrency-patterns.git
 git@github.com:iluwatar/java-design-patterns.git
 git@github.com:virgo47/java-enum-conversion.git
 git@github.com:fabienrenaud/java-json-benchmark.git
@@ -106,11 +111,13 @@ git@github.com:hrldcpr/pcollections.git
 git@github.com:dankle/pdfmerger.git
 git@github.com:ocpsoft/prettytime.git
 https://github.com/nicksieger/rake-ant.git
+git@github.com:yudong80/reactivejava.git
 git@github.com:ocpsoft/regex-tester.git
 git@github.com:orfjackal/retrolambda.git
 git@github.com:tusharmndr/retry-function-wrapper.git
 git@github.com:ocpsoft/rewrite.git
 git@github.com:ihoneymon/rocking-the-gradle.git
+git@github.com:Vedenin/RockPaperScissors-CodingChallenge.git
 git@github.com:ReactiveX/RxJava.git
 git@github.com:keesun/servlet2spring.git
 git@github.com:airlift/slice.git

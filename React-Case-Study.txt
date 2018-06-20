@@ -35,3 +35,4 @@ git@github.com:reactjs/redux.git
 git@github.com:happypoulp/redux-tutorial.git
 git@github.com:winterbe/spring-react-example.git
 git@github.com:lukekarrys/universal-static-instagram.git
+git@github.com:MatLang/youtube-search-react.git
