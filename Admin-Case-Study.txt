@@ -23,6 +23,7 @@ git@github.com:Kinto/kinto-admin.git
 git@github.com:z-song/laravel-admin.git
 git@github.com:silverbux/laravel-angular-admin.git
 git@github.com:ForestAdmin/lumber.git
+git@github.com:creativetimofficial/material-dashboard.git
 git@github.com:akivaron/miminium.git
 git@github.com:marmelab/ng-admin.git
 git@github.com:akveo/ng2-admin.git

@@ -54,6 +54,7 @@ git@github.com:skmetz/poodr.git
 git@github.com:kickstarter/rack-attack.git
 git@github.com:whitequark/rack-utf8_sanitizer.git
 git@github.com:sickill/rainbow.git
+git@github.com:bkuhlmann/refinements.git
 git@github.com:ahoward/rego.git
 git@github.com:hukl/righttp.git
 git@github.com:jeremyevans/roda.git

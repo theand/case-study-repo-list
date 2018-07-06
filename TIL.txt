@@ -12,6 +12,7 @@ git@github.com:Fool-Stack-Rangers/til.git Fool-Stack-Rangers-til
 git@github.com:geteloquent/til.git geteloquent-til
 git@github.com:holycrap872/til.git holycrap872-til
 git@github.com:hashrocket/hr-til.git
+git@github.com:iamkyu/TIL.git iamkyu-TIL
 git@github.com:ip2k/todayilearned.git ip2k-todayilearned
 git@github.com:jbranchaud/til.git jbranchaud-til
 git@github.com:jscappini/til.git jscappini-til
@@ -24,7 +25,6 @@ git@github.com:milooy/TIL.git milooy-TIL
 git@github.com:moschan/til.git moschan-til
 git@github.com:MotelIs/til.git MotelIs-til
 git@github.com:netguru/til.git netguru-til
-git@github.com:nowStackOverflow/TIL.git nowStackOverflow-TIL
 git@github.com:rbreve/TIL.git rbreve-TIL
 git@github.com:rstacruz/til.git rstacruz-til
 git@github.com:rubytaiwan/til.git rubytaiwan-til
@@ -32,5 +32,4 @@ git@github.com:shuhrat/til.git shuhrat-til
 git@github.com:stamm/til.git stamm-til
 git@github.com:thoughtbot/til.git thoughtbot-til
 git@github.com:JoMingyu/TIL-Python.git
-git@github.com:WanderWorld/til.git WanderWorld-til
 git@github.com:wonism/TIL.git wonism-TIL
