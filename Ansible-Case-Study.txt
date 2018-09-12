@@ -18,4 +18,5 @@ git@github.com:phansible/role-vagrant_local.git
 git@github.com:mheap/phpnw-ansible-playbooks.git
 git@github.com:rvm/rvm1-ansible.git
 git@github.com:tchapi/ansible-playbooks.git
+git@github.com:thechangelog/infrastructure.git
 git@github.com:FriendsOfCake/vagrant-ansible.git

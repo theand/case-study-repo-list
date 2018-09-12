@@ -176,6 +176,7 @@ git@github.com:bclozel/spring-resource-handling.git
 git@github.com:olivergierke/spring-restbucks.git
 git@github.com:spring-projects/spring-restdocs.git
 git@github.com:gmind7/spring-restdocs-seminar.git
+https://github.com/spring-projects/spring-security.git
 git@github.com:SpringOne2GX-2014/spring-security-0-to-4.0.git
 git@github.com:dsyer/spring-security-angular.git
 git@github.com:spring-projects/spring-security-migrate-3-to-4.git
