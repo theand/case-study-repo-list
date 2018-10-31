@@ -1,6 +1,7 @@
 git@github.com:walteranderson/add-to-trello.git
 git@github.com:omgmog/chrome-add-link-to-trello.git
 git@github.com:imwilsonxu/chrome-extension-dev-template.git
+git@github.com:johnlindquist/chrome-extension-lessons.git
 git@github.com:adrienjoly/chrome-next-step-for-trello.git
 https://github.com/ku/CreateLink.git
 git@github.com:djacobow/detrumpify.git

@@ -33,6 +33,7 @@ git@github.com:postaddictme/instagram-php-scraper.git
 git@github.com:huttarichard/instagram-private-api.git
 git@github.com:facebookarchive/instagram-ruby-gem.git
 git@github.com:gl051/instagram-scraper.git
+git@github.com:meetmangukiya/instagram-scraper.git
 git@github.com:pranavsricharan/instagram_downloader.git
 git@github.com:Jyrmi/instagram_downloader.git
 git@github.com:fiterV/instagramPictures.git
@@ -62,6 +63,7 @@ git@github.com:sf27/StalkGramReactNative.git
 git@github.com:strollkim/stock_data_crawler.git
 git@github.com:CaseyKelly/terminal-instagram-download.git
 git@github.com:ddulhddul/Top100Music_Crawling.git
+git@github.com:kennethreitz/twitter-scraper.git
 git@github.com:Chalarangelo/unscrape.git
 https://github.com/vassyz/egghead-downloader.git
 git@github.com:robdelacruz/web-instagram-dl.git
