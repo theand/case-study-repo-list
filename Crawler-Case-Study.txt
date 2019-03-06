@@ -7,7 +7,6 @@ git@github.com:cjkumaresh/download-nowrins.git
 git@github.com:adalbertoteixeira/download_image_from_url.git
 git@github.com:markbrown4/egghead-downloader.git
 https://github.com/ellerbrock/egghead-video-download.git
-git@github.com:aboutsajjad/Facebook-Album.git
 https://github.com/ellerbrock/get-links.git
 https://github.com/ellerbrock/get-links-cli.git
 git@github.com:blan4/hexapic.git
@@ -51,7 +50,7 @@ https://github.com/rubysoho07/MovieScheduler.git
 https://github.com/GwonHyeok/naver-crawler.git
 https://github.com/produk/new-egghead-downloader.git
 git@github.com:MichaelBurge/pornview.git
-git@github.com:HugoTian/pyinsta.git
+git@github.com:umaar/puppeteer-simple-example.git
 git@github.com:aolle/pynst.git
 git@github.com:facebookarchive/python-instagram.git
 git@github.com:sebastienbarre/ragamints.git

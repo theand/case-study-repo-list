@@ -1,6 +1,7 @@
 git@github.com:a11yproject/a11yproject.com.git
 git@github.com:danielgtaylor/aglio.git
 git@github.com:trek/beautiful-open.git
+git@github.com:rstacruz/cheatsheets.git
 git@github.com:cdmedia/cms.js.git
 git@github.com:waferbaby/dimples.git
 git@github.com:minio/doctor.git

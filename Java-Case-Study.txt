@@ -36,6 +36,7 @@ git@github.com:debop/connectionpool-benchmark.git
 git@github.com:tjchaplin/DDDSample.git
 git@github.com:OmarElGabry/DesignPatterns.git
 git@github.com:fbiville/devfest-2014-livecoding-archetype.git
+git@github.com:eclipse/eclipse-collections.git
 git@github.com:marhan/effective-java-examples.git
 git@github.com:arawn/egovframe-springmvc.git
 git@github.com:yegor256/elegantobjects.git
@@ -52,6 +53,7 @@ git@github.com:kevinsawicki/github-maven-example.git
 git@github.com:ertugrulcetin/GlueList.git
 git@github.com:kwon37xi/gradle-tutorial.git
 git@github.com:oci-pronghorn/GreenLightning.git
+https://github.com/gretty-gradle-plugin/gretty.git
 git@github.com:google/guava.git
 git@github.com:bbejeck/guava-blog.git
 git@github.com:tfnico/guava-examples.git

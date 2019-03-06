@@ -54,6 +54,8 @@ git@github.com:mattdiamond/fuckitjs.git
 git@github.com:osteele/functional-javascript.git
 https://github.com/getify/Functional-Light-JS.git
 git@github.com:Functional-JavaScript/FunctionalES.git
+git@github.com:marpple/FxJS.git
+git@github.com:marpple/FxJS-DOM.git
 git@github.com:tutsplus/get-started-with-meteor.git
 git@github.com:himynameisdave/git-labelmaker.git
 git@github.com:michael/github.git
@@ -66,9 +68,9 @@ git@github.com:rwaldron/idiomatic.js.git
 git@github.com:facebook/immutable-js.git
 git@github.com:mashery/iodocs.git
 https://github.com/indongyoo/issue-tracker-prototype.git
+git@github.com:bahmutov/javascript-journey.git
 git@github.com:Chalarangelo/javascript-lessons.git
 https://github.com/overset/javascript-natural-sort.git
-git@github.com:drypot/javascript-study.git
 git@github.com:wesbos/JavaScript30.git
 git@github.com:jquery/jquery.git
 git@github.com:jquery-boilerplate/jquery-boilerplate.git
@@ -124,9 +126,11 @@ git@github.com:outsideris/slack-invite-automation.git
 git@github.com:lqez/smartstudy-lottery-2015.git
 git@github.com:swmaestro/somat.git
 git@github.com:alexei/sprintf.js.git
+git@github.com:eggheadio-github/stack-overflow-copy-paste.git
 git@github.com:rpominov/static-land.git
 https://github.com/marcuswestin/store.js.git
 git@github.com:raganwald/string-lambdas.git
+git@github.com:dleitee/strman.git
 https://github.com/mdn/sw-test.git
 git@github.com:tc39/test262.git
 git@github.com:NUKnightLab/TimelineJS3.git

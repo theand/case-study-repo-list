@@ -1,17 +1,20 @@
 git@github.com:rajabishek/begin.git
 git@github.com:salomonelli/best-resume-ever.git
 git@github.com:laracasts/Custom-Components-using-Vueify.git
+git@github.com:vueschool/custom-vue-directives.git
 git@github.com:laracasts/Dedicated-Graph-Vue-Components.git
 git@github.com:vueschool/dynamic-forms.git
 git@github.com:vueschool/form-validation.git
 git@github.com:elliotforbes/hackernews-vuejs.git
 git@github.com:Kitchu0401/home-ledger.git
 git@github.com:sdras/intro-to-vue.git
+git@github.com:vueschool/javascript-testing-fundamentals.git
 git@github.com:rotoshine/jjalbang-maker.git
 https://github.com/vuejs-kr/kr.vuejs.org.git
 git@github.com:laracasts/Laravel-Elixir-Vueify-Setup.git
 git@github.com:vueschool/learn-vuex.git
 git@github.com:Madmous/madClones.git
+git@github.com:vueschool/nuxt-fundamentals.git
 git@github.com:cfjedimaster/recogtester.git
 git@github.com:breath103/seoul-bike.git
 https://github.com/jonashackt/spring-boot-vuejs.git
@@ -39,6 +42,7 @@ git@github.com:egoist/vue-land.git
 git@github.com:vueschool/vue-master-class.git
 git@github.com:michitaro/vue-menu.git
 git@github.com:alessiomaffeis/vue-picture-input.git
+git@github.com:prograhammer/vue-pizza.git
 git@github.com:kazupon/vue-plugin-boilerplate.git
 git@github.com:vuejs/vue-resource.git
 git@github.com:vuejs/vue-router.git
@@ -60,7 +64,6 @@ git@github.com:Godofbrowser/vuejs-dialog.git
 git@github.com:vueschool/vuejs-firebase-authentication.git
 git@github.com:vueschool/vuejs-firebase-realtime-database.git
 git@github.com:vueschool/vuejs-fundamentals.git
-git@github.com:deulos/vuejs-model-validator.git
 git@github.com:hootlex/vuejs-paginator.git
 git@github.com:dotboris/vuejs-serverside-template-xss.git
 git@github.com:vuejs/vuejs.org.git

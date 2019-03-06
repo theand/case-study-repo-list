@@ -1,1 +1,2 @@
+git@github.com:netlify/code-examples.git
 git@github.com:firebase/functions-samples.git

@@ -58,7 +58,6 @@ git@github.com:mitulgolakiya/laravel-api-generator.git
 git@github.com:yhbyun/laravel-bookmark.git
 git@github.com:davzie/laravel-bootstrap.git
 git@github.com:unicodeveloper/laravel-hackathon-starter.git
-git@github.com:thisiskaden/laravel-korea.git
 git@github.com:rap2hpoutre/laravel-log-viewer.git
 git@github.com:kdocki/laravel-presenter-example.git
 git@github.com:ChuckHeintzelman/laravel-recipes.git

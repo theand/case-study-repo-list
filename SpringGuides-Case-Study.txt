@@ -3,10 +3,8 @@ git@github.com:spring-guides/getting-started-macros.git
 git@github.com:spring-guides/gs-accessing-data-jpa.git
 git@github.com:spring-guides/gs-accessing-data-mongodb.git
 git@github.com:spring-guides/gs-accessing-data-rest.git
-git@github.com:spring-guides/gs-accessing-facebook.git
 git@github.com:spring-guides/gs-accessing-mongodb-data-rest.git
 git@github.com:spring-guides/gs-accessing-neo4j-data-rest.git
-git@github.com:spring-guides/gs-accessing-twitter.git
 git@github.com:spring-guides/gs-actuator-service.git
 git@github.com:spring-guides/gs-async-method.git
 git@github.com:spring-guides/gs-authenticating-ldap.git
@@ -26,8 +24,6 @@ git@github.com:spring-guides/gs-maven.git
 git@github.com:spring-guides/gs-messaging-rabbitmq.git
 git@github.com:spring-guides/gs-messaging-redis.git
 git@github.com:spring-guides/gs-messaging-stomp-websocket.git
-git@github.com:spring-guides/gs-register-facebook-app.git
-git@github.com:spring-guides/gs-register-twitter-app.git
 git@github.com:spring-guides/gs-relational-data-access.git
 git@github.com:spring-guides/gs-rest-hateoas.git
 git@github.com:spring-guides/gs-rest-service.git

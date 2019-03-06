@@ -37,5 +37,6 @@ git@github.com:rhysd/Shiba.git
 git@github.com:BZCoding/SkelEktron.git
 git@github.com:Soundnode/soundnode-app.git
 git@github.com:kevinsawicki/spectron.git
+git@github.com:joostory/tistory-editor.git
 git@github.com:Automattic/wp-calypso.git
 git@github.com:yeoman/yeoman-app.git

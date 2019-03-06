@@ -7,6 +7,7 @@ git@github.com:craigkerstiens/django-todo.git
 git@github.com:dunglas/DunglasTodoMVCBundle.git
 git@github.com:kentcdodds/es6-todomvc.git
 git@github.com:GoogleCloudPlatform/gcloud-node-todos.git
+git@github.com:tastejs/hacker-news-pwas.git
 git@github.com:SeanShubin/javascript-todo-samples.git
 https://github.com/joeunha/todo.git
 git@github.com:SandeeshS/laravel-realworld-example-app.git

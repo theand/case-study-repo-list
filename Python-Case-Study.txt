@@ -23,7 +23,6 @@ git@github.com:cherrypy/cherrypy.git
 git@github.com:ckan/ckan.git
 git@github.com:mitsuhiko/cli-tools.git
 git@github.com:mitsuhiko/click.git
-git@github.com:dorfsmay/click_example.git
 git@github.com:kennethreitz/clint.git
 git@github.com:madisonmay/CommonRegex.git
 git@github.com:pythonkr/conference-record-scripts.git
@@ -46,6 +45,7 @@ git@github.com:mitsuhiko/itsdangerous.git
 git@github.com:mitsuhiko/jinja2.git
 git@github.com:TeamLab/lab_for_gachon_cs50.git
 git@github.com:Mimino666/langdetect.git
+git@github.com:youknowone/learn-python3-thw-code-ko.git
 git@github.com:kennethreitz/legit.git
 git@github.com:bsnux/linter-python-pep8.git
 git@github.com:zzzeek/mako.git
@@ -83,6 +83,7 @@ git@github.com:daeilkim/refinery.git
 git@github.com:kennethreitz/requests.git
 git@github.com:moggers87/salmon.git
 git@github.com:phaethon/scapy.git
+git@github.com:sdushantha/sherlock.git
 git@github.com:sphinx-doc/sphinx.git
 git@bitbucket.org:zzzeek/sqlalchemy.git
 git@github.com:realpython/stack-spider.git

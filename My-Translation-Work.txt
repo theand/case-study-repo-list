@@ -14,8 +14,6 @@ git@github.com:necolas/idiomatic-css.git
 git@github.com:BonsaiDen/JavaScript-Garden.git
 git@github.com:AllThingsSmitty/jquery-tips-everyone-should-know.git
 git@github.com:xpressengine/laravel-korean-docs.git
-git@github.com:thisiskaden/laravel4-docs-korean.git
-git@github.com:thisiskaden/laravel4-lang-korean.git
 git@github.com:laraveltherightway/laraveltherightway.github.io.git
 git@github.com:zeeshanu/learn-regex.git
 git@github.com:laravel/lumen-docs.git
