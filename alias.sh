@@ -107,7 +107,7 @@ function update_git_all(){
         then
             echo "Processing : $DIR"
             cd $DIR ;
-            if git pull -X theirs;
+            if git pull --quiet -X theirs;
             then
                 echo "pull succeeded";
             else
