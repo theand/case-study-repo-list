@@ -2,10 +2,10 @@ git@github.com:AndrewVos/today-i-learned.git AndrewVos-til
 git@github.com:FakeSloth/til.git FakeSloth-til
 git@github.com:Fool-Stack-Rangers/til.git Fool-Stack-Rangers-til
 git@github.com:Legoben/Today-I-Learned.git Legoben-Today-I-Learned
+git@github.com:MotelIs/til.git MotelIs-til
 git@github.com:JoMingyu/TIL-Python.git
 git@github.com:ahastudio/til.git ahastudio-til
 git@github.com:altmetric/til.git altmetric-til
-
 https://github.com/cg4jins/TIL.git cg4jins-TIL
 git@github.com:devsejong/TIL.git devsejong-TIL
 git@github.com:dezitter/til.git dezitter-til

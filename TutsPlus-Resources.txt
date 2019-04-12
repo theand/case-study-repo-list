@@ -7,13 +7,6 @@ git@github.com:tutsplus/Build-a-Polling-App-With-Rails.git
 git@github.com:tutsplus/Building-Bootstrap-With-Emmet.git
 git@github.com:tutsplus/Building-scopa-in-meteor.git
 git@github.com:tutsplus/CSS3-Preloaders.git
-git@github.com:tutsplus/CoreData-CoreDataStack.git
-git@github.com:tutsplus/CoreData-DataModel.git
-git@github.com:tutsplus/CoreData-ManagedObjectsFetchRequests.git
-git@github.com:tutsplus/CoreData-Migrations.git
-git@github.com:tutsplus/CoreData-NSFetchedResultsController.git
-git@github.com:tutsplus/CoreData-RelationshipsMoreFetching.git
-git@github.com:tutsplus/CoreData-SubclassingNSManagedObject.git
 git@github.com:tutsplus/Deploy-a-Rails-App-With-Docker.git
 git@github.com:tutsplus/Dynamic-Dashboard-With-ChartJS.git
 git@github.com:tutsplus/Essential-Tools-For-JavaScript-Devs.git
@@ -182,10 +175,8 @@ git@github.com:tutsplus/lemonade.git
 git@github.com:tutsplus/local-mirror-composer-satis.git
 git@github.com:tutsplus/maintain-consistency-with-a-website-style-guide.git
 git@github.com:tutsplus/mixin-driven-layouts.git
-git@github.com:tutsplus/mobile-apps-with-ionic-and-firebase.git
 git@github.com:tutsplus/modern-javascript-linting-with-eslint.git
 git@github.com:tutsplus/money-patterns.git
-git@github.com:newscloud/mp.git
 git@github.com:tutsplus/node-js-from-scratch.git
 git@github.com:tutsplus/nodejs-better-performance.git
 git@github.com:tutsplus/nodejs-websockets-chat-service.git
@@ -224,7 +215,6 @@ git@github.com:tutsplus/riding-ruby-on-rails-course.git
 git@github.com:tutsplus/rss-feed-reader-mean-stack.git
 git@github.com:tutsplus/ruby-metaprogramming-exercise.git
 git@github.com:tutsplus/ruby-refactoring.git
-git@github.com:tutsplus/sailsjs-from-scratch.git
 git@github.com:tutsplus/scroll-events-made-easy.git
 git@github.com:tutsplus/scrumptious.git
 git@github.com:tutsplus/self-hosted-php-sql-leaderboard.git

@@ -10,5 +10,4 @@ git@github.com:Kotlin/kotlin-in-action.git
 git@github.com:JetBrains/kotlin-web-demo.git
 git@github.com:Kotlin/ktor.git
 git@github.com:mixitconf/mixit.git
-git@github.com:reactor/reactor-kotlin-extensions.git
 git@github.com:sdeleuze/spring-boot-kotlin-demo.git
