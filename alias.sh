@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/local/bin/bash
 
 red=$(tput setaf 1)
 green=$(tput setaf 2)
@@ -23,9 +23,8 @@ Electron-Case-Study
 Flask-Case-Study
 FrontEnd-Case-Study
 General-Case-Study
-iOS-Case-Study
-Java-Case-Study
 JS-Case-Study
+Java-Case-Study
 Koan-Case-Study
 Kotlin-Case-Study
 Laracast
@@ -60,7 +59,6 @@ Wiki-Case-Study
 )
 
 CASE_STUDY_EXCLUDE=( 
-iOS-Case-Study
 TutsPlus-Resources
 )
 
@@ -101,7 +99,7 @@ function clone_repo_from_txt(){
 
 #서브디렉토리의 모든 git 저장소를 업데이트.
 function update_git_all(){
-    for DIR in `\ls -f`;
+    for DIR in `\ls`;
     do
         if [[ -d $DIR ]] && [[ -d $DIR/.git ]]
         then
