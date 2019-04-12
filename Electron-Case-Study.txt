@@ -1,8 +1,11 @@
+git@github.com:BoostIO/Boostnote.git
+git@github.com:k0kubun/Nocturn.git
+git@github.com:rhysd/Shiba.git
+git@github.com:BZCoding/SkelEktron.git
 git@github.com:sindresorhus/anatine.git
 git@github.com:sindresorhus/awesome-electron.git
 git@github.com:ragingwind/bare-electron-react.git
 git@github.com:black-screen/black-screen.git
-git@github.com:BoostIO/Boostnote.git
 git@github.com:auchenberg/chrome-devtools-app.git
 git@github.com:ragingwind/devdogs.git
 git@github.com:electrode-io/electrode-archetype-react-app.git
@@ -15,6 +18,7 @@ git@github.com:bradstewart/electron-boilerplate-vue.git
 git@github.com:kevinsawicki/electron-chromedriver.git
 git@github.com:fraserxu/electron-pdf.git
 git@github.com:ragingwind/electron-psk-boilerplate.git
+git@github.com:electron/electron-quick-start.git
 git@github.com:chentsulin/electron-react-boilerplate.git
 git@github.com:electronkr/electron-spectron-showcase.git
 git@github.com:electronkr/electron-starter-kit.git
@@ -27,14 +31,11 @@ git@github.com:ChangJoo-Park/gitrelease-app.git
 git@github.com:increments/kobito-oss.git
 git@github.com:maxogden/menubar.git
 git@github.com:microeinhundert/music-app-electron.git
-git@github.com:k0kubun/Nocturn.git
 git@github.com:brandonjpierce/node-webkit-boilerplate.git
 git@github.com:easylogic/openproxy-ui.git
 git@github.com:gabrielbull/react-desktop.git
 git@github.com:react-photonkit/react-photonkit.git
 git@github.com:maxogden/screencat.git
-git@github.com:rhysd/Shiba.git
-git@github.com:BZCoding/SkelEktron.git
 git@github.com:Soundnode/soundnode-app.git
 git@github.com:kevinsawicki/spectron.git
 git@github.com:joostory/tistory-editor.git

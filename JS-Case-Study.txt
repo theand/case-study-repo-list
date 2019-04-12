@@ -1,6 +1,20 @@
 https://github.com/gilbutITbook/006844.git
 git@github.com:Chalarangelo/30-seconds-of-code.git
 https://github.com/getify/A-Tale-Of-Three-Lists.git
+git@github.com:brockwhittaker/BitArray.js.git
+https://github.com/talyssonoc/CommonRegexJS.git
+git@github.com:OmarElGabry/DesignPatterns.git
+https://github.com/getify/ES-Feature-Tests.git
+git@github.com:angular-class/ES6-build-tools.git
+https://github.com/getify/Functional-Light-JS.git
+git@github.com:Functional-JavaScript/FunctionalES.git
+git@github.com:marpple/FxJS.git
+git@github.com:marpple/FxJS-DOM.git
+git@github.com:wesbos/JavaScript30.git
+git@github.com:ReactiveX/RxJS.git
+git@github.com:NUKnightLab/TimelineJS3.git
+https://github.com/medialize/URI.js.git
+git@github.com:getify/You-Dont-Know-JS.git
 git@github.com:indongyoo/abc-functional-javascript.git
 https://github.com/mdn/advanced-js-fundamentals-ck.git
 git@github.com:ruby-korea/advent-calendar.git
@@ -8,7 +22,6 @@ git@github.com:sdras/array-explorer.git
 git@github.com:mzabriskie/axios.git
 https://github.com/mikaelbr/bacon-love.git
 https://github.com/baconjs/bacon.js.git
-git@github.com:brockwhittaker/BitArray.js.git
 git@github.com:petkaantonov/bluebird.git
 git@github.com:socketio/chat-example.git
 https://github.com/ryanmcdermott/clean-code-javascript.git
@@ -16,12 +29,11 @@ https://github.com/qkraudghgh/clean-code-javascript-ko.git
 https://github.com/zenorocha/clipboard.js.git
 git@github.com:bahmutov/code-snippets.git
 git@github.com:ecrmnn/collect.js.git
-https://github.com/talyssonoc/CommonRegexJS.git
+git@github.com:declandewet/common-tags.git
 git@github.com:zloirock/core-js.git
 https://github.com/domenic/count-to-6.git
 git@github.com:twitter/d3kit.git
 git@github.com:date-fns/date-fns.git
-git@github.com:OmarElGabry/DesignPatterns.git
 git@github.com:necolas/dom-closest.git
 https://github.com/mdn/dom-examples.git
 git@github.com:necolas/dom-insert.git
@@ -35,8 +47,6 @@ git@github.com:WebReflection/dom4.git
 git@github.com:zloirock/dtf.git
 git@github.com:avanslaars/egghead-cypress-course.git
 git@github.com:mdn/emogotchi.git
-https://github.com/getify/ES-Feature-Tests.git
-git@github.com:angular-class/ES6-build-tools.git
 git@github.com:jakearchibald/es6-promise.git
 git@github.com:angular-class/es6-workshop.git
 git@github.com:wesbos/es6.io.git
@@ -52,10 +62,7 @@ git@github.com:webpack/file-loader.git
 git@github.com:indongyoo/fnjs_seminar_1.git
 git@github.com:mattdiamond/fuckitjs.git
 git@github.com:osteele/functional-javascript.git
-https://github.com/getify/Functional-Light-JS.git
-git@github.com:Functional-JavaScript/FunctionalES.git
-git@github.com:marpple/FxJS.git
-git@github.com:marpple/FxJS-DOM.git
+https://github.com/joeunha/functional-js-study.git
 git@github.com:tutsplus/get-started-with-meteor.git
 git@github.com:himynameisdave/git-labelmaker.git
 git@github.com:michael/github.git
@@ -71,7 +78,6 @@ https://github.com/indongyoo/issue-tracker-prototype.git
 git@github.com:bahmutov/javascript-journey.git
 git@github.com:Chalarangelo/javascript-lessons.git
 https://github.com/overset/javascript-natural-sort.git
-git@github.com:wesbos/JavaScript30.git
 git@github.com:jquery/jquery.git
 git@github.com:jquery-boilerplate/jquery-boilerplate.git
 git@github.com:jquery-boilerplate/jquery-patterns.git
@@ -83,8 +89,8 @@ git@github.com:krausest/js-framework-benchmark.git
 git@github.com:benhowdle89/js-idioms.git
 git@github.com:mathieuancelin/js-repaint-perfs.git
 git@github.com:verekia/js-stack-from-scratch.git
-https://github.com/mathiasbynens/jsesc.git
 git@github.com:MrRio/jsPDF.git
+https://github.com/mathiasbynens/jsesc.git
 git@github.com:wesbos/keycodes.git
 git@github.com:dtao/lazy.js.git
 git@github.com:fogus/lemonad.git
@@ -120,7 +126,6 @@ https://github.com/Gozala/querystring.git
 git@github.com:ramda/ramda.git
 git@github.com:westonganger/rearmed-js.git
 git@github.com:mdo/redditate.git
-git@github.com:ReactiveX/RxJS.git
 https://github.com/chrisdavidmills/selection-api-examples.git
 git@github.com:outsideris/slack-invite-automation.git
 git@github.com:lqez/smartstudy-lottery-2015.git
@@ -133,7 +138,6 @@ git@github.com:raganwald/string-lambdas.git
 git@github.com:dleitee/strman.git
 https://github.com/mdn/sw-test.git
 git@github.com:tc39/test262.git
-git@github.com:NUKnightLab/TimelineJS3.git
 git@github.com:mdn/to-do-notifications.git
 git@github.com:parshap/truncate-utf8-bytes.git
 git@github.com:nhnent/tui.code-snippet.git
@@ -144,7 +148,6 @@ git@github.com:jashkenas/underscore.git
 git@github.com:documentcloud/underscore-contrib.git
 git@github.com:epeli/underscore.string.git
 git@github.com:popalexandruvasile/underscorejs-examples.git
-https://github.com/medialize/URI.js.git
 git@github.com:bellbind/using-promise-q.git
 git@github.com:ruanyf/webpack-demos.git
 git@github.com:phuu/webpack-dependency-demo.git
@@ -152,4 +155,3 @@ git@github.com:odyss009/webpack-sample.git
 https://github.com/jsdom/whatwg-url.git
 git@github.com:denysdovhan/wtfjs.git
 git@github.com:bradleyboy/yarsk.git
-git@github.com:getify/You-Dont-Know-JS.git

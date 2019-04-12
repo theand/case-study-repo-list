@@ -1,5 +1,6 @@
 git@github.com:shinji62/alpine-docker-bash-git.git
 git@github.com:phusion/baseimage-docker.git
+git@github.com:netlify/build-image.git
 git@github.com:meAmidos/dcind.git
 git@github.com:making/demo-docker-compose-in-concourse.git
 git@github.com:making/demo-test-container.git

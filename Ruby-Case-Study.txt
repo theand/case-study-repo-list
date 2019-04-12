@@ -1,4 +1,7 @@
 git@github.com:skmetz/99bottles.git
+https://github.com/talyssonoc/CommonRegexRuby.git
+git@github.com:pivotal/LicenseFinder.git
+git@github.com:ruby-korea/RubyDesignPatternStudy.git
 git@github.com:sferik/active_emoji.git
 git@github.com:sporkmonger/addressable.git
 git@github.com:ahoward/arrayfields.git
@@ -8,7 +11,6 @@ git@github.com:brianmario/charlock_holmes.git
 git@github.com:rubychan/coderay.git
 git@github.com:ahoward/coerce.git
 git@github.com:rubychan/colorspec.git
-https://github.com/talyssonoc/CommonRegexRuby.git
 git@github.com:baxang/coupon-code.git
 git@github.com:danneu/craig.git
 git@github.com:soveran/cuba.git
@@ -32,7 +34,6 @@ git@github.com:everywish/itelec2016.git
 git@github.com:n42corp/kakao_push.git
 git@github.com:andrewvc/learn-ruby-zeromq.git
 git@github.com:alexch/learn_ruby.git
-git@github.com:pivotal/LicenseFinder.git
 git@github.com:github/linguist.git
 git@github.com:ahoward/macaddr.git
 git@github.com:ahoward/main.git
@@ -67,7 +68,6 @@ git@github.com:openshift/ruby-ex.git
 git@github.com:jordansissel/ruby-filewatch.git
 git@github.com:jordansissel/ruby-stud.git
 git@github.com:rubychan/rubybenchmark.git
-git@github.com:ruby-korea/RubyDesignPatternStudy.git
 git@github.com:rubychan/shootout.git
 git@github.com:nacyot/slack_log_viewer.git
 git@github.com:jordansissel/software-patterns.git

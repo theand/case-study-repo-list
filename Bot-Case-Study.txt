@@ -1,3 +1,7 @@
+git@github.com:aboutsajjad/IUST-FaceMash.git
+git@github.com:Just-Some-Bots/MusicBot.git
+git@github.com:rubenlagus/TelegramBots.git
+git@github.com:andygrunwald/TrendingGithub.git
 git@github.com:howdyai/botkit.git
 git@github.com:vaihtovirta/botup.git
 git@github.com:FreeCodeCamp/camperbot.git
@@ -12,9 +16,7 @@ git@github.com:jonrohan/hubot-rubygems-search.git
 git@github.com:github/hubot-scripts.git
 git@github.com:slackhq/hubot-slack.git
 git@github.com:jonrohan/hubot-slack-reactions.git
-git@github.com:aboutsajjad/IUST-FaceMash.git
 git@github.com:github/janky.git
-git@github.com:Just-Some-Bots/MusicBot.git
 git@github.com:strollkim/kakao-coin-bot.git
 git@github.com:weirdmeetup/koalabot.git
 git@github.com:jun85664396/messenger-bot-rails.git
@@ -34,7 +36,5 @@ git@github.com:irazasyed/telegram-bot-bootstrap.git
 git@github.com:irazasyed/telegram-bot-sdk.git
 git@github.com:kolar/telegram-poll-bot.git
 git@github.com:eljojo/telegram_bot.git
-git@github.com:rubenlagus/TelegramBots.git
-git@github.com:andygrunwald/TrendingGithub.git
 git@github.com:datamachine/twx.botapi.git
 git@github.com:JungWinter/yellowid-flask.git

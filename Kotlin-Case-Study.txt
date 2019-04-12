@@ -1,4 +1,5 @@
 git@github.com:JetBrains/Exposed.git
+git@github.com:hussien89aa/KotlinUdemy.git
 git@github.com:MindorksOpenSource/from-java-to-kotlin.git
 git@github.com:sdeleuze/geospatial-messenger.git
 git@github.com:JetBrains/kotlin-benchmarks.git
@@ -7,7 +8,6 @@ https://github.com/Kotlin/kotlin-frontend-plugin.git
 git@github.com:Kotlin/kotlin-fullstack-sample.git
 git@github.com:Kotlin/kotlin-in-action.git
 git@github.com:JetBrains/kotlin-web-demo.git
-git@github.com:hussien89aa/KotlinUdemy.git
 git@github.com:Kotlin/ktor.git
 git@github.com:mixitconf/mixit.git
 git@github.com:reactor/reactor-kotlin-extensions.git

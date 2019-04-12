@@ -1,8 +1,12 @@
+git@github.com:laracasts/Design-a-Fluent-API-with-TDD.git
+git@github.com:lucaminudel/TDDwithMockObjectsAndDesignPrinciples.git
+git@github.com:laracasts/TestDummy.git
+git@github.com:laracasts/Testing-Jargon.git
+git@github.com:laracasts/Testing-With-Virtual-File-Systems.git
 git@github.com:tutsplus/advanced-oop-in-php-with-tests.git
 git@github.com:angular-class/angular-testing-quick-start.git
 git@github.com:angular-class/angular-testing-quick-start-guide.git
 git@github.com:tutsplus/automated-testing-with-php.git
-git@github.com:laracasts/Design-a-Fluent-API-with-TDD.git
 git@github.com:Marak/faker.js.git
 git@github.com:adamwathan/faktory-demo.git
 git@github.com:tutsplus/javascript-unit-testing-mocha-chai-sinon.git
@@ -17,11 +21,7 @@ git@github.com:RailsApps/rails_apps_testing.git
 git@github.com:tutsplus/taming-python-with-unit-tests.git
 git@github.com:ahastudio/tdd-by-example.git
 git@github.com:orfjackal/tdd-tetris-tutorial.git
-git@github.com:lucaminudel/TDDwithMockObjectsAndDesignPrinciples.git
-git@github.com:laracasts/TestDummy.git
 git@github.com:tutsplus/testing-in-symfony2.git
-git@github.com:laracasts/Testing-Jargon.git
 git@github.com:tutsplus/testing-ruby-with-rspec3.git
-git@github.com:laracasts/Testing-With-Virtual-File-Systems.git
 git@github.com:tutsplus/unit-testing-with-swift-and-xctest.git
 git@github.com:bblimke/webmock.git

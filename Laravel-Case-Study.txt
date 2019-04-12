@@ -1,7 +1,4 @@
 git@github.com:chintanbanugaria/92five.git
-git@github.com:letrunghieu/active.git
-git@github.com:sahibalejandro/admin.git
-git@github.com:dingo/api.git
 git@github.com:AsgardCms/AdminLTE.git AsgardCms-AdminLTE
 git@github.com:AsgardCms/Block.git AsgardCms-Block
 git@github.com:AsgardCms/Blog.git AsgardCms-Blog
@@ -18,8 +15,22 @@ git@github.com:AsgardCms/Website.git AsgardCms-Website
 git@github.com:Laravel-Backpack/Base.git Backpack-Base
 git@github.com:Laravel-Backpack/CRUD.git Backpack-CRUD
 git@github.com:Laravel-Backpack/Demo.git Backpack-Demo
-git@github.com:visualplus/board.git
 git@github.com:CachetHQ/Cachet.git
+git@github.com:msurguy/Honeypot.git
+git@github.com:fideloper/Implementing-Laravel.git
+git@github.com:LaravelDaily/LaraEventTickets-QuickAdminPanel.git
+git@github.com:colindecarlo/Laraconway.git
+git@github.com:LaravelDaily/Laraexpenses-QuickAdmin.git
+git@github.com:LaravelDaily/Larancer-QuickAdmin.git
+git@github.com:LaravelDaily/Laratime-QuickAdmin.git
+git@github.com:andrewelkins/Laravel-4-Bootstrap-Starter-Site.git
+git@github.com:web-tools/Raw.git
+git@github.com:rtablada/ShortRoundSpike.git
+git@github.com:sdebacker/TypiCMS.git
+git@github.com:letrunghieu/active.git
+git@github.com:sahibalejandro/admin.git
+git@github.com:dingo/api.git
+git@github.com:visualplus/board.git
 git@bitbucket.org:sprocketweb/cms.git
 git@github.com:jusdeleon/contacts.git
 git@github.com:wardrobecms/core.git
@@ -35,9 +46,7 @@ git@github.com:flarum/core.git flarum-core
 git@github.com:laravel/framework.git
 git@github.com:brianwebb01/hexagonal-laravel-experiment.git
 git@github.com:laravel/homestead.git
-git@github.com:msurguy/Honeypot.git
 git@github.com:LaravelCollective/html.git
-git@github.com:fideloper/Implementing-Laravel.git
 git@github.com:hillelcoren/invoice-ninja.git
 git@github.com:appkr/jwt-scratchpad.git
 git@github.com:phanan/koel.git
@@ -46,14 +55,8 @@ git@github.com:machuga/l4-forums.git
 git@github.com:andersao/l5-repository.git
 git@github.com:appkr/l5essential.git
 git@github.com:laralib/l5scaffold.git
-git@github.com:colindecarlo/Laraconway.git
-git@github.com:LaravelDaily/LaraEventTickets-QuickAdminPanel.git
-git@github.com:LaravelDaily/Laraexpenses-QuickAdmin.git
-git@github.com:LaravelDaily/Larancer-QuickAdmin.git
 git@github.com:larapress-cms/larapress.git
-git@github.com:LaravelDaily/Laratime-QuickAdmin.git
 git@github.com:laravel/laravel.git
-git@github.com:andrewelkins/Laravel-4-Bootstrap-Starter-Site.git
 git@github.com:mitulgolakiya/laravel-api-generator.git
 git@github.com:yhbyun/laravel-bookmark.git
 git@github.com:davzie/laravel-bootstrap.git
@@ -91,17 +94,14 @@ git@github.com:LaravelDaily/quickadmin.git
 git@github.com:laravel/quickstart-basic.git
 git@github.com:laravel/quickstart-intermediate.git
 git@github.com:raftalks/ravel.git
-git@github.com:web-tools/Raw.git
 git@github.com:appkr/rest.git
 git@github.com:Codeception/sample-l4-app.git
 git@github.com:mattstauffer/savemyproposals.git
 git@github.com:laravel/settler.git
 git@github.com:adamgoose/sgfwebdevs.git
-git@github.com:rtablada/ShortRoundSpike.git
 git@github.com:laravel/socialite.git
 git@github.com:mattstauffer/synonym-namer.git
 git@github.com:MrJuliuss/syntara.git
-git@github.com:sdebacker/TypiCMS.git
 git@github.com:Vuedo/vuedo.git
 git@github.com:wardrobecms/wardrobe.git
 git@github.com:smartbos/xe_laravel_practice.git

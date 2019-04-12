@@ -1,5 +1,12 @@
 https://github.com/gilbutITbook/006764.git
 https://github.com/gilbutITbook/006834.git
+git@github.com:SigmaQuan/Better-Python-59-Ways.git
+git@github.com:madisonmay/CommonRegex.git
+git@github.com:samuelclay/NewsBlur.git
+git@github.com:andrewlouis93/Office-Scripts.git
+git@github.com:TheAlgorithms/Python.git
+git@github.com:AllenDowney/ThinkStats2.git
+git@github.com:zopefoundation/Zope.git
 git@github.com:mewwts/addict.git
 git@github.com:KeepSafe/aiohttp.git
 git@github.com:zzzeek/alembic.git
@@ -8,7 +15,6 @@ https://github.com/rory/apache-log-parser.git
 git@github.com:kennethreitz/autoenv.git
 git@github.com:openstack/barbican.git
 git@github.com:reddit/baseplate.git
-git@github.com:SigmaQuan/Better-Python-59-Ways.git
 git@github.com:mahmoud/boltons.git
 git@github.com:realpython/book1-exercises.git
 git@github.com:realpython/book2-exercises.git
@@ -24,7 +30,6 @@ git@github.com:ckan/ckan.git
 git@github.com:mitsuhiko/cli-tools.git
 git@github.com:mitsuhiko/click.git
 git@github.com:kennethreitz/clint.git
-git@github.com:madisonmay/CommonRegex.git
 git@github.com:pythonkr/conference-record-scripts.git
 git@github.com:AndreaCensi/contracts.git
 git@github.com:telefonicaid/di-py.git
@@ -54,10 +59,9 @@ git@github.com:JukkaL/mypy.git
 git@github.com:onefinestay/nameko.git
 https://github.com/SethMMorton/natsort.git
 git@github.com:networkx/networkx.git
-git@github.com:samuelclay/NewsBlur.git
 git@github.com:nltk/nltk.git
 https://github.com/Kyubyong/numpy_exercises.git
-git@github.com:andrewlouis93/Office-Scripts.git
+git@github.com:shlee322/opencampus.git
 git@github.com:pydata/pandas.git
 git@github.com:hanpama/peppertext.git
 git@github.com:mitsuhiko/platter.git
@@ -68,7 +72,6 @@ git@github.com:web2py/pydal.git
 git@github.com:perhapsspy/pylog.git
 git@github.com:Pylons/pyramid.git
 git@github.com:mingrammer/pyreportcard.git
-git@github.com:TheAlgorithms/Python.git
 git@github.com:kennethreitz/python-guide.git
 git@github.com:mitsuhiko/python-modernize.git
 git@github.com:mitsuhiko/python-regex-scanner.git
@@ -89,7 +92,6 @@ git@bitbucket.org:zzzeek/sqlalchemy.git
 git@github.com:realpython/stack-spider.git
 git@github.com:nylas/sync-engine.git
 git@github.com:kennethreitz/tablib.git
-git@github.com:AllenDowney/ThinkStats2.git
 git@github.com:pytoolz/toolz.git
 git@github.com:tornadoweb/tornado.git
 git@github.com:twisted/twisted.git
@@ -102,4 +104,3 @@ git@github.com:Suor/whatever.git
 git@github.com:ogt/workdays.git
 git@github.com:w3c/wpt-tools.git
 git@github.com:mistydemeo/xenoglossia.git
-git@github.com:zopefoundation/Zope.git

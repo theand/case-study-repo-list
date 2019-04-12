@@ -1,14 +1,17 @@
+git@github.com:AndrewVos/today-i-learned.git AndrewVos-til
+git@github.com:FakeSloth/til.git FakeSloth-til
+git@github.com:Fool-Stack-Rangers/til.git Fool-Stack-Rangers-til
+git@github.com:Legoben/Today-I-Learned.git Legoben-Today-I-Learned
+git@github.com:JoMingyu/TIL-Python.git
 git@github.com:ahastudio/til.git ahastudio-til
 git@github.com:altmetric/til.git altmetric-til
-git@github.com:AndrewVos/today-i-learned.git AndrewVos-til
+
 https://github.com/cg4jins/TIL.git cg4jins-TIL
 git@github.com:devsejong/TIL.git devsejong-TIL
 git@github.com:dezitter/til.git dezitter-til
 git@github.com:elpassion/til.git elpassion-til
 git@github.com:envylabs/til.git envylabs-til
 git@github.com:erfannoury/TIL.git erfannoury-TIL
-git@github.com:FakeSloth/til.git FakeSloth-til
-git@github.com:Fool-Stack-Rangers/til.git Fool-Stack-Rangers-til
 git@github.com:geteloquent/til.git geteloquent-til
 git@github.com:holycrap872/til.git holycrap872-til
 git@github.com:hashrocket/hr-til.git
@@ -20,10 +23,8 @@ git@github.com:justincampbell/til.git justincampbell-til
 git@github.com:koojunho/til.git koojunho-til
 git@github.com:leandog/til.git leandog-til
 git@github.com:legelisten/til.git legelisten-til
-git@github.com:Legoben/Today-I-Learned.git Legoben-Today-I-Learned
 git@github.com:milooy/TIL.git milooy-TIL
 git@github.com:moschan/til.git moschan-til
-git@github.com:MotelIs/til.git MotelIs-til
 git@github.com:netguru/til.git netguru-til
 git@github.com:rbreve/TIL.git rbreve-TIL
 git@github.com:rstacruz/til.git rstacruz-til
@@ -31,5 +32,4 @@ git@github.com:rubytaiwan/til.git rubytaiwan-til
 git@github.com:shuhrat/til.git shuhrat-til
 git@github.com:stamm/til.git stamm-til
 git@github.com:thoughtbot/til.git thoughtbot-til
-git@github.com:JoMingyu/TIL-Python.git
 git@github.com:wonism/TIL.git wonism-TIL

@@ -1,10 +1,11 @@
-https://github.com/eunmin/church-numerals.git
 git@github.com:laracasts/Code-Katas-in-PHP.git
 git@github.com:lucaminudel/CodingTestsAndSolutions.git
 git@github.com:EnterpriseQualityCoding/FizzBuzzEnterpriseEdition.git
 git@github.com:laracasts/Gilded-Rose-Kata-in-PHP.git
-git@github.com:csujedihy/lc-all-solutions.git
 git@github.com:rorlakr/Playground.git
+https://github.com/eunmin/church-numerals.git
+git@github.com:blakeembrey/code-problems.git
+git@github.com:csujedihy/lc-all-solutions.git
 git@github.com:norvig/pytudes.git
 git@github.com:andersjanmyr/roman-numerals-kata.git
 git@github.com:ShawnMcCool/tdd-kata.git

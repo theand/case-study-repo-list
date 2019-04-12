@@ -1,3 +1,4 @@
+git@github.com:danielmcgraw/Jekyll-Base.git
 git@github.com:a11yproject/a11yproject.com.git
 git@github.com:danielgtaylor/aglio.git
 git@github.com:trek/beautiful-open.git
@@ -21,7 +22,6 @@ git@github.com:hexojs/hexo-webui.git
 git@github.com:hexojs/hexojs.github.io.git
 git@github.com:poole/hyde.git
 git@github.com:jekyll/jekyll.git
-git@github.com:danielmcgraw/Jekyll-Base.git
 git@github.com:necolas/jekyll-boilerplate.git
 git@github.com:mdo/jekyll-example.git
 https://github.com/planetjekyll/jekyll-minimal-theme
