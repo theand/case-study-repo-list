@@ -39,6 +39,7 @@ PHP-Case-Study
 Python-Case-Study
 Rails-Case-Study
 React-Case-Study
+RealWorld-Case-Study
 Ruby-Case-Study
 Security-Case-Study
 Server-Case-Study
@@ -48,7 +49,7 @@ SpringGuides-Case-Study
 StaticSite-Case-Study
 TDD-Case-Study
 TIL
-TodoXXX-Case-Study
+TodoMVC-Case-Study
 TutsPlus-Resources
 TypeScript-Case-Study
 UserScript-Case-Study
