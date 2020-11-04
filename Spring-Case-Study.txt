@@ -44,6 +44,7 @@ git@github.com:qwefgh90/document-repository-web.git
 git@github.com:making/echo.git
 git@github.com:cer/event-sourcing-examples.git
 git@github.com:FabienLauf/expedia-backendtest.git
+git@github.com:ahastudio/fastcampus-eatgo.git
 git@github.com:gregturn/flights.git
 https://github.com/bwajtr/fluent-spring-jdbctemplate.git
 git@github.com:joshlong/flux-flix-service.git
@@ -98,6 +99,8 @@ git@github.com:decebals/pippo.git
 git@github.com:decebals/pippo-demo.git
 git@github.com:spring-io/platform.git
 git@github.com:lanyonm/playground.git
+git@github.com:pksanthoshkumar/poc.git
+git@github.com:csj4032/primavera.git
 git@github.com:ihoneymon/project-word-management.git
 git@github.com:samer-abdelkafi/project4example8.git
 git@github.com:Yongdae-Kim/quartz_study.git
@@ -162,6 +165,7 @@ git@github.com:spring-projects/spring-data-keyvalue-examples.git
 https://github.com/spring-projects/spring-data-redis.git
 git@github.com:arawn/spring-examples.git
 git@github.com:spring-projects/spring-framework.git
+git@github.com:spring-projects-experimental/spring-fu.git
 git@github.com:spring-projects/spring-integration-samples.git
 git@github.com:making/spring-lottery.git
 git@github.com:spring-projects/spring-mobile-samples.git
@@ -209,6 +213,7 @@ git@github.com:kiranreddykasa/springrest-angularjs.git
 git@github.com:samer-abdelkafi/ssng-project.git
 git@github.com:ihoneymon/study-orm-jpa.git
 git@github.com:arawn/swagger-spring-mvc-showcase.git
+git@github.com:thingsboard/thingsboard.git
 git@github.com:making/thrift-server.git
 git@github.com:thymeleaf/thymeleafexamples-gtvg.git
 git@github.com:thymeleaf/thymeleafexamples-stsm.git

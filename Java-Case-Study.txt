@@ -55,6 +55,7 @@ https://github.com/csj4032/enjoy-java8.git
 git@github.com:essentials4j/essentials4j.git
 git@github.com:ratpack/example-books.git
 git@github.com:jhalterman/failsafe.git
+git@github.com:google/flogger.git
 git@github.com:eirslett/frontend-maven-plugin.git
 git@github.com:smola/galimatias.git
 git@github.com:GoogleCloudPlatform/gcloud-java-examples.git
@@ -102,6 +103,7 @@ https://github.com/optimaize/language-detector.git
 git@github.com:visualkhh/lib-java.git
 git@github.com:ocpsoft/logging.git
 git@github.com:logsniffer/logsniffer.git
+git@github.com:ayonious/lombok-examples.git
 git@github.com:making/marked4j.git
 git@github.com:DimitrisAndreou/memory-measurer.git
 git@github.com:Kevin-Lee/modern-java-untold.git

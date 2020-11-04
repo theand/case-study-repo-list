@@ -1,6 +1,7 @@
 https://github.com/ku/CreateLink.git
 git@github.com:au5ton/DirectLinks.git
 git@github.com:sionide21/Insert-jQuery.git
+git@github.com:ucyang/NaverCafeFreePass.git
 git@github.com:Rezaaa/Prello-Chrome-Extension.git
 https://github.com/mhewedy/SBO-video-extension.git
 git@github.com:Shaddix/TrelloChromeExtension.git

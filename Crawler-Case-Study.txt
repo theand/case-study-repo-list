@@ -67,3 +67,4 @@ https://github.com/vassyz/egghead-downloader.git
 git@github.com:robdelacruz/web-instagram-dl.git
 https://github.com/domenic/worm-scraper.git
 git@github.com:rg3/youtube-dl.git
+git@github.com:blackjack4494/yt-dlc.git
